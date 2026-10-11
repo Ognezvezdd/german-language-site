@@ -59,13 +59,23 @@ export type GrammarExercise = {
   explanation: string
 }
 
+export type GrammarTable = {
+  title?: string
+  headers: string[]
+  rows: string[][]
+  note?: string
+}
+
 export type GrammarTopic = {
   id: string
   level: Level
   title: string
   subtitle: string
   summary: string
+  formula?: string
   rules: string[]
+  tips?: string[]
+  tables?: GrammarTable[]
   examples: { de: string; ru: string }[]
   exercises: GrammarExercise[]
 }

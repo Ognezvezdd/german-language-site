@@ -76,13 +76,21 @@ export function StudyPage({ store }: { store: LearningStore }) {
         <Card className="min-h-[480px] overflow-hidden p-5 sm:min-h-[520px] sm:p-8">
           <div key={current.id} className="flex min-h-[430px] flex-col animate-card-in sm:min-h-[456px]">
             <div className="flex items-center justify-between gap-3"><div className="flex gap-2"><Badge tone="blue">{current.level}</Badge><Badge>{current.partOfSpeech}</Badge><Badge>№ {current.rank > 9999 ? 'моё' : current.rank}</Badge></div><button onClick={() => speak(current.lemma)} className="grid h-11 w-11 place-items-center rounded-2xl border border-line text-muted hover:text-ink" aria-label="Озвучить"><Speaker size={19} /></button></div>
-            <div className={`flex flex-1 flex-col justify-center ${revealed ? 'py-6' : 'py-14'}`}>
+            <div className={`flex flex-1 flex-col justify-center ${revealed ? 'py-6' : 'py-10'}`}>
               <h2 className="text-center font-display text-5xl font-semibold tracking-[-.025em] sm:text-6xl">{cardLabel(current)}</h2>
-              {!revealed && <p className="mt-5 text-center text-sm text-muted">Вспомни перевод и пример</p>}
+              <div className="mt-7 rounded-2xl bg-paper p-4 sm:p-5">
+                <div className="flex items-start justify-between gap-3">
+                  <div>
+                    <p className="font-display text-xl leading-relaxed sm:text-2xl">{current.example}</p>
+                    {revealed && <p className="mt-2 animate-slide-up text-sm leading-6 text-muted">{current.exampleTranslation}</p>}
+                  </div>
+                  <button onClick={() => speak(current.example)} className="grid h-10 w-10 shrink-0 place-items-center rounded-xl border border-line text-muted hover:text-ink" aria-label="Озвучить пример"><Speaker size={17} /></button>
+                </div>
+              </div>
+              {!revealed && <p className="mt-5 text-center text-sm text-muted">Попробуй понять слово по контексту</p>}
               {revealed && <div className="mt-8 animate-slide-up">
                 <div className="h-px bg-line" />
                 <p className="mt-7 text-center text-2xl font-bold sm:text-3xl">{current.translation}</p>
-                <div className="mt-7 rounded-2xl bg-paper p-4 sm:p-5"><div className="flex items-start justify-between gap-3"><div><p className="font-display text-xl leading-relaxed sm:text-2xl">{current.example}</p><p className="mt-2 text-sm leading-6 text-muted">{current.exampleTranslation}</p></div><button onClick={() => speak(current.example)} className="grid h-10 w-10 shrink-0 place-items-center rounded-xl border border-line text-muted hover:text-ink"><Speaker size={17} /></button></div></div>
                 {current.forms && <p className="mt-5 text-center text-sm text-muted"><span className="mr-2 font-semibold uppercase tracking-wide">Формы</span>{current.forms}</p>}
               </div>}
             </div>
