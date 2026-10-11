@@ -130,6 +130,8 @@ VITE_APPWRITE_WORDS_COLLECTION_ID=shared_words
 
 Workflow `.github/workflows/deploy.yml` собирает приложение после каждого push в `main` и публикует `dist`.
 
+Перед первым запуском один раз откройте **Settings → Pages → Build and deployment** и выберите **Source: GitHub Actions**. Обычный workflow-токен не имеет права впервые включить Pages за владельца репозитория.
+
 В репозитории GitHub добавьте те же пять значений в **Settings → Secrets and variables → Actions → Variables**. Это публичные клиентские настройки, не секретные ключи.
 
 После первого успешного workflow сайт будет доступен по адресу:
