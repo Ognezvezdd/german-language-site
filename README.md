@@ -63,20 +63,18 @@ bezahlen | оплачивать | глаг. | A1 | Kann ich mit Karte bezahlen? 
 pnpm generate:words
 ```
 
-## Подключение проекта Appwrite «German lang site»
+## Appwrite-проект «German lang site»
 
 API key фронтенду **не нужен и не должен храниться в репозитории**. Нужны только публичные endpoint и ID ресурсов.
 
-### 1. Web platforms
+Проект уже настроен для этого приложения:
 
-В Appwrite Console откройте проект → **Overview → Add platform → Web** и добавьте:
+- Project ID: `6acba5e3001fdd4d307d`;
+- endpoint: `https://fra.cloud.appwrite.io/v1`;
+- database ID: `klar_deutsch`;
+- Web platforms: `localhost` и `ognezvezdd.github.io`.
 
-- `localhost` для разработки;
-- `ognezvezdd.github.io` для GitHub Pages.
-
-### 2. База и коллекции
-
-Создайте DocumentsDB database, например `klar_deutsch`, и две коллекции.
+В DocumentsDB созданы две коллекции.
 
 #### `learning_state`
 
@@ -112,14 +110,14 @@ API key фронтенду **не нужен и не должен хранить
 
 Созданные через приложение слова получают публичное чтение, но изменять или удалять их может только автор.
 
-### 3. Переменные окружения
+### Переменные окружения
 
-Скопируйте `.env.example` в `.env.local` и заполните:
+Публичная production-конфигурация хранится в `.env.production` и используется GitHub Actions автоматически. Для другого Appwrite-проекта скопируйте `.env.example` в `.env.local` и замените значения:
 
 ```dotenv
 VITE_APPWRITE_ENDPOINT=https://<REGION>.cloud.appwrite.io/v1
-VITE_APPWRITE_PROJECT_ID=<PROJECT_ID>
-VITE_APPWRITE_DATABASE_ID=<DATABASE_ID>
+VITE_APPWRITE_PROJECT_ID=6acba5e3001fdd4d307d
+VITE_APPWRITE_DATABASE_ID=klar_deutsch
 VITE_APPWRITE_STATE_COLLECTION_ID=learning_state
 VITE_APPWRITE_WORDS_COLLECTION_ID=shared_words
 ```
@@ -131,8 +129,6 @@ VITE_APPWRITE_WORDS_COLLECTION_ID=shared_words
 Workflow `.github/workflows/deploy.yml` собирает приложение после каждого push в `main` и публикует `dist`.
 
 Перед первым запуском один раз откройте **Settings → Pages → Build and deployment** и выберите **Source: GitHub Actions**. Обычный workflow-токен не имеет права впервые включить Pages за владельца репозитория.
-
-В репозитории GitHub добавьте те же пять значений в **Settings → Secrets and variables → Actions → Variables**. Это публичные клиентские настройки, не секретные ключи.
 
 После первого успешного workflow сайт будет доступен по адресу:
 
