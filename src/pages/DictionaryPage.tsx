@@ -28,7 +28,7 @@ function parseRawWord(raw: string) {
 
 function createWord(fields: string[]): Word | null {
   const [raw, translation, partOfSpeech = 'прочее', level = 'A1', example = '', exampleTranslation = '', forms = ''] = fields.map((item) => item.trim())
-  if (!raw || !translation) return null
+  if (!raw || !translation || !example || !exampleTranslation) return null
   const parsed = parseRawWord(raw)
   const id = `custom-${typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`}`
   return {
@@ -42,8 +42,8 @@ function createWord(fields: string[]): Word | null {
     translation,
     level: (['A1', 'A2', 'B1'].includes(level.toUpperCase()) ? level.toUpperCase() : 'A1') as Level,
     category: 'Мои слова',
-    example: example || `„${parsed.lemma}“ ist ein nützliches Wort.`,
-    exampleTranslation: exampleTranslation || `«${parsed.lemma}» — полезное слово.`,
+    example,
+    exampleTranslation,
     ...(forms ? { forms } : {}),
     custom: true,
   }
@@ -68,6 +68,7 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
   const [addMode, setAddMode] = useState<'manual' | 'import'>('import')
   const [notice, setNotice] = useState('')
   const [importText, setImportText] = useState('')
+  const [importError, setImportError] = useState('')
   const [manual, setManual] = useState({ raw: '', translation: '', part: 'сущ.', level: 'A1', example: '', exampleTranslation: '', forms: '' })
 
   const filtered = useMemo(() => {
@@ -81,26 +82,35 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
     }).sort((a, b) => sort === 'rank' ? a.rank - b.rank : a.lemma.localeCompare(b.lemma, 'de'))
   }, [words, search, level, part, article, sort])
 
-  async function addWords(nextWords: Word[]) {
+  async function addWords(nextWords: Word[], skipped = 0) {
     if (!nextWords.length) return
+    const skippedText = skipped > 0 ? ` Строк пропущено без полного примера: ${skipped}.` : ''
     setState((current) => ({ ...current, customWords: [...nextWords, ...current.customWords] }))
     if (user && appwriteConfigured) {
       try {
         await publishSharedWords(user.$id, nextWords)
-        setNotice(`Добавлено ${nextWords.length}. Слова опубликованы в общей базе.`)
+        setNotice(`Добавлено ${nextWords.length}. Слова опубликованы в общей базе.${skippedText}`)
       } catch {
-        setNotice(`Добавлено ${nextWords.length} локально. Публикация в Appwrite не удалась.`)
+        setNotice(`Добавлено ${nextWords.length} локально. Публикация в Appwrite не удалась.${skippedText}`)
       }
     } else {
-      setNotice(`Добавлено ${nextWords.length} локально. Войдите в аккаунт, чтобы опубликовать их для всех.`)
+      setNotice(`Добавлено ${nextWords.length} локально. Войдите в аккаунт, чтобы опубликовать их для всех.${skippedText}`)
     }
     setAddOpen(false)
     setImportText('')
+    setImportError('')
   }
 
   function handleImport() {
-    const imported = importText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean).map((line) => createWord(line.split('|'))).filter((word): word is Word => Boolean(word))
-    void addWords(imported)
+    const lines = importText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)
+    const imported = lines.map((line) => createWord(line.split('|'))).filter((word): word is Word => Boolean(word))
+    const skipped = lines.length - imported.length
+    if (!imported.length) {
+      setImportError('Для каждой строки нужны слово, перевод, пример и перевод примера.')
+      return
+    }
+    setImportError('')
+    void addWords(imported, skipped)
   }
 
   function handleManual() {
@@ -157,8 +167,9 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
       <Modal open={addOpen} title="Добавить слова" onClose={() => setAddOpen(false)} wide>
         <div className="mb-5 flex gap-2"><Chip active={addMode === 'import'} onClick={() => setAddMode('import')}><Upload size={15} className="mr-1.5 inline" />Массовый импорт</Chip><Chip active={addMode === 'manual'} onClick={() => setAddMode('manual')}><BookPlus size={15} className="mr-1.5 inline" />Одно слово</Chip></div>
         {addMode === 'import' ? <div className="space-y-5">
-          <div className="rounded-2xl bg-paper p-4 text-xs leading-6 text-muted"><p className="font-semibold text-ink">Одна строка — одно слово. Поля разделяйте символом |</p><code className="mt-2 block overflow-x-auto whitespace-nowrap text-[11px]">die Zeit, -en | время | сущ. | A1 | Hast du jetzt Zeit? | У тебя сейчас есть время? |</code><p className="mt-2">Обязательны только слово и перевод. Артикль и форма множественного числа указываются в первом поле.</p></div>
-          <Field label="Список слов"><textarea value={importText} onChange={(event) => setImportText(event.target.value)} className={`${textareaClass} min-h-52 font-mono text-xs`} placeholder={'der Termin, -e | приём, назначенная встреча | сущ. | A2 | Ich habe morgen einen Termin. | Завтра у меня назначена встреча.\nbezahlen | оплачивать | глаг. | A1 | Kann ich mit Karte bezahlen? | Можно оплатить картой?'} /></Field>
+          <div className="rounded-2xl bg-paper p-4 text-xs leading-6 text-muted"><p className="font-semibold text-ink">Одна строка — одно слово. Поля разделяйте символом |</p><code className="mt-2 block overflow-x-auto whitespace-nowrap text-[11px]">die Zeit, -en | время | сущ. | A1 | Hast du jetzt Zeit? | У тебя сейчас есть время? |</code><p className="mt-2">Обязательны слово, перевод, живой пример и перевод примера. Артикль и форма множественного числа указываются в первом поле.</p></div>
+          <Field label="Список слов"><textarea value={importText} onChange={(event) => { setImportText(event.target.value); setImportError('') }} className={`${textareaClass} min-h-52 font-mono text-xs`} placeholder={'der Termin, -e | приём, назначенная встреча | сущ. | A2 | Ich habe morgen einen Termin. | Завтра у меня назначена встреча.\nbezahlen | оплачивать | глаг. | A1 | Kann ich mit Karte bezahlen? | Можно оплатить картой?'} /></Field>
+          {importError && <p className="rounded-xl bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950/35 dark:text-red-300">{importError}</p>}
           <div className="flex flex-col-reverse gap-2 sm:flex-row sm:justify-end"><Button variant="secondary" onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={!importText.trim()} onClick={handleImport}><Download size={17} />Импортировать</Button></div>
         </div> : <div className="grid gap-4 sm:grid-cols-2">
           <Field label="Слово" hint="Для существительного: die Zeit, -en"><input className={inputClass} value={manual.raw} onChange={(event) => setManual({ ...manual, raw: event.target.value })} placeholder="die Zeit, -en" /></Field>
@@ -168,7 +179,7 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
           <Field label="Пример"><input className={inputClass} value={manual.example} onChange={(event) => setManual({ ...manual, example: event.target.value })} placeholder="Hast du jetzt Zeit?" /></Field>
           <Field label="Перевод примера"><input className={inputClass} value={manual.exampleTranslation} onChange={(event) => setManual({ ...manual, exampleTranslation: event.target.value })} placeholder="У тебя сейчас есть время?" /></Field>
           <div className="sm:col-span-2"><Field label="Формы (необязательно)" hint="Например: fahren · fuhr · ist gefahren"><input className={inputClass} value={manual.forms} onChange={(event) => setManual({ ...manual, forms: event.target.value })} /></Field></div>
-          <div className="flex flex-col-reverse gap-2 pt-2 sm:col-span-2 sm:flex-row sm:justify-end"><Button variant="secondary" onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={!manual.raw.trim() || !manual.translation.trim()} onClick={handleManual}>Добавить слово</Button></div>
+          <div className="flex flex-col-reverse gap-2 pt-2 sm:col-span-2 sm:flex-row sm:justify-end"><Button variant="secondary" onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={!manual.raw.trim() || !manual.translation.trim() || !manual.example.trim() || !manual.exampleTranslation.trim()} onClick={handleManual}>Добавить слово</Button></div>
         </div>}
       </Modal>
     </div>

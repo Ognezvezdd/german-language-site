@@ -195,8 +195,8 @@ export const baseWords: Word[] = [
     "translation": "давать",
     "level": "A1",
     "category": "Основы",
-    "example": "Gibt es hier einen Supermarkt?",
-    "exampleTranslation": "Здесь есть супермаркет?",
+    "example": "Gibst du mir bitte das Salz?",
+    "exampleTranslation": "Передашь мне, пожалуйста, соль?",
     "forms": "geben · gab · hat gegeben"
   },
   {
@@ -294,8 +294,8 @@ export const baseWords: Word[] = [
     "translation": "весь, целый",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Aufgabe ist ganz einfach.",
-    "exampleTranslation": "Задание довольно простое."
+    "example": "Ich war den ganzen Tag unterwegs.",
+    "exampleTranslation": "Я весь день был в разъездах."
   },
   {
     "id": "base-025",
@@ -381,8 +381,8 @@ export const baseWords: Word[] = [
     "translation": "больше",
     "level": "A1",
     "category": "Основы",
-    "example": "„mehr“ hört man oft im Alltag.",
-    "exampleTranslation": "«mehr» часто можно услышать в повседневной речи."
+    "example": "Ich möchte mehr Deutsch sprechen.",
+    "exampleTranslation": "Я хочу больше говорить по-немецки."
   },
   {
     "id": "base-032",
@@ -394,8 +394,8 @@ export const baseWords: Word[] = [
     "translation": "никакой, ни один",
     "level": "A1",
     "category": "Еда",
-    "example": "„kein“ hört man oft im Alltag.",
-    "exampleTranslation": "«kein» часто можно услышать в повседневной речи."
+    "example": "Heute habe ich keine Termine.",
+    "exampleTranslation": "Сегодня у меня нет назначенных встреч."
   },
   {
     "id": "base-033",
@@ -419,8 +419,8 @@ export const baseWords: Word[] = [
     "translation": "простой",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich einfach.",
-    "exampleTranslation": "Это действительно простой."
+    "example": "Die Aufgabe ist einfacher als gedacht.",
+    "exampleTranslation": "Задание проще, чем казалось."
   },
   {
     "id": "base-035",
@@ -444,8 +444,8 @@ export const baseWords: Word[] = [
     "translation": "находить",
     "level": "A1",
     "category": "Основы",
-    "example": "Wie findest du die Wohnung?",
-    "exampleTranslation": "Как тебе квартира?",
+    "example": "Ich kann meinen Schlüssel nicht finden.",
+    "exampleTranslation": "Я не могу найти свой ключ.",
     "forms": "finden · fand · hat gefunden"
   },
   {
@@ -457,8 +457,8 @@ export const baseWords: Word[] = [
     "translation": "снова",
     "level": "A1",
     "category": "Основы",
-    "example": "„wieder“ hört man oft im Alltag.",
-    "exampleTranslation": "«wieder» часто можно услышать в повседневной речи."
+    "example": "Schön, dich wiederzusehen!",
+    "exampleTranslation": "Рад снова тебя видеть!"
   },
   {
     "id": "base-038",
@@ -469,8 +469,8 @@ export const baseWords: Word[] = [
     "translation": "безличное «люди, кто-то»",
     "level": "A1",
     "category": "Основы",
-    "example": "„man“ hört man oft im Alltag.",
-    "exampleTranslation": "«man» часто можно услышать в повседневной речи."
+    "example": "Hier darf man nicht rauchen.",
+    "exampleTranslation": "Здесь нельзя курить."
   },
   {
     "id": "base-039",
@@ -481,8 +481,8 @@ export const baseWords: Word[] = [
     "translation": "однако, всё же",
     "level": "A1",
     "category": "Основы",
-    "example": "„doch“ hört man oft im Alltag.",
-    "exampleTranslation": "«doch» часто можно услышать в повседневной речи."
+    "example": "Komm doch heute Abend vorbei!",
+    "exampleTranslation": "Заходи всё-таки сегодня вечером!"
   },
   {
     "id": "base-040",
@@ -505,8 +505,8 @@ export const baseWords: Word[] = [
     "translation": "сегодня",
     "level": "A1",
     "category": "Время",
-    "example": "„heute“ hört man oft im Alltag.",
-    "exampleTranslation": "«heute» часто можно услышать в повседневной речи."
+    "example": "Heute arbeite ich von zu Hause.",
+    "exampleTranslation": "Сегодня я работаю из дома."
   },
   {
     "id": "base-042",
@@ -519,8 +519,8 @@ export const baseWords: Word[] = [
     "translation": "день",
     "level": "A1",
     "category": "Время",
-    "example": "Der Tag ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: день."
+    "example": "Der Tag beginnt mit einem Kaffee.",
+    "exampleTranslation": "День начинается с чашки кофе."
   },
   {
     "id": "base-043",
@@ -531,8 +531,8 @@ export const baseWords: Word[] = [
     "translation": "точный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich genau.",
-    "exampleTranslation": "Это действительно точный."
+    "example": "Die Adresse stimmt nicht genau.",
+    "exampleTranslation": "Адрес указан не совсем точно."
   },
   {
     "id": "base-044",
@@ -543,8 +543,8 @@ export const baseWords: Word[] = [
     "translation": "должен (по требованию)",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute sollen.",
-    "exampleTranslation": "Сегодня мы хотим: должен (по требованию)."
+    "example": "Du sollst mehr Wasser trinken.",
+    "exampleTranslation": "Тебе следует пить больше воды."
   },
   {
     "id": "base-045",
@@ -555,8 +555,8 @@ export const baseWords: Word[] = [
     "translation": "большой",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich groß.",
-    "exampleTranslation": "Это действительно большой."
+    "example": "Berlin ist eine große Stadt.",
+    "exampleTranslation": "Берлин — большой город."
   },
   {
     "id": "base-046",
@@ -568,8 +568,8 @@ export const baseWords: Word[] = [
     "translation": "другой",
     "level": "A1",
     "category": "Основы",
-    "example": "„andere (r“ hört man oft im Alltag.",
-    "exampleTranslation": "«andere (r» часто можно услышать в повседневной речи."
+    "example": "Ich nehme einen anderen Bus.",
+    "exampleTranslation": "Я поеду на другом автобусе."
   },
   {
     "id": "base-047",
@@ -580,8 +580,8 @@ export const baseWords: Word[] = [
     "translation": "маленький",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich klein.",
-    "exampleTranslation": "Это действительно маленький."
+    "example": "Wir wohnen in einer kleinen Wohnung.",
+    "exampleTranslation": "Мы живём в небольшой квартире."
   },
   {
     "id": "base-048",
@@ -594,8 +594,8 @@ export const baseWords: Word[] = [
     "translation": "год",
     "level": "A1",
     "category": "Время",
-    "example": "Das Jahr ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: год."
+    "example": "Dieses Jahr lerne ich Deutsch.",
+    "exampleTranslation": "В этом году я учу немецкий."
   },
   {
     "id": "base-049",
@@ -606,8 +606,8 @@ export const baseWords: Word[] = [
     "translation": "прекрасный, приятный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich schön.",
-    "exampleTranslation": "Это действительно прекрасный, приятный."
+    "example": "Der Park ist im Frühling besonders schön.",
+    "exampleTranslation": "Весной парк особенно красив."
   },
   {
     "id": "base-050",
@@ -619,8 +619,8 @@ export const baseWords: Word[] = [
     "translation": "много",
     "level": "A1",
     "category": "Основы",
-    "example": "Heute habe ich viel zu tun.",
-    "exampleTranslation": "Сегодня у меня много дел."
+    "example": "Viele Menschen fahren mit dem Fahrrad.",
+    "exampleTranslation": "Многие люди ездят на велосипеде."
   },
   {
     "id": "base-051",
@@ -633,8 +633,8 @@ export const baseWords: Word[] = [
     "translation": "время",
     "level": "A1",
     "category": "Еда",
-    "example": "Die Zeit ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: время."
+    "example": "Hast du morgen Zeit?",
+    "exampleTranslation": "У тебя завтра есть время?"
   },
   {
     "id": "base-052",
@@ -647,8 +647,8 @@ export const baseWords: Word[] = [
     "translation": "человек",
     "level": "A1",
     "category": "Люди",
-    "example": "Der Mensch ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: человек."
+    "example": "Jeder Mensch macht manchmal Fehler.",
+    "exampleTranslation": "Каждый человек иногда совершает ошибки."
   },
   {
     "id": "base-053",
@@ -659,8 +659,8 @@ export const baseWords: Word[] = [
     "translation": "верить (кому-л.)",
     "level": "A1",
     "category": "Основы",
-    "example": "Ich glaube, das ist richtig.",
-    "exampleTranslation": "Думаю, это правильно."
+    "example": "Ich glaube dir.",
+    "exampleTranslation": "Я тебе верю."
   },
   {
     "id": "base-054",
@@ -684,8 +684,8 @@ export const baseWords: Word[] = [
     "translation": "действительно, правда",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich wirklich.",
-    "exampleTranslation": "Это действительно действительно, правда."
+    "example": "Ist das wirklich wahr?",
+    "exampleTranslation": "Это действительно правда?"
   },
   {
     "id": "base-056",
@@ -696,8 +696,8 @@ export const baseWords: Word[] = [
     "translation": "новый",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich neu.",
-    "exampleTranslation": "Это действительно новый."
+    "example": "Mein Handy ist noch ganz neu.",
+    "exampleTranslation": "Мой телефон ещё совсем новый."
   },
   {
     "id": "base-057",
@@ -720,8 +720,8 @@ export const baseWords: Word[] = [
     "translation": "ничего",
     "level": "A1",
     "category": "Основы",
-    "example": "„nichts“ hört man oft im Alltag.",
-    "exampleTranslation": "«nichts» часто можно услышать в повседневной речи."
+    "example": "Heute möchte ich nichts kochen.",
+    "exampleTranslation": "Сегодня я не хочу ничего готовить."
   },
   {
     "id": "base-059",
@@ -732,8 +732,8 @@ export const baseWords: Word[] = [
     "translation": "длинный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich lang.",
-    "exampleTranslation": "Это действительно длинный."
+    "example": "Der Film dauert ziemlich lang.",
+    "exampleTranslation": "Фильм длится довольно долго."
   },
   {
     "id": "base-060",
@@ -744,8 +744,8 @@ export const baseWords: Word[] = [
     "translation": "конечно",
     "level": "A1",
     "category": "Дом",
-    "example": "Das ist wirklich natürlich.",
-    "exampleTranslation": "Это действительно конечно."
+    "example": "Natürlich helfe ich dir.",
+    "exampleTranslation": "Конечно, я тебе помогу."
   },
   {
     "id": "base-061",
@@ -756,8 +756,8 @@ export const baseWords: Word[] = [
     "translation": "немного, чуть-чуть",
     "level": "A1",
     "category": "Основы",
-    "example": "„bisschen“ hört man oft im Alltag.",
-    "exampleTranslation": "«bisschen» часто можно услышать в повседневной речи."
+    "example": "Ich spreche nur ein bisschen Deutsch.",
+    "exampleTranslation": "Я говорю по-немецки совсем немного."
   },
   {
     "id": "base-062",
@@ -768,8 +768,8 @@ export const baseWords: Word[] = [
     "translation": "далёкий, далеко",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich weit.",
-    "exampleTranslation": "Это действительно далёкий, далеко."
+    "example": "Ist der Bahnhof weit von hier?",
+    "exampleTranslation": "Вокзал далеко отсюда?"
   },
   {
     "id": "base-063",
@@ -780,8 +780,8 @@ export const baseWords: Word[] = [
     "translation": "слушать; слышать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute hören.",
-    "exampleTranslation": "Сегодня мы хотим: слушать; слышать."
+    "example": "Ich höre gern Musik.",
+    "exampleTranslation": "Я люблю слушать музыку."
   },
   {
     "id": "base-064",
@@ -792,8 +792,8 @@ export const baseWords: Word[] = [
     "translation": "что-то, что-нибудь",
     "level": "A1",
     "category": "Основы",
-    "example": "„etwas“ hört man oft im Alltag.",
-    "exampleTranslation": "«etwas» часто можно услышать в повседневной речи."
+    "example": "Möchtest du etwas trinken?",
+    "exampleTranslation": "Хочешь что-нибудь выпить?"
   },
   {
     "id": "base-065",
@@ -828,8 +828,8 @@ export const baseWords: Word[] = [
     "translation": "часто",
     "level": "A1",
     "category": "Основы",
-    "example": "„oft“ hört man oft im Alltag.",
-    "exampleTranslation": "«oft» часто можно услышать в повседневной речи."
+    "example": "Wir gehen oft im Park spazieren.",
+    "exampleTranslation": "Мы часто гуляем в парке."
   },
   {
     "id": "base-068",
@@ -853,8 +853,8 @@ export const baseWords: Word[] = [
     "translation": "Германия",
     "level": "A1",
     "category": "Основы",
-    "example": "„(das) Deutschland“ hört man oft im Alltag.",
-    "exampleTranslation": "«(das) Deutschland» часто можно услышать в повседневной речи."
+    "example": "Deutschland liegt in der Mitte Europas.",
+    "exampleTranslation": "Германия находится в центре Европы."
   },
   {
     "id": "base-070",
@@ -865,8 +865,8 @@ export const baseWords: Word[] = [
     "translation": "два",
     "level": "A1",
     "category": "Еда",
-    "example": "„zwei“ hört man oft im Alltag.",
-    "exampleTranslation": "«zwei» часто можно услышать в повседневной речи."
+    "example": "Ich hätte gern zwei Brötchen.",
+    "exampleTranslation": "Я хотел бы две булочки."
   },
   {
     "id": "base-071",
@@ -890,8 +890,8 @@ export const baseWords: Word[] = [
     "translation": "где",
     "level": "A1",
     "category": "Основы",
-    "example": "„wo“ hört man oft im Alltag.",
-    "exampleTranslation": "«wo» часто можно услышать в повседневной речи."
+    "example": "Wo wohnst du jetzt?",
+    "exampleTranslation": "Где ты сейчас живёшь?"
   },
   {
     "id": "base-073",
@@ -927,8 +927,8 @@ export const baseWords: Word[] = [
     "translation": "позволять, давать (сделать)",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute lassen.",
-    "exampleTranslation": "Сегодня мы хотим: позволять, давать (сделать)."
+    "example": "Lass bitte das Fenster offen.",
+    "exampleTranslation": "Оставь, пожалуйста, окно открытым."
   },
   {
     "id": "base-076",
@@ -939,8 +939,8 @@ export const baseWords: Word[] = [
     "translation": "в порядке, нормально",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich okay.",
-    "exampleTranslation": "Это действительно в порядке, нормально."
+    "example": "Keine Sorge, alles ist okay.",
+    "exampleTranslation": "Не переживай, всё в порядке."
   },
   {
     "id": "base-077",
@@ -952,7 +952,7 @@ export const baseWords: Word[] = [
     "level": "A1",
     "category": "Основы",
     "example": "Was kann ich für Sie tun?",
-    "exampleTranslation": "Что я могу для вас сделать?"
+    "exampleTranslation": "Что я могу для Вас сделать?"
   },
   {
     "id": "base-078",
@@ -963,8 +963,8 @@ export const baseWords: Word[] = [
     "translation": "только что",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich gerade.",
-    "exampleTranslation": "Это действительно только что."
+    "example": "Der Zug ist gerade angekommen.",
+    "exampleTranslation": "Поезд только что прибыл."
   },
   {
     "id": "base-079",
@@ -975,8 +975,8 @@ export const baseWords: Word[] = [
     "translation": "старый",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich alt.",
-    "exampleTranslation": "Это действительно старый."
+    "example": "Wie alt ist dein Bruder?",
+    "exampleTranslation": "Сколько лет твоему брату?"
   },
   {
     "id": "base-080",
@@ -987,8 +987,8 @@ export const baseWords: Word[] = [
     "translation": "правильный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich richtig.",
-    "exampleTranslation": "Это действительно правильный."
+    "example": "Welche Antwort ist richtig?",
+    "exampleTranslation": "Какой ответ правильный?"
   },
   {
     "id": "base-081",
@@ -999,8 +999,8 @@ export const baseWords: Word[] = [
     "translation": "важный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich wichtig.",
-    "exampleTranslation": "Это действительно важный."
+    "example": "Dieser Termin ist sehr wichtig.",
+    "exampleTranslation": "Эта встреча очень важна."
   },
   {
     "id": "base-082",
@@ -1023,8 +1023,8 @@ export const baseWords: Word[] = [
     "translation": "на самом деле, вообще-то",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich eigentlich.",
-    "exampleTranslation": "Это действительно на самом деле, вообще-то."
+    "example": "Was möchtest du eigentlich machen?",
+    "exampleTranslation": "А что ты вообще-то хочешь делать?"
   },
   {
     "id": "base-084",
@@ -1036,8 +1036,8 @@ export const baseWords: Word[] = [
     "translation": "следующий",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich nächste (r.",
-    "exampleTranslation": "Это действительно следующий."
+    "example": "Der nächste Bus kommt in zehn Minuten.",
+    "exampleTranslation": "Следующий автобус придёт через десять минут."
   },
   {
     "id": "base-085",
@@ -1060,8 +1060,8 @@ export const baseWords: Word[] = [
     "translation": "однажды, один раз",
     "level": "A1",
     "category": "Еда",
-    "example": "„einmal“ hört man oft im Alltag.",
-    "exampleTranslation": "«einmal» часто можно услышать в повседневной речи."
+    "example": "Ich war einmal in Hamburg.",
+    "exampleTranslation": "Я однажды был в Гамбурге."
   },
   {
     "id": "base-087",
@@ -1072,8 +1072,8 @@ export const baseWords: Word[] = [
     "translation": "вообще",
     "level": "A1",
     "category": "Основы",
-    "example": "„gar“ hört man oft im Alltag.",
-    "exampleTranslation": "«gar» часто можно услышать в повседневной речи."
+    "example": "Das ist gar nicht schwer.",
+    "exampleTranslation": "Это совсем не сложно."
   },
   {
     "id": "base-088",
@@ -1086,8 +1086,8 @@ export const baseWords: Word[] = [
     "translation": "ребёнок",
     "level": "A1",
     "category": "Люди",
-    "example": "Das Kind ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ребёнок."
+    "example": "Das Kind spielt im Garten.",
+    "exampleTranslation": "Ребёнок играет в саду."
   },
   {
     "id": "base-089",
@@ -1100,8 +1100,8 @@ export const baseWords: Word[] = [
     "translation": "видео",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Video ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: видео."
+    "example": "Kannst du mir das Video schicken?",
+    "exampleTranslation": "Можешь прислать мне это видео?"
   },
   {
     "id": "base-090",
@@ -1114,8 +1114,8 @@ export const baseWords: Word[] = [
     "translation": "мужчина",
     "level": "A1",
     "category": "Люди",
-    "example": "Der Mann ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мужчина."
+    "example": "Der Mann wartet vor der Tür.",
+    "exampleTranslation": "Мужчина ждёт перед дверью."
   },
   {
     "id": "base-091",
@@ -1126,8 +1126,8 @@ export const baseWords: Word[] = [
     "translation": "получать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wo bekomme ich eine Fahrkarte?",
-    "exampleTranslation": "Где мне получить билет?"
+    "example": "Wann bekommen wir die Antwort?",
+    "exampleTranslation": "Когда мы получим ответ?"
   },
   {
     "id": "base-092",
@@ -1138,8 +1138,8 @@ export const baseWords: Word[] = [
     "translation": "быстрый, быстро",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich schnell.",
-    "exampleTranslation": "Это действительно быстрый, быстро."
+    "example": "Bitte fahren Sie nicht so schnell.",
+    "exampleTranslation": "Пожалуйста, не ездите так быстро."
   },
   {
     "id": "base-093",
@@ -1151,8 +1151,8 @@ export const baseWords: Word[] = [
     "translation": "первый",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich erste (r.",
-    "exampleTranslation": "Это действительно первый."
+    "example": "Heute ist mein erster Arbeitstag.",
+    "exampleTranslation": "Сегодня мой первый рабочий день."
   },
   {
     "id": "base-094",
@@ -1176,8 +1176,8 @@ export const baseWords: Word[] = [
     "translation": "там",
     "level": "A1",
     "category": "Путешествия",
-    "example": "„dort“ hört man oft im Alltag.",
-    "exampleTranslation": "«dort» часто можно услышать в повседневной речи."
+    "example": "Dort hinten ist der Eingang.",
+    "exampleTranslation": "Вон там находится вход."
   },
   {
     "id": "base-096",
@@ -1190,8 +1190,8 @@ export const baseWords: Word[] = [
     "translation": "вопрос",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Frage ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: вопрос."
+    "example": "Ich habe noch eine Frage.",
+    "exampleTranslation": "У меня есть ещё один вопрос."
   },
   {
     "id": "base-097",
@@ -1202,8 +1202,8 @@ export const baseWords: Word[] = [
     "translation": "с, начиная с",
     "level": "A1",
     "category": "Основы",
-    "example": "„ab“ hört man oft im Alltag.",
-    "exampleTranslation": "«ab» часто можно услышать в повседневной речи."
+    "example": "Ab Montag bin ich im Urlaub.",
+    "exampleTranslation": "С понедельника я в отпуске."
   },
   {
     "id": "base-098",
@@ -1214,8 +1214,8 @@ export const baseWords: Word[] = [
     "translation": "почему",
     "level": "A1",
     "category": "Основы",
-    "example": "„warum“ hört man oft im Alltag.",
-    "exampleTranslation": "«warum» часто можно услышать в повседневной речи."
+    "example": "Warum lernst du Deutsch?",
+    "exampleTranslation": "Почему ты учишь немецкий?"
   },
   {
     "id": "base-099",
@@ -1226,8 +1226,8 @@ export const baseWords: Word[] = [
     "translation": "держать",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Zug hält in Köln.",
-    "exampleTranslation": "Поезд останавливается в Кёльне."
+    "example": "Halt bitte kurz meine Tasche.",
+    "exampleTranslation": "Подержи, пожалуйста, мою сумку."
   },
   {
     "id": "base-100",
@@ -1239,8 +1239,8 @@ export const baseWords: Word[] = [
     "translation": "охотно, с удовольствием",
     "level": "A1",
     "category": "Основы",
-    "example": "„gern“ hört man oft im Alltag.",
-    "exampleTranslation": "«gern» часто можно услышать в повседневной речи."
+    "example": "Ich koche gern für Freunde.",
+    "exampleTranslation": "Я с удовольствием готовлю для друзей."
   },
   {
     "id": "base-101",
@@ -1251,8 +1251,8 @@ export const baseWords: Word[] = [
     "translation": "немногий, мало",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich wenig.",
-    "exampleTranslation": "Это действительно немногий, мало."
+    "example": "Heute ist wenig Verkehr.",
+    "exampleTranslation": "Сегодня на дорогах мало машин."
   },
   {
     "id": "base-102",
@@ -1264,8 +1264,8 @@ export const baseWords: Word[] = [
     "translation": "каждый",
     "level": "A1",
     "category": "Основы",
-    "example": "„jeder“ hört man oft im Alltag.",
-    "exampleTranslation": "«jeder» часто можно услышать в повседневной речи."
+    "example": "Jeder Teilnehmer bekommt ein Buch.",
+    "exampleTranslation": "Каждый участник получает книгу."
   },
   {
     "id": "base-103",
@@ -1276,8 +1276,8 @@ export const baseWords: Word[] = [
     "translation": "милый, добрый",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich lieb.",
-    "exampleTranslation": "Это действительно милый, добрый."
+    "example": "Das ist lieb von dir.",
+    "exampleTranslation": "Это очень мило с твоей стороны."
   },
   {
     "id": "base-104",
@@ -1288,8 +1288,8 @@ export const baseWords: Word[] = [
     "translation": "ли (в косвенном вопросе)",
     "level": "A1",
     "category": "Основы",
-    "example": "„ob“ hört man oft im Alltag.",
-    "exampleTranslation": "«ob» часто можно услышать в повседневной речи."
+    "example": "Ich weiß nicht, ob er kommt.",
+    "exampleTranslation": "Я не знаю, придёт ли он."
   },
   {
     "id": "base-105",
@@ -1300,8 +1300,8 @@ export const baseWords: Word[] = [
     "translation": "поздний, поздно",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich spät.",
-    "exampleTranslation": "Это действительно поздний, поздно."
+    "example": "Entschuldigung, ich bin zu spät.",
+    "exampleTranslation": "Извините, я опоздал."
   },
   {
     "id": "base-106",
@@ -1312,8 +1312,8 @@ export const baseWords: Word[] = [
     "translation": "лежать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute liegen.",
-    "exampleTranslation": "Сегодня мы хотим: лежать."
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleTranslation": "Книга лежит на столе."
   },
   {
     "id": "base-107",
@@ -1324,8 +1324,8 @@ export const baseWords: Word[] = [
     "translation": "писать",
     "level": "A1",
     "category": "Еда",
-    "example": "Wir wollen heute schreiben.",
-    "exampleTranslation": "Сегодня мы хотим: писать."
+    "example": "Ich schreibe dir heute Abend.",
+    "exampleTranslation": "Я напишу тебе сегодня вечером."
   },
   {
     "id": "base-108",
@@ -1337,8 +1337,8 @@ export const baseWords: Word[] = [
     "translation": "люди",
     "level": "A1",
     "category": "Люди",
-    "example": "Die Leute (Pl.) ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: люди."
+    "example": "Viele Leute warten an der Haltestelle.",
+    "exampleTranslation": "Много людей ждут на остановке."
   },
   {
     "id": "base-109",
@@ -1349,8 +1349,8 @@ export const baseWords: Word[] = [
     "translation": "потому что",
     "level": "A1",
     "category": "Еда",
-    "example": "„weil“ hört man oft im Alltag.",
-    "exampleTranslation": "«weil» часто можно услышать в повседневной речи."
+    "example": "Ich bleibe zu Hause, weil ich krank bin.",
+    "exampleTranslation": "Я остаюсь дома, потому что болею."
   },
   {
     "id": "base-110",
@@ -1362,7 +1362,7 @@ export const baseWords: Word[] = [
     "level": "A1",
     "category": "Основы",
     "example": "Kann ich Ihnen helfen?",
-    "exampleTranslation": "Я могу вам помочь?",
+    "exampleTranslation": "Я могу Вам помочь?",
     "forms": "helfen · half · hat geholfen"
   },
   {
@@ -1374,8 +1374,8 @@ export const baseWords: Word[] = [
     "translation": "иногда",
     "level": "A1",
     "category": "Основы",
-    "example": "„manchmal“ hört man oft im Alltag.",
-    "exampleTranslation": "«manchmal» часто можно услышать в повседневной речи."
+    "example": "Manchmal fahre ich mit dem Bus.",
+    "exampleTranslation": "Иногда я езжу на автобусе."
   },
   {
     "id": "base-112",
@@ -1388,8 +1388,8 @@ export const baseWords: Word[] = [
     "translation": "тема",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Thema ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: тема."
+    "example": "Heute sprechen wir über ein neues Thema.",
+    "exampleTranslation": "Сегодня мы говорим о новой теме."
   },
   {
     "id": "base-113",
@@ -1412,8 +1412,8 @@ export const baseWords: Word[] = [
     "translation": "оба, обе",
     "level": "A1",
     "category": "Еда",
-    "example": "„beide“ hört man oft im Alltag.",
-    "exampleTranslation": "«beide» часто можно услышать в повседневной речи."
+    "example": "Beide Kinder gehen schon zur Schule.",
+    "exampleTranslation": "Оба ребёнка уже ходят в школу."
   },
   {
     "id": "base-115",
@@ -1437,8 +1437,8 @@ export const baseWords: Word[] = [
     "translation": "смотреть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute schauen.",
-    "exampleTranslation": "Сегодня мы хотим: смотреть."
+    "example": "Am Abend schauen wir einen Film.",
+    "exampleTranslation": "Вечером мы смотрим фильм."
   },
   {
     "id": "base-117",
@@ -1450,8 +1450,8 @@ export const baseWords: Word[] = [
     "translation": "последний",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich letzte (r.",
-    "exampleTranslation": "Это действительно последний."
+    "example": "Das war mein letzter Urlaubstag.",
+    "exampleTranslation": "Это был мой последний день отпуска."
   },
   {
     "id": "base-118",
@@ -1462,8 +1462,8 @@ export const baseWords: Word[] = [
     "translation": "три",
     "level": "A1",
     "category": "Еда",
-    "example": "„drei“ hört man oft im Alltag.",
-    "exampleTranslation": "«drei» часто можно услышать в повседневной речи."
+    "example": "Der Kurs dauert drei Monate.",
+    "exampleTranslation": "Курс длится три месяца."
   },
   {
     "id": "base-119",
@@ -1476,8 +1476,8 @@ export const baseWords: Word[] = [
     "translation": "женщина",
     "level": "A1",
     "category": "Люди",
-    "example": "Die Frau ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: женщина."
+    "example": "Die Frau arbeitet in einer Bäckerei.",
+    "exampleTranslation": "Женщина работает в булочной."
   },
   {
     "id": "base-120",
@@ -1488,8 +1488,8 @@ export const baseWords: Word[] = [
     "translation": "чтобы (цель)",
     "level": "A1",
     "category": "Основы",
-    "example": "„damit“ hört man oft im Alltag.",
-    "exampleTranslation": "«damit» часто можно услышать в повседневной речи."
+    "example": "Ich übe jeden Tag, damit ich besser spreche.",
+    "exampleTranslation": "Я занимаюсь каждый день, чтобы лучше говорить."
   },
   {
     "id": "base-121",
@@ -1500,8 +1500,8 @@ export const baseWords: Word[] = [
     "translation": "лучше",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich besser.",
-    "exampleTranslation": "Это действительно лучше."
+    "example": "Heute geht es mir schon besser.",
+    "exampleTranslation": "Сегодня мне уже лучше."
   },
   {
     "id": "base-122",
@@ -1512,8 +1512,8 @@ export const baseWords: Word[] = [
     "translation": "немецкий язык",
     "level": "A1",
     "category": "Основы",
-    "example": "„(das) Deutsch“ hört man oft im Alltag.",
-    "exampleTranslation": "«(das) Deutsch» часто можно услышать в повседневной речи."
+    "example": "Mein Deutsch wird langsam besser.",
+    "exampleTranslation": "Мой немецкий постепенно улучшается."
   },
   {
     "id": "base-123",
@@ -1524,8 +1524,8 @@ export const baseWords: Word[] = [
     "translation": "сидеть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute sitzen.",
-    "exampleTranslation": "Сегодня мы хотим: сидеть."
+    "example": "Wir sitzen draußen im Café.",
+    "exampleTranslation": "Мы сидим на улице в кафе."
   },
   {
     "id": "base-124",
@@ -1550,8 +1550,8 @@ export const baseWords: Word[] = [
     "translation": "рука (кисть)",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Hand ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: рука (кисть)."
+    "example": "Gib mir bitte deine Hand.",
+    "exampleTranslation": "Дай мне, пожалуйста, руку."
   },
   {
     "id": "base-126",
@@ -1562,8 +1562,8 @@ export const baseWords: Word[] = [
     "translation": "одинаковый, такой же",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich gleich.",
-    "exampleTranslation": "Это действительно одинаковый, такой же."
+    "example": "Die beiden Taschen sehen fast gleich aus.",
+    "exampleTranslation": "Эти две сумки выглядят почти одинаково."
   },
   {
     "id": "base-127",
@@ -1574,8 +1574,8 @@ export const baseWords: Word[] = [
     "translation": "немецкий",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich deutsch.",
-    "exampleTranslation": "Это действительно немецкий."
+    "example": "Sie arbeitet bei einer deutschen Firma.",
+    "exampleTranslation": "Она работает в немецкой компании."
   },
   {
     "id": "base-128",
@@ -1586,8 +1586,8 @@ export const baseWords: Word[] = [
     "translation": "читать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute lesen.",
-    "exampleTranslation": "Сегодня мы хотим: читать."
+    "example": "Ich lese jeden Morgen die Nachrichten.",
+    "exampleTranslation": "Я каждое утро читаю новости."
   },
   {
     "id": "base-129",
@@ -1598,8 +1598,8 @@ export const baseWords: Word[] = [
     "translation": "вместе",
     "level": "A1",
     "category": "Основы",
-    "example": "„zusammen“ hört man oft im Alltag.",
-    "exampleTranslation": "«zusammen» часто можно услышать в повседневной речи."
+    "example": "Wir lernen zusammen für die Prüfung.",
+    "exampleTranslation": "Мы вместе готовимся к экзамену."
   },
   {
     "id": "base-130",
@@ -1612,8 +1612,8 @@ export const baseWords: Word[] = [
     "translation": "неделя",
     "level": "A1",
     "category": "Время",
-    "example": "Die Woche ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: неделя."
+    "example": "Nächste Woche habe ich Urlaub.",
+    "exampleTranslation": "На следующей неделе у меня отпуск."
   },
   {
     "id": "base-131",
@@ -1624,8 +1624,8 @@ export const baseWords: Word[] = [
     "translation": "короткий, коротко",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich kurz.",
-    "exampleTranslation": "Это действительно короткий, коротко."
+    "example": "Ich komme nur kurz vorbei.",
+    "exampleTranslation": "Я зайду совсем ненадолго."
   },
   {
     "id": "base-132",
@@ -1638,8 +1638,8 @@ export const baseWords: Word[] = [
     "translation": "друг",
     "level": "A1",
     "category": "Люди",
-    "example": "Der Freund ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: друг."
+    "example": "Mein bester Freund wohnt in Köln.",
+    "exampleTranslation": "Мой лучший друг живёт в Кёльне."
   },
   {
     "id": "base-133",
@@ -1650,8 +1650,8 @@ export const baseWords: Word[] = [
     "translation": "назад, обратно",
     "level": "A1",
     "category": "Основы",
-    "example": "„zurück“ hört man oft im Alltag.",
-    "exampleTranslation": "«zurück» часто можно услышать в повседневной речи."
+    "example": "Wann kommst du zurück?",
+    "exampleTranslation": "Когда ты вернёшься?"
   },
   {
     "id": "base-134",
@@ -1662,8 +1662,8 @@ export const baseWords: Word[] = [
     "translation": "играть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute spielen.",
-    "exampleTranslation": "Сегодня мы хотим: играть."
+    "example": "Die Kinder spielen im Hof.",
+    "exampleTranslation": "Дети играют во дворе."
   },
   {
     "id": "base-135",
@@ -1687,8 +1687,8 @@ export const baseWords: Word[] = [
     "translation": "деньги",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Geld ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: деньги."
+    "example": "Ich habe nicht genug Geld dabei.",
+    "exampleTranslation": "У меня с собой недостаточно денег."
   },
   {
     "id": "base-137",
@@ -1699,8 +1699,8 @@ export const baseWords: Word[] = [
     "translation": "никогда",
     "level": "A1",
     "category": "Основы",
-    "example": "„nie“ hört man oft im Alltag.",
-    "exampleTranslation": "«nie» часто можно услышать в повседневной речи."
+    "example": "Ich war noch nie in Wien.",
+    "exampleTranslation": "Я ещё никогда не был в Вене."
   },
   {
     "id": "base-138",
@@ -1711,8 +1711,8 @@ export const baseWords: Word[] = [
     "translation": "благодарить",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute danken.",
-    "exampleTranslation": "Сегодня мы хотим: благодарить."
+    "example": "Ich möchte Ihnen für Ihre Hilfe danken.",
+    "exampleTranslation": "Я хотел бы поблагодарить Вас за помощь."
   },
   {
     "id": "base-139",
@@ -1725,8 +1725,8 @@ export const baseWords: Word[] = [
     "translation": "город",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Stadt ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: город."
+    "example": "München ist eine teure Stadt.",
+    "exampleTranslation": "Мюнхен — дорогой город."
   },
   {
     "id": "base-140",
@@ -1738,8 +1738,8 @@ export const baseWords: Word[] = [
     "translation": "какой, который",
     "level": "A1",
     "category": "Основы",
-    "example": "„welcher“ hört man oft im Alltag.",
-    "exampleTranslation": "«welcher» часто можно услышать в повседневной речи."
+    "example": "Welcher Bus fährt zum Zentrum?",
+    "exampleTranslation": "Какой автобус едет в центр?"
   },
   {
     "id": "base-141",
@@ -1750,8 +1750,8 @@ export const baseWords: Word[] = [
     "translation": "мочь (разрешение)",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute dürfen.",
-    "exampleTranslation": "Сегодня мы хотим: мочь (разрешение).",
+    "example": "Darf ich hier parken?",
+    "exampleTranslation": "Можно мне здесь припарковаться?",
     "forms": "dürfen · durfte · hat gedurft"
   },
   {
@@ -1763,8 +1763,8 @@ export const baseWords: Word[] = [
     "translation": "собственный",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich eigen.",
-    "exampleTranslation": "Это действительно собственный."
+    "example": "Jedes Kind braucht ein eigenes Zimmer.",
+    "exampleTranslation": "Каждому ребёнку нужна собственная комната."
   },
   {
     "id": "base-143",
@@ -1777,8 +1777,8 @@ export const baseWords: Word[] = [
     "translation": "слово",
     "level": "A1",
     "category": "Путешествия",
-    "example": "Das Wort ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: слово."
+    "example": "Was bedeutet dieses Wort?",
+    "exampleTranslation": "Что означает это слово?"
   },
   {
     "id": "base-144",
@@ -1789,8 +1789,8 @@ export const baseWords: Word[] = [
     "translation": "тянуть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute ziehen.",
-    "exampleTranslation": "Сегодня мы хотим: тянуть."
+    "example": "Bitte nicht an der Tür ziehen.",
+    "exampleTranslation": "Пожалуйста, не тяните дверь на себя."
   },
   {
     "id": "base-145",
@@ -1803,8 +1803,8 @@ export const baseWords: Word[] = [
     "translation": "конец",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Ende ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: конец."
+    "example": "Am Ende war alles gut.",
+    "exampleTranslation": "В конце всё было хорошо."
   },
   {
     "id": "base-146",
@@ -1815,8 +1815,8 @@ export const baseWords: Word[] = [
     "translation": "а (после отрицания)",
     "level": "A1",
     "category": "Основы",
-    "example": "„sondern“ hört man oft im Alltag.",
-    "exampleTranslation": "«sondern» часто можно услышать в повседневной речи."
+    "example": "Ich trinke keinen Kaffee, sondern Tee.",
+    "exampleTranslation": "Я пью не кофе, а чай."
   },
   {
     "id": "base-147",
@@ -1827,8 +1827,8 @@ export const baseWords: Word[] = [
     "translation": "привет",
     "level": "A1",
     "category": "Основы",
-    "example": "„hallo“ hört man oft im Alltag.",
-    "exampleTranslation": "«hallo» часто можно услышать в повседневной речи."
+    "example": "Hallo, wie geht es dir?",
+    "exampleTranslation": "Привет, как у тебя дела?"
   },
   {
     "id": "base-148",
@@ -1839,8 +1839,8 @@ export const baseWords: Word[] = [
     "translation": "почти",
     "level": "A1",
     "category": "Основы",
-    "example": "„fast“ hört man oft im Alltag.",
-    "exampleTranslation": "«fast» часто можно услышать в повседневной речи."
+    "example": "Der Bus ist fast leer.",
+    "exampleTranslation": "Автобус почти пустой."
   },
   {
     "id": "base-149",
@@ -1863,8 +1863,8 @@ export const baseWords: Word[] = [
     "translation": "ставить",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute stellen.",
-    "exampleTranslation": "Сегодня мы хотим: ставить."
+    "example": "Stell die Milch bitte in den Kühlschrank.",
+    "exampleTranslation": "Поставь молоко, пожалуйста, в холодильник."
   },
   {
     "id": "base-151",
@@ -1877,8 +1877,8 @@ export const baseWords: Word[] = [
     "translation": "раз (количество случаев)",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Mal ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: раз (количество случаев)."
+    "example": "Dieses Mal komme ich pünktlich.",
+    "exampleTranslation": "В этот раз я приду вовремя."
   },
   {
     "id": "base-152",
@@ -1889,8 +1889,8 @@ export const baseWords: Word[] = [
     "translation": "классный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich toll.",
-    "exampleTranslation": "Это действительно классный."
+    "example": "Die Aussicht vom Berg ist toll.",
+    "exampleTranslation": "Вид с горы потрясающий."
   },
   {
     "id": "base-153",
@@ -1901,8 +1901,8 @@ export const baseWords: Word[] = [
     "translation": "ясный, понятный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich klar.",
-    "exampleTranslation": "Это действительно ясный, понятный."
+    "example": "Ist die Aufgabe jetzt klar?",
+    "exampleTranslation": "Теперь задание понятно?"
   },
   {
     "id": "base-154",
@@ -1913,8 +1913,8 @@ export const baseWords: Word[] = [
     "translation": "рассказывать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute erzählen.",
-    "exampleTranslation": "Сегодня мы хотим: рассказывать."
+    "example": "Opa erzählt gern Geschichten.",
+    "exampleTranslation": "Дедушка любит рассказывать истории."
   },
   {
     "id": "base-155",
@@ -1927,8 +1927,8 @@ export const baseWords: Word[] = [
     "translation": "вещь, предмет",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Ding ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: вещь, предмет."
+    "example": "Wo ist dieses kleine Ding?",
+    "exampleTranslation": "Где эта маленькая штука?"
   },
   {
     "id": "base-156",
@@ -1966,8 +1966,8 @@ export const baseWords: Word[] = [
     "translation": "семья",
     "level": "A1",
     "category": "Люди",
-    "example": "Die Familie ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: семья."
+    "example": "Meine Familie wohnt in Polen.",
+    "exampleTranslation": "Моя семья живёт в Польше."
   },
   {
     "id": "base-159",
@@ -1978,8 +1978,8 @@ export const baseWords: Word[] = [
     "translation": "несколько",
     "level": "A1",
     "category": "Основы",
-    "example": "„paar“ hört man oft im Alltag.",
-    "exampleTranslation": "«paar» часто можно услышать в повседневной речи."
+    "example": "Ich brauche noch ein paar Minuten.",
+    "exampleTranslation": "Мне нужно ещё несколько минут."
   },
   {
     "id": "base-160",
@@ -1992,8 +1992,8 @@ export const baseWords: Word[] = [
     "translation": "человек, персона",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Person ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: человек, персона."
+    "example": "Der Aufzug ist nur für vier Personen.",
+    "exampleTranslation": "Лифт рассчитан только на четырёх человек."
   },
   {
     "id": "base-161",
@@ -2004,8 +2004,8 @@ export const baseWords: Word[] = [
     "translation": "высокий",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich hoch.",
-    "exampleTranslation": "Это действительно высокий."
+    "example": "Der Turm ist achtzig Meter hoch.",
+    "exampleTranslation": "Башня высотой восемьдесят метров."
   },
   {
     "id": "base-162",
@@ -2016,8 +2016,8 @@ export const baseWords: Word[] = [
     "translation": "пытаться, пробовать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute versuchen.",
-    "exampleTranslation": "Сегодня мы хотим: пытаться, пробовать."
+    "example": "Ich versuche, früher ins Bett zu gehen.",
+    "exampleTranslation": "Я стараюсь ложиться спать раньше."
   },
   {
     "id": "base-163",
@@ -2028,8 +2028,8 @@ export const baseWords: Word[] = [
     "translation": "просить",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute bitten.",
-    "exampleTranslation": "Сегодня мы хотим: просить."
+    "example": "Ich möchte Sie um Hilfe bitten.",
+    "exampleTranslation": "Я хотел бы попросить Вас о помощи."
   },
   {
     "id": "base-164",
@@ -2041,8 +2041,8 @@ export const baseWords: Word[] = [
     "translation": "вода",
     "level": "A1",
     "category": "Природа",
-    "example": "Das Wasser ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: вода."
+    "example": "Trink bitte genug Wasser.",
+    "exampleTranslation": "Пей, пожалуйста, достаточно воды."
   },
   {
     "id": "base-165",
@@ -2053,8 +2053,8 @@ export const baseWords: Word[] = [
     "translation": "чувствовать себя",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute uns fühlen.",
-    "exampleTranslation": "Сегодня мы хотим: чувствовать себя."
+    "example": "Wie fühlst du dich heute?",
+    "exampleTranslation": "Как ты себя сегодня чувствуешь?"
   },
   {
     "id": "base-166",
@@ -2065,8 +2065,8 @@ export const baseWords: Word[] = [
     "translation": "избавиться (от чего-л.)",
     "level": "A1",
     "category": "Основы",
-    "example": "„los“ hört man oft im Alltag.",
-    "exampleTranslation": "«los» часто можно услышать в повседневной речи."
+    "example": "Wie werde ich diese Schmerzen los?",
+    "exampleTranslation": "Как мне избавиться от этой боли?"
   },
   {
     "id": "base-167",
@@ -2079,8 +2079,8 @@ export const baseWords: Word[] = [
     "translation": "случай",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Fall ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: случай."
+    "example": "In diesem Fall rufe ich später an.",
+    "exampleTranslation": "В таком случае я позвоню позже."
   },
   {
     "id": "base-168",
@@ -2093,8 +2093,8 @@ export const baseWords: Word[] = [
     "translation": "дело",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Sache ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: дело."
+    "example": "Wir müssen diese Sache heute klären.",
+    "exampleTranslation": "Нам нужно решить это дело сегодня."
   },
   {
     "id": "base-169",
@@ -2105,8 +2105,8 @@ export const baseWords: Word[] = [
     "translation": "радоваться",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute uns freuen.",
-    "exampleTranslation": "Сегодня мы хотим: радоваться."
+    "example": "Ich freue mich auf das Wochenende.",
+    "exampleTranslation": "Я радуюсь предстоящим выходным."
   },
   {
     "id": "base-170",
@@ -2119,8 +2119,8 @@ export const baseWords: Word[] = [
     "translation": "момент, мгновение",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Moment ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: момент, мгновение."
+    "example": "Einen Moment, bitte!",
+    "exampleTranslation": "Одну минуту, пожалуйста!"
   },
   {
     "id": "base-171",
@@ -2133,8 +2133,8 @@ export const baseWords: Word[] = [
     "translation": "час",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Stunde ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: час."
+    "example": "Die Fahrt dauert eine Stunde.",
+    "exampleTranslation": "Поездка длится один час."
   },
   {
     "id": "base-172",
@@ -2147,8 +2147,8 @@ export const baseWords: Word[] = [
     "translation": "проблема",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Problem ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: проблема."
+    "example": "Wir finden bestimmt eine Lösung für das Problem.",
+    "exampleTranslation": "Мы наверняка найдём решение проблемы."
   },
   {
     "id": "base-173",
@@ -2159,8 +2159,8 @@ export const baseWords: Word[] = [
     "translation": "даже",
     "level": "A1",
     "category": "Основы",
-    "example": "„sogar“ hört man oft im Alltag.",
-    "exampleTranslation": "«sogar» часто можно услышать в повседневной речи."
+    "example": "Sogar mein Bruder kennt dieses Lied.",
+    "exampleTranslation": "Даже мой брат знает эту песню."
   },
   {
     "id": "base-174",
@@ -2173,8 +2173,8 @@ export const baseWords: Word[] = [
     "translation": "автомобиль, машина",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Auto ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: автомобиль, машина."
+    "example": "Unser Auto steht vor dem Haus.",
+    "exampleTranslation": "Наша машина стоит перед домом."
   },
   {
     "id": "base-175",
@@ -2185,8 +2185,8 @@ export const baseWords: Word[] = [
     "translation": "происходить, случаться",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute passieren.",
-    "exampleTranslation": "Сегодня мы хотим: происходить, случаться."
+    "example": "Was ist gestern passiert?",
+    "exampleTranslation": "Что произошло вчера?"
   },
   {
     "id": "base-176",
@@ -2199,8 +2199,8 @@ export const baseWords: Word[] = [
     "translation": "книга",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Buch ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: книга."
+    "example": "Ich lese gerade ein gutes Buch.",
+    "exampleTranslation": "Я сейчас читаю хорошую книгу."
   },
   {
     "id": "base-177",
@@ -2224,8 +2224,8 @@ export const baseWords: Word[] = [
     "translation": "супер, классный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich super.",
-    "exampleTranslation": "Это действительно супер, классный."
+    "example": "Das hast du super gemacht!",
+    "exampleTranslation": "Ты отлично это сделал!"
   },
   {
     "id": "base-179",
@@ -2238,8 +2238,8 @@ export const baseWords: Word[] = [
     "translation": "работа",
     "level": "A1",
     "category": "Еда",
-    "example": "Die Arbeit ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: работа."
+    "example": "Nach der Arbeit gehe ich einkaufen.",
+    "exampleTranslation": "После работы я иду за покупками."
   },
   {
     "id": "base-180",
@@ -2252,8 +2252,8 @@ export const baseWords: Word[] = [
     "translation": "часы",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Uhr ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: часы."
+    "example": "Meine Uhr geht fünf Minuten vor.",
+    "exampleTranslation": "Мои часы спешат на пять минут."
   },
   {
     "id": "base-181",
@@ -2276,8 +2276,8 @@ export const baseWords: Word[] = [
     "translation": "бегать, бежать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute laufen.",
-    "exampleTranslation": "Сегодня мы хотим: бегать, бежать."
+    "example": "Ich laufe jeden Morgen im Park.",
+    "exampleTranslation": "Я бегаю каждое утро в парке."
   },
   {
     "id": "base-183",
@@ -2288,8 +2288,8 @@ export const baseWords: Word[] = [
     "translation": "ранний, рано",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich früh.",
-    "exampleTranslation": "Это действительно ранний, рано."
+    "example": "Morgen muss ich früh aufstehen.",
+    "exampleTranslation": "Завтра мне нужно рано встать."
   },
   {
     "id": "base-184",
@@ -2302,8 +2302,8 @@ export const baseWords: Word[] = [
     "translation": "мир",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Welt ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мир."
+    "example": "Sie möchte die ganze Welt sehen.",
+    "exampleTranslation": "Она хочет увидеть весь мир."
   },
   {
     "id": "base-185",
@@ -2315,8 +2315,8 @@ export const baseWords: Word[] = [
     "translation": "такой",
     "level": "A1",
     "category": "Основы",
-    "example": "„solcher“ hört man oft im Alltag.",
-    "exampleTranslation": "«solcher» часто можно услышать в повседневной речи."
+    "example": "Einen solchen Fehler mache ich nicht noch einmal.",
+    "exampleTranslation": "Такую ошибку я больше не совершу."
   },
   {
     "id": "base-186",
@@ -2329,8 +2329,8 @@ export const baseWords: Word[] = [
     "translation": "голова",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Kopf ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: голова."
+    "example": "Nach der Arbeit tut mir der Kopf weh.",
+    "exampleTranslation": "После работы у меня болит голова."
   },
   {
     "id": "base-187",
@@ -2341,8 +2341,8 @@ export const baseWords: Word[] = [
     "translation": "сначала",
     "level": "A1",
     "category": "Основы",
-    "example": "„erst“ hört man oft im Alltag.",
-    "exampleTranslation": "«erst» часто можно услышать в повседневной речи."
+    "example": "Erst frühstücken wir, dann gehen wir los.",
+    "exampleTranslation": "Сначала мы завтракаем, потом выходим."
   },
   {
     "id": "base-188",
@@ -2355,8 +2355,8 @@ export const baseWords: Word[] = [
     "translation": "дом",
     "level": "A1",
     "category": "Дом",
-    "example": "Das Haus ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: дом."
+    "example": "Hinter dem Haus ist ein kleiner Garten.",
+    "exampleTranslation": "За домом есть небольшой сад."
   },
   {
     "id": "base-189",
@@ -2369,8 +2369,8 @@ export const baseWords: Word[] = [
     "translation": "кофе",
     "level": "A1",
     "category": "Еда",
-    "example": "Der Kaffee ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: кофе."
+    "example": "Ich trinke meinen Kaffee ohne Zucker.",
+    "exampleTranslation": "Я пью кофе без сахара."
   },
   {
     "id": "base-190",
@@ -2381,8 +2381,8 @@ export const baseWords: Word[] = [
     "translation": "начинать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute beginnen.",
-    "exampleTranslation": "Сегодня мы хотим: начинать."
+    "example": "Der Unterricht beginnt um halb neun.",
+    "exampleTranslation": "Занятие начинается в половине девятого."
   },
   {
     "id": "base-191",
@@ -2393,8 +2393,8 @@ export const baseWords: Word[] = [
     "translation": "как-нибудь",
     "level": "A1",
     "category": "Основы",
-    "example": "„irgendwie“ hört man oft im Alltag.",
-    "exampleTranslation": "«irgendwie» часто можно услышать в повседневной речи."
+    "example": "Irgendwie funktioniert mein Handy nicht.",
+    "exampleTranslation": "Почему-то мой телефон не работает."
   },
   {
     "id": "base-192",
@@ -2405,8 +2405,8 @@ export const baseWords: Word[] = [
     "translation": "медленный, медленно",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich langsam.",
-    "exampleTranslation": "Это действительно медленный, медленно."
+    "example": "Bitte sprechen Sie etwas langsamer.",
+    "exampleTranslation": "Пожалуйста, говорите немного медленнее."
   },
   {
     "id": "base-193",
@@ -2419,8 +2419,8 @@ export const baseWords: Word[] = [
     "translation": "страна",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Land ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: страна."
+    "example": "Aus welchem Land kommst du?",
+    "exampleTranslation": "Из какой страны ты приехал?"
   },
   {
     "id": "base-194",
@@ -2431,8 +2431,8 @@ export const baseWords: Word[] = [
     "translation": "падать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute fallen.",
-    "exampleTranslation": "Сегодня мы хотим: падать."
+    "example": "Im Herbst fallen die Blätter.",
+    "exampleTranslation": "Осенью листья падают."
   },
   {
     "id": "base-195",
@@ -2445,8 +2445,8 @@ export const baseWords: Word[] = [
     "translation": "минута",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Minute ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: минута."
+    "example": "Der Zug kommt in fünf Minuten.",
+    "exampleTranslation": "Поезд придёт через пять минут."
   },
   {
     "id": "base-196",
@@ -2469,8 +2469,8 @@ export const baseWords: Word[] = [
     "translation": "безопасный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich sicher.",
-    "exampleTranslation": "Это действительно безопасный."
+    "example": "Ist dieser Weg auch nachts sicher?",
+    "exampleTranslation": "Эта дорога безопасна и ночью?"
   },
   {
     "id": "base-198",
@@ -2481,8 +2481,8 @@ export const baseWords: Word[] = [
     "translation": "только что",
     "level": "A1",
     "category": "Основы",
-    "example": "„eben“ hört man oft im Alltag.",
-    "exampleTranslation": "«eben» часто можно услышать в повседневной речи."
+    "example": "Das habe ich eben auch gehört.",
+    "exampleTranslation": "Я только что тоже это услышал."
   },
   {
     "id": "base-199",
@@ -2495,8 +2495,8 @@ export const baseWords: Word[] = [
     "translation": "глаз",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Auge ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: глаз."
+    "example": "Mein linkes Auge tut weh.",
+    "exampleTranslation": "У меня болит левый глаз."
   },
   {
     "id": "base-200",
@@ -2509,8 +2509,8 @@ export const baseWords: Word[] = [
     "translation": "дверь",
     "level": "A1",
     "category": "Дом",
-    "example": "Die Tür ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: дверь."
+    "example": "Bitte schließen Sie die Tür.",
+    "exampleTranslation": "Пожалуйста, закройте дверь."
   },
   {
     "id": "base-201",
@@ -2521,8 +2521,8 @@ export const baseWords: Word[] = [
     "translation": "согласный, единодушный",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich einig.",
-    "exampleTranslation": "Это действительно согласный, единодушный."
+    "example": "Wir sind uns endlich einig.",
+    "exampleTranslation": "Наконец мы пришли к согласию."
   },
   {
     "id": "base-202",
@@ -2533,8 +2533,8 @@ export const baseWords: Word[] = [
     "translation": "поэтому",
     "level": "A1",
     "category": "Основы",
-    "example": "„deshalb“ hört man oft im Alltag.",
-    "exampleTranslation": "«deshalb» часто можно услышать в повседневной речи."
+    "example": "Der Zug hat Verspätung, deshalb komme ich später.",
+    "exampleTranslation": "Поезд опаздывает, поэтому я приду позже."
   },
   {
     "id": "base-203",
@@ -2545,8 +2545,8 @@ export const baseWords: Word[] = [
     "translation": "сажать, ставить",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute setzen.",
-    "exampleTranslation": "Сегодня мы хотим: сажать, ставить."
+    "example": "Setzen Sie sich bitte hierhin.",
+    "exampleTranslation": "Садитесь, пожалуйста, сюда."
   },
   {
     "id": "base-204",
@@ -2559,8 +2559,8 @@ export const baseWords: Word[] = [
     "translation": "школа",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Schule ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: школа."
+    "example": "Die Schule liegt neben dem Park.",
+    "exampleTranslation": "Школа находится рядом с парком."
   },
   {
     "id": "base-205",
@@ -2571,8 +2571,8 @@ export const baseWords: Word[] = [
     "translation": "особенно, в особенности",
     "level": "A1",
     "category": "Основы",
-    "example": "„besonders“ hört man oft im Alltag.",
-    "exampleTranslation": "«besonders» часто можно услышать в повседневной речи."
+    "example": "Dieses Café ist besonders gemütlich.",
+    "exampleTranslation": "Это кафе особенно уютное."
   },
   {
     "id": "base-206",
@@ -2585,8 +2585,8 @@ export const baseWords: Word[] = [
     "translation": "жизнь",
     "level": "A1",
     "category": "Основы",
-    "example": "Meine Eltern leben auf dem Land.",
-    "exampleTranslation": "Мои родители живут за городом."
+    "example": "Das Leben in der Stadt ist teuer.",
+    "exampleTranslation": "Жизнь в городе дорогая."
   },
   {
     "id": "base-207",
@@ -2597,8 +2597,8 @@ export const baseWords: Word[] = [
     "translation": "встречаться",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute treffen.",
-    "exampleTranslation": "Сегодня мы хотим: встречаться."
+    "example": "Wir treffen uns vor dem Kino.",
+    "exampleTranslation": "Мы встречаемся перед кинотеатром."
   },
   {
     "id": "base-208",
@@ -2611,8 +2611,8 @@ export const baseWords: Word[] = [
     "translation": "путь, дорога",
     "level": "A1",
     "category": "Путешествия",
-    "example": "Der Weg ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: путь, дорога."
+    "example": "Können Sie mir den Weg erklären?",
+    "exampleTranslation": "Вы можете объяснить мне дорогу?"
   },
   {
     "id": "base-209",
@@ -2623,8 +2623,8 @@ export const baseWords: Word[] = [
     "translation": "смотреть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute gucken.",
-    "exampleTranslation": "Сегодня мы хотим: смотреть."
+    "example": "Guck mal, da kommt Anna!",
+    "exampleTranslation": "Смотри, вон идёт Анна!"
   },
   {
     "id": "base-210",
@@ -2637,8 +2637,8 @@ export const baseWords: Word[] = [
     "translation": "часть",
     "level": "A1",
     "category": "Еда",
-    "example": "Der Teil ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: часть."
+    "example": "Den ersten Teil habe ich verstanden.",
+    "exampleTranslation": "Первую часть я понял."
   },
   {
     "id": "base-211",
@@ -2649,8 +2649,8 @@ export const baseWords: Word[] = [
     "translation": "жить, проживать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wohnen in einer kleinen Wohnung.",
-    "exampleTranslation": "Мы живём в небольшой квартире."
+    "example": "Seit einem Jahr wohnen wir in Leipzig.",
+    "exampleTranslation": "Мы уже год живём в Лейпциге."
   },
   {
     "id": "base-212",
@@ -2663,8 +2663,8 @@ export const baseWords: Word[] = [
     "translation": "пример",
     "level": "A1",
     "category": "Еда",
-    "example": "Das Beispiel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: пример."
+    "example": "Können Sie ein Beispiel nennen?",
+    "exampleTranslation": "Вы можете привести пример?"
   },
   {
     "id": "base-213",
@@ -2675,8 +2675,8 @@ export const baseWords: Word[] = [
     "translation": "плохой",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich schlecht.",
-    "exampleTranslation": "Это действительно плохой."
+    "example": "Heute ist das Wetter wirklich schlecht.",
+    "exampleTranslation": "Сегодня погода действительно плохая."
   },
   {
     "id": "base-214",
@@ -2687,8 +2687,8 @@ export const baseWords: Word[] = [
     "translation": "теперь",
     "level": "A1",
     "category": "Основы",
-    "example": "„nun“ hört man oft im Alltag.",
-    "exampleTranslation": "«nun» часто можно услышать в повседневной речи."
+    "example": "Nun können wir anfangen.",
+    "exampleTranslation": "Теперь мы можем начать."
   },
   {
     "id": "base-215",
@@ -2701,8 +2701,8 @@ export const baseWords: Word[] = [
     "translation": "история, рассказ",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Geschichte ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: история, рассказ."
+    "example": "Die Geschichte hat ein gutes Ende.",
+    "exampleTranslation": "У этой истории хороший конец."
   },
   {
     "id": "base-216",
@@ -2715,8 +2715,8 @@ export const baseWords: Word[] = [
     "translation": "мать, мама",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Mutter ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мать, мама."
+    "example": "Meine Mutter arbeitet im Krankenhaus.",
+    "exampleTranslation": "Моя мама работает в больнице."
   },
   {
     "id": "base-217",
@@ -2727,8 +2727,8 @@ export const baseWords: Word[] = [
     "translation": "полный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich voll.",
-    "exampleTranslation": "Это действительно полный."
+    "example": "Der Bus ist morgens immer voll.",
+    "exampleTranslation": "Утром автобус всегда полный."
   },
   {
     "id": "base-218",
@@ -2739,8 +2739,8 @@ export const baseWords: Word[] = [
     "translation": "класть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute legen.",
-    "exampleTranslation": "Сегодня мы хотим: класть."
+    "example": "Leg das Handy bitte auf den Tisch.",
+    "exampleTranslation": "Положи телефон, пожалуйста, на стол."
   },
   {
     "id": "base-219",
@@ -2753,8 +2753,8 @@ export const baseWords: Word[] = [
     "translation": "удовольствие",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Spaß ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: удовольствие."
+    "example": "Der Ausflug hat viel Spaß gemacht.",
+    "exampleTranslation": "Экскурсия доставила много удовольствия."
   },
   {
     "id": "base-220",
@@ -2765,8 +2765,8 @@ export const baseWords: Word[] = [
     "translation": "действительно, на самом деле",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich tatsächlich.",
-    "exampleTranslation": "Это действительно действительно, на самом деле."
+    "example": "Er hat tatsächlich recht.",
+    "exampleTranslation": "Он действительно прав."
   },
   {
     "id": "base-221",
@@ -2777,8 +2777,8 @@ export const baseWords: Word[] = [
     "translation": "сразу, немедленно",
     "level": "A1",
     "category": "Путешествия",
-    "example": "„sofort“ hört man oft im Alltag.",
-    "exampleTranslation": "«sofort» часто можно услышать в повседневной речи."
+    "example": "Ich brauche sofort einen Arzt.",
+    "exampleTranslation": "Мне срочно нужен врач."
   },
   {
     "id": "base-222",
@@ -2789,8 +2789,8 @@ export const baseWords: Word[] = [
     "translation": "тяжёлый",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich schwer.",
-    "exampleTranslation": "Это действительно тяжёлый."
+    "example": "Der Koffer ist zu schwer.",
+    "exampleTranslation": "Чемодан слишком тяжёлый."
   },
   {
     "id": "base-223",
@@ -2801,8 +2801,8 @@ export const baseWords: Word[] = [
     "translation": "использовать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute benutzen.",
-    "exampleTranslation": "Сегодня мы хотим: использовать."
+    "example": "Darf ich Ihr Telefon benutzen?",
+    "exampleTranslation": "Можно воспользоваться Вашим телефоном?"
   },
   {
     "id": "base-224",
@@ -2814,8 +2814,8 @@ export const baseWords: Word[] = [
     "translation": "родители",
     "level": "A1",
     "category": "Люди",
-    "example": "Die Eltern (Pl.) ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: родители."
+    "example": "Meine Eltern besuchen uns am Wochenende.",
+    "exampleTranslation": "Мои родители навещают нас на выходных."
   },
   {
     "id": "base-225",
@@ -2826,8 +2826,8 @@ export const baseWords: Word[] = [
     "translation": "вдруг, внезапно",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich plötzlich.",
-    "exampleTranslation": "Это действительно вдруг, внезапно."
+    "example": "Plötzlich ging das Licht aus.",
+    "exampleTranslation": "Внезапно погас свет."
   },
   {
     "id": "base-226",
@@ -2838,8 +2838,8 @@ export const baseWords: Word[] = [
     "translation": "молодой",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich jung.",
-    "exampleTranslation": "Это действительно молодой."
+    "example": "Sie ist noch jung und sehr neugierig.",
+    "exampleTranslation": "Она ещё молодая и очень любознательная."
   },
   {
     "id": "base-227",
@@ -2852,8 +2852,8 @@ export const baseWords: Word[] = [
     "translation": "вечер",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Abend ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: вечер."
+    "example": "Am Abend koche ich gern.",
+    "exampleTranslation": "Вечером я люблю готовить."
   },
   {
     "id": "base-228",
@@ -2864,8 +2864,8 @@ export const baseWords: Word[] = [
     "translation": "звать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute rufen.",
-    "exampleTranslation": "Сегодня мы хотим: звать."
+    "example": "Ich rufe ein Taxi.",
+    "exampleTranslation": "Я вызываю такси."
   },
   {
     "id": "base-229",
@@ -2876,8 +2876,8 @@ export const baseWords: Word[] = [
     "translation": "скоро",
     "level": "A1",
     "category": "Основы",
-    "example": "„bald“ hört man oft im Alltag.",
-    "exampleTranslation": "«bald» часто можно услышать в повседневной речи."
+    "example": "Bis bald!",
+    "exampleTranslation": "До скорого!"
   },
   {
     "id": "base-230",
@@ -2890,8 +2890,8 @@ export const baseWords: Word[] = [
     "translation": "опыт",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Erfahrung ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: опыт."
+    "example": "Haben Sie Erfahrung in diesem Beruf?",
+    "exampleTranslation": "У Вас есть опыт работы в этой профессии?"
   },
   {
     "id": "base-231",
@@ -2902,8 +2902,8 @@ export const baseWords: Word[] = [
     "translation": "совсем (в отрицаниях)",
     "level": "A1",
     "category": "Основы",
-    "example": "„überhaupt“ hört man oft im Alltag.",
-    "exampleTranslation": "«überhaupt» часто можно услышать в повседневной речи."
+    "example": "Ich habe heute überhaupt keine Zeit.",
+    "exampleTranslation": "Сегодня у меня совсем нет времени."
   },
   {
     "id": "base-232",
@@ -2928,8 +2928,8 @@ export const baseWords: Word[] = [
     "translation": "последствие",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Folge ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: последствие."
+    "example": "Die Folge war ein langer Stau.",
+    "exampleTranslation": "Последствием стала длинная пробка."
   },
   {
     "id": "base-234",
@@ -2942,8 +2942,8 @@ export const baseWords: Word[] = [
     "translation": "квартира",
     "level": "A1",
     "category": "Дом",
-    "example": "Die Wohnung ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: квартира."
+    "example": "Wir suchen eine helle Wohnung.",
+    "exampleTranslation": "Мы ищем светлую квартиру."
   },
   {
     "id": "base-235",
@@ -2954,8 +2954,8 @@ export const baseWords: Word[] = [
     "translation": "прямой",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich direkt.",
-    "exampleTranslation": "Это действительно прямой."
+    "example": "Gibt es einen direkten Zug nach München?",
+    "exampleTranslation": "Есть прямой поезд до Мюнхена?"
   },
   {
     "id": "base-236",
@@ -2966,8 +2966,8 @@ export const baseWords: Word[] = [
     "translation": "сначала",
     "level": "A1",
     "category": "Основы",
-    "example": "„zuerst“ hört man oft im Alltag.",
-    "exampleTranslation": "«zuerst» часто можно услышать в повседневной речи."
+    "example": "Zuerst machen wir eine kurze Pause.",
+    "exampleTranslation": "Сначала мы сделаем короткий перерыв."
   },
   {
     "id": "base-237",
@@ -2980,8 +2980,8 @@ export const baseWords: Word[] = [
     "translation": "идея",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Idee ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: идея."
+    "example": "Das ist eine gute Idee.",
+    "exampleTranslation": "Это хорошая идея."
   },
   {
     "id": "base-238",
@@ -2994,8 +2994,8 @@ export const baseWords: Word[] = [
     "translation": "страница",
     "level": "A1",
     "category": "Еда",
-    "example": "Die Seite ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: страница."
+    "example": "Die Antwort steht auf Seite zehn.",
+    "exampleTranslation": "Ответ находится на десятой странице."
   },
   {
     "id": "base-239",
@@ -3006,8 +3006,8 @@ export const baseWords: Word[] = [
     "translation": "быть верным, соответствовать",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute stimmen.",
-    "exampleTranslation": "Сегодня мы хотим: быть верным, соответствовать."
+    "example": "Die Adresse stimmt nicht.",
+    "exampleTranslation": "Адрес указан неверно."
   },
   {
     "id": "base-240",
@@ -3019,8 +3019,8 @@ export const baseWords: Word[] = [
     "translation": "благодарность",
     "level": "A1",
     "category": "Основы",
-    "example": "Der Dank ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: благодарность."
+    "example": "Vielen Dank für Ihre Nachricht.",
+    "exampleTranslation": "Большое спасибо за Ваше сообщение."
   },
   {
     "id": "base-241",
@@ -3031,8 +3031,8 @@ export const baseWords: Word[] = [
     "translation": "различный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich verschieden.",
-    "exampleTranslation": "Это действительно различный."
+    "example": "Wir haben verschiedene Möglichkeiten.",
+    "exampleTranslation": "У нас есть разные возможности."
   },
   {
     "id": "base-242",
@@ -3043,8 +3043,8 @@ export const baseWords: Word[] = [
     "translation": "светить",
     "level": "A1",
     "category": "Еда",
-    "example": "Wir wollen heute scheinen.",
-    "exampleTranslation": "Сегодня мы хотим: светить."
+    "example": "Heute scheint endlich die Sonne.",
+    "exampleTranslation": "Сегодня наконец светит солнце."
   },
   {
     "id": "base-243",
@@ -3057,8 +3057,8 @@ export const baseWords: Word[] = [
     "translation": "месяц",
     "level": "A1",
     "category": "Время",
-    "example": "Der Monat ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: месяц."
+    "example": "Der Kurs dauert sechs Monate.",
+    "exampleTranslation": "Курс длится шесть месяцев."
   },
   {
     "id": "base-244",
@@ -3071,8 +3071,8 @@ export const baseWords: Word[] = [
     "translation": "имя",
     "level": "A1",
     "category": "Люди",
-    "example": "Der Name ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: имя."
+    "example": "Wie ist Ihr Name?",
+    "exampleTranslation": "Как Вас зовут?"
   },
   {
     "id": "base-245",
@@ -3083,8 +3083,8 @@ export const baseWords: Word[] = [
     "translation": "выглядеть",
     "level": "A1",
     "category": "Основы",
-    "example": "Wir wollen heute aussehen.",
-    "exampleTranslation": "Сегодня мы хотим: выглядеть."
+    "example": "Du siehst heute müde aus.",
+    "exampleTranslation": "Ты сегодня выглядишь уставшим."
   },
   {
     "id": "base-246",
@@ -3097,8 +3097,8 @@ export const baseWords: Word[] = [
     "translation": "язык",
     "level": "A1",
     "category": "Основы",
-    "example": "Die Sprache ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: язык."
+    "example": "Welche Sprachen sprichst du?",
+    "exampleTranslation": "На каких языках ты говоришь?"
   },
   {
     "id": "base-247",
@@ -3111,8 +3111,8 @@ export const baseWords: Word[] = [
     "translation": "велосипед",
     "level": "A1",
     "category": "Основы",
-    "example": "Das Fahrrad ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: велосипед."
+    "example": "Ich fahre mit dem Fahrrad zur Arbeit.",
+    "exampleTranslation": "Я езжу на работу на велосипеде."
   },
   {
     "id": "base-248",
@@ -3123,8 +3123,8 @@ export const baseWords: Word[] = [
     "translation": "вероятно, наверное",
     "level": "A1",
     "category": "Еда",
-    "example": "Das ist wirklich wahrscheinlich.",
-    "exampleTranslation": "Это действительно вероятно, наверное."
+    "example": "Wahrscheinlich kommt er etwas später.",
+    "exampleTranslation": "Вероятно, он придёт немного позже."
   },
   {
     "id": "base-249",
@@ -3137,8 +3137,8 @@ export const baseWords: Word[] = [
     "translation": "мнение",
     "level": "A1",
     "category": "Еда",
-    "example": "Die Meinung ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мнение."
+    "example": "Meiner Meinung nach ist das zu teuer.",
+    "exampleTranslation": "По моему мнению, это слишком дорого."
   },
   {
     "id": "base-250",
@@ -3149,8 +3149,8 @@ export const baseWords: Word[] = [
     "translation": "сильный",
     "level": "A1",
     "category": "Основы",
-    "example": "Das ist wirklich stark.",
-    "exampleTranslation": "Это действительно сильный."
+    "example": "Der Kaffee ist heute sehr stark.",
+    "exampleTranslation": "Сегодня кофе очень крепкий."
   },
   {
     "id": "base-251",
@@ -3163,8 +3163,8 @@ export const baseWords: Word[] = [
     "translation": "отец",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Vater ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: отец."
+    "example": "Mein Vater fährt jeden Tag zur Arbeit.",
+    "exampleTranslation": "Мой отец каждый день ездит на работу."
   },
   {
     "id": "base-252",
@@ -3175,8 +3175,8 @@ export const baseWords: Word[] = [
     "translation": "тем не менее",
     "level": "A2",
     "category": "Основы",
-    "example": "„trotzdem“ hört man oft im Alltag.",
-    "exampleTranslation": "«trotzdem» часто можно услышать в повседневной речи."
+    "example": "Es regnet, trotzdem gehen wir spazieren.",
+    "exampleTranslation": "Идёт дождь, но мы всё равно идём гулять."
   },
   {
     "id": "base-253",
@@ -3187,8 +3187,8 @@ export const baseWords: Word[] = [
     "translation": "означать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute bedeuten.",
-    "exampleTranslation": "Сегодня мы хотим: означать."
+    "example": "Was bedeutet dieses Zeichen?",
+    "exampleTranslation": "Что означает этот знак?"
   },
   {
     "id": "base-254",
@@ -3199,8 +3199,8 @@ export const baseWords: Word[] = [
     "translation": "настоящий, подлинный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich echt.",
-    "exampleTranslation": "Это действительно настоящий, подлинный."
+    "example": "Ist die Tasche aus echtem Leder?",
+    "exampleTranslation": "Эта сумка из натуральной кожи?"
   },
   {
     "id": "base-255",
@@ -3211,8 +3211,8 @@ export const baseWords: Word[] = [
     "translation": "некоторые, несколько",
     "level": "A2",
     "category": "Еда",
-    "example": "„einige“ hört man oft im Alltag.",
-    "exampleTranslation": "«einige» часто можно услышать в повседневной речи."
+    "example": "Einige Teilnehmer kommen später.",
+    "exampleTranslation": "Некоторые участники придут позже."
   },
   {
     "id": "base-256",
@@ -3223,8 +3223,8 @@ export const baseWords: Word[] = [
     "translation": "громкий",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich laut.",
-    "exampleTranslation": "Это действительно громкий."
+    "example": "Die Musik ist zu laut.",
+    "exampleTranslation": "Музыка играет слишком громко."
   },
   {
     "id": "base-257",
@@ -3237,8 +3237,8 @@ export const baseWords: Word[] = [
     "translation": "стол",
     "level": "A2",
     "category": "Дом",
-    "example": "Der Tisch ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: стол."
+    "example": "Das Essen steht schon auf dem Tisch.",
+    "exampleTranslation": "Еда уже стоит на столе."
   },
   {
     "id": "base-258",
@@ -3249,8 +3249,8 @@ export const baseWords: Word[] = [
     "translation": "носить (одежду)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute tragen.",
-    "exampleTranslation": "Сегодня мы хотим: носить (одежду)."
+    "example": "Im Winter trage ich einen warmen Mantel.",
+    "exampleTranslation": "Зимой я ношу тёплое пальто."
   },
   {
     "id": "base-259",
@@ -3261,8 +3261,8 @@ export const baseWords: Word[] = [
     "translation": "звучать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute klingen.",
-    "exampleTranslation": "Сегодня мы хотим: звучать."
+    "example": "Das klingt nach einer guten Idee.",
+    "exampleTranslation": "Это звучит как хорошая идея."
   },
   {
     "id": "base-260",
@@ -3273,8 +3273,8 @@ export const baseWords: Word[] = [
     "translation": "прочь",
     "level": "A2",
     "category": "Путешествия",
-    "example": "„weg“ hört man oft im Alltag.",
-    "exampleTranslation": "«weg» часто можно услышать в повседневной речи."
+    "example": "Mein Schlüssel ist schon wieder weg.",
+    "exampleTranslation": "Мой ключ снова куда-то пропал."
   },
   {
     "id": "base-261",
@@ -3285,8 +3285,8 @@ export const baseWords: Word[] = [
     "translation": "туда (от говорящего)",
     "level": "A2",
     "category": "Основы",
-    "example": "„hin“ hört man oft im Alltag.",
-    "exampleTranslation": "«hin» часто можно услышать в повседневной речи."
+    "example": "Wo möchtest du hin?",
+    "exampleTranslation": "Куда ты хочешь пойти?"
   },
   {
     "id": "base-262",
@@ -3299,8 +3299,8 @@ export const baseWords: Word[] = [
     "translation": "чувство",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Gefühl ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: чувство."
+    "example": "Ich habe ein gutes Gefühl.",
+    "exampleTranslation": "У меня хорошее предчувствие."
   },
   {
     "id": "base-263",
@@ -3313,8 +3313,8 @@ export const baseWords: Word[] = [
     "translation": "утро",
     "level": "A2",
     "category": "Время",
-    "example": "Der Morgen ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: утро."
+    "example": "Am Morgen trinke ich zuerst Wasser.",
+    "exampleTranslation": "Утром я сначала пью воду."
   },
   {
     "id": "base-264",
@@ -3325,8 +3325,8 @@ export const baseWords: Word[] = [
     "translation": "к сожалению",
     "level": "A2",
     "category": "Еда",
-    "example": "„leider“ hört man oft im Alltag.",
-    "exampleTranslation": "«leider» часто можно услышать в повседневной речи."
+    "example": "Leider ist heute alles ausgebucht.",
+    "exampleTranslation": "К сожалению, сегодня всё забронировано."
   },
   {
     "id": "base-265",
@@ -3337,8 +3337,8 @@ export const baseWords: Word[] = [
     "translation": "а именно, причём",
     "level": "A2",
     "category": "Основы",
-    "example": "„zwar“ hört man oft im Alltag.",
-    "exampleTranslation": "«zwar» часто можно услышать в повседневной речи."
+    "example": "Das Zimmer ist zwar klein, aber hell.",
+    "exampleTranslation": "Комната хоть и маленькая, но светлая."
   },
   {
     "id": "base-266",
@@ -3349,8 +3349,8 @@ export const baseWords: Word[] = [
     "translation": "замечать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute merken.",
-    "exampleTranslation": "Сегодня мы хотим: замечать."
+    "example": "Ich merke, dass ich müde bin.",
+    "exampleTranslation": "Я замечаю, что устал."
   },
   {
     "id": "base-267",
@@ -3363,8 +3363,8 @@ export const baseWords: Word[] = [
     "translation": "комната",
     "level": "A2",
     "category": "Дом",
-    "example": "Das Zimmer ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: комната."
+    "example": "Das Zimmer hat ein großes Fenster.",
+    "exampleTranslation": "В комнате есть большое окно."
   },
   {
     "id": "base-268",
@@ -3375,8 +3375,8 @@ export const baseWords: Word[] = [
     "translation": "достаточно",
     "level": "A2",
     "category": "Основы",
-    "example": "„genug“ hört man oft im Alltag.",
-    "exampleTranslation": "«genug» часто можно услышать в повседневной речи."
+    "example": "Haben wir genug Brot?",
+    "exampleTranslation": "У нас достаточно хлеба?"
   },
   {
     "id": "base-269",
@@ -3389,8 +3389,8 @@ export const baseWords: Word[] = [
     "translation": "кровать",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Bett ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: кровать."
+    "example": "Das Kind schläft schon im Bett.",
+    "exampleTranslation": "Ребёнок уже спит в кровати."
   },
   {
     "id": "base-270",
@@ -3401,8 +3401,8 @@ export const baseWords: Word[] = [
     "translation": "иначе, в противном случае",
     "level": "A2",
     "category": "Основы",
-    "example": "„sonst“ hört man oft im Alltag.",
-    "exampleTranslation": "«sonst» часто можно услышать в повседневной речи."
+    "example": "Beeil dich, sonst verpassen wir den Zug.",
+    "exampleTranslation": "Поторопись, иначе мы пропустим поезд."
   },
   {
     "id": "base-271",
@@ -3413,8 +3413,8 @@ export const baseWords: Word[] = [
     "translation": "открывать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute öffnen.",
-    "exampleTranslation": "Сегодня мы хотим: открывать."
+    "example": "Können Sie bitte das Fenster öffnen?",
+    "exampleTranslation": "Вы можете открыть окно?"
   },
   {
     "id": "base-272",
@@ -3425,8 +3425,8 @@ export const baseWords: Word[] = [
     "translation": "спать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute schlafen.",
-    "exampleTranslation": "Сегодня мы хотим: спать."
+    "example": "Ich schlafe meistens acht Stunden.",
+    "exampleTranslation": "Обычно я сплю восемь часов."
   },
   {
     "id": "base-273",
@@ -3439,8 +3439,8 @@ export const baseWords: Word[] = [
     "translation": "лицо",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Gesicht ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: лицо."
+    "example": "Wasch dir bitte das Gesicht.",
+    "exampleTranslation": "Умой, пожалуйста, лицо."
   },
   {
     "id": "base-274",
@@ -3452,8 +3452,8 @@ export const baseWords: Word[] = [
     "translation": "лучший",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich beste (r.",
-    "exampleTranslation": "Это действительно лучший."
+    "example": "Das ist die beste Lösung.",
+    "exampleTranslation": "Это лучшее решение."
   },
   {
     "id": "base-275",
@@ -3476,8 +3476,8 @@ export const baseWords: Word[] = [
     "translation": "смеяться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute lachen.",
-    "exampleTranslation": "Сегодня мы хотим: смеяться."
+    "example": "Wir haben den ganzen Abend gelacht.",
+    "exampleTranslation": "Мы смеялись весь вечер."
   },
   {
     "id": "base-277",
@@ -3490,8 +3490,8 @@ export const baseWords: Word[] = [
     "translation": "окно",
     "level": "A2",
     "category": "Дом",
-    "example": "Das Fenster ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: окно."
+    "example": "Mach bitte das Fenster zu.",
+    "exampleTranslation": "Закрой, пожалуйста, окно."
   },
   {
     "id": "base-278",
@@ -3504,8 +3504,8 @@ export const baseWords: Word[] = [
     "translation": "улица",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Die Straße ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: улица."
+    "example": "Unsere Straße ist nachts sehr ruhig.",
+    "exampleTranslation": "Наша улица ночью очень тихая."
   },
   {
     "id": "base-279",
@@ -3528,8 +3528,8 @@ export const baseWords: Word[] = [
     "translation": "довольно",
     "level": "A2",
     "category": "Основы",
-    "example": "„ziemlich“ hört man oft im Alltag.",
-    "exampleTranslation": "«ziemlich» часто можно услышать в повседневной речи."
+    "example": "Das Hotel ist ziemlich teuer.",
+    "exampleTranslation": "Отель довольно дорогой."
   },
   {
     "id": "base-281",
@@ -3540,8 +3540,8 @@ export const baseWords: Word[] = [
     "translation": "кроме того",
     "level": "A2",
     "category": "Основы",
-    "example": "„außerdem“ hört man oft im Alltag.",
-    "exampleTranslation": "«außerdem» часто можно услышать в повседневной речи."
+    "example": "Die Wohnung ist hell und außerdem sehr ruhig.",
+    "exampleTranslation": "Квартира светлая и, кроме того, очень тихая."
   },
   {
     "id": "base-282",
@@ -3552,8 +3552,8 @@ export const baseWords: Word[] = [
     "translation": "справляться, успевать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute schaffen.",
-    "exampleTranslation": "Сегодня мы хотим: справляться, успевать."
+    "example": "Ich schaffe die Aufgabe heute nicht mehr.",
+    "exampleTranslation": "Я сегодня уже не успею выполнить задание."
   },
   {
     "id": "base-283",
@@ -3564,8 +3564,8 @@ export const baseWords: Word[] = [
     "translation": "говорить, разговаривать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute reden.",
-    "exampleTranslation": "Сегодня мы хотим: говорить, разговаривать."
+    "example": "Wir müssen über das Problem reden.",
+    "exampleTranslation": "Нам нужно поговорить о проблеме."
   },
   {
     "id": "base-284",
@@ -3576,8 +3576,8 @@ export const baseWords: Word[] = [
     "translation": "подходящий, устраивающий",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich recht.",
-    "exampleTranslation": "Это действительно подходящий, устраивающий."
+    "example": "Der Termin am Freitag ist mir recht.",
+    "exampleTranslation": "Встреча в пятницу меня устраивает."
   },
   {
     "id": "base-285",
@@ -3588,8 +3588,8 @@ export const baseWords: Word[] = [
     "translation": "белый",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich weiß.",
-    "exampleTranslation": "Это действительно белый."
+    "example": "Im Winter sind die Berge ganz weiß.",
+    "exampleTranslation": "Зимой горы совсем белые."
   },
   {
     "id": "base-286",
@@ -3600,8 +3600,8 @@ export const baseWords: Word[] = [
     "translation": "вверху",
     "level": "A2",
     "category": "Основы",
-    "example": "„oben“ hört man oft im Alltag.",
-    "exampleTranslation": "«oben» часто можно услышать в повседневной речи."
+    "example": "Die Toilette ist oben, im ersten Stock.",
+    "exampleTranslation": "Туалет наверху, на втором этаже."
   },
   {
     "id": "base-287",
@@ -3612,8 +3612,8 @@ export const baseWords: Word[] = [
     "translation": "личный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich persönlich.",
-    "exampleTranslation": "Это действительно личный."
+    "example": "Ich möchte persönlich mit Ihnen sprechen.",
+    "exampleTranslation": "Я хотел бы поговорить с Вами лично."
   },
   {
     "id": "base-288",
@@ -3624,8 +3624,8 @@ export const baseWords: Word[] = [
     "translation": "завтра",
     "level": "A2",
     "category": "Время",
-    "example": "„morgen“ hört man oft im Alltag.",
-    "exampleTranslation": "«morgen» часто можно услышать в повседневной речи."
+    "example": "Morgen habe ich einen wichtigen Termin.",
+    "exampleTranslation": "Завтра у меня важная встреча."
   },
   {
     "id": "base-289",
@@ -3636,8 +3636,8 @@ export const baseWords: Word[] = [
     "translation": "иначе",
     "level": "A2",
     "category": "Основы",
-    "example": "„anders“ hört man oft im Alltag.",
-    "exampleTranslation": "«anders» часто можно услышать в повседневной речи."
+    "example": "Heute machen wir es anders.",
+    "exampleTranslation": "Сегодня мы сделаем это иначе."
   },
   {
     "id": "base-290",
@@ -3648,8 +3648,8 @@ export const baseWords: Word[] = [
     "translation": "прочь; отсутствующий",
     "level": "A2",
     "category": "Путешествия",
-    "example": "„fort“ hört man oft im Alltag.",
-    "exampleTranslation": "«fort» часто можно услышать в повседневной речи."
+    "example": "Der Schmerz ist endlich fort.",
+    "exampleTranslation": "Боль наконец прошла."
   },
   {
     "id": "base-291",
@@ -3661,8 +3661,8 @@ export const baseWords: Word[] = [
     "translation": "один, в одиночестве",
     "level": "A2",
     "category": "Еда",
-    "example": "„allein“ hört man oft im Alltag.",
-    "exampleTranslation": "«allein» часто можно услышать в повседневной речи."
+    "example": "Heute Abend bin ich allein zu Hause.",
+    "exampleTranslation": "Сегодня вечером я один дома."
   },
   {
     "id": "base-292",
@@ -3673,8 +3673,8 @@ export const baseWords: Word[] = [
     "translation": "интересный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich interessant.",
-    "exampleTranslation": "Это действительно интересный."
+    "example": "Der Vortrag war sehr interessant.",
+    "exampleTranslation": "Доклад был очень интересным."
   },
   {
     "id": "base-293",
@@ -3685,8 +3685,8 @@ export const baseWords: Word[] = [
     "translation": "надеяться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute hoffen.",
-    "exampleTranslation": "Сегодня мы хотим: надеяться."
+    "example": "Ich hoffe, dass alles gut geht.",
+    "exampleTranslation": "Я надеюсь, что всё пройдёт хорошо."
   },
   {
     "id": "base-294",
@@ -3698,8 +3698,8 @@ export const baseWords: Word[] = [
     "translation": "музыка",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Musik ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: музыка."
+    "example": "Beim Kochen höre ich gern Musik.",
+    "exampleTranslation": "Во время готовки я люблю слушать музыку."
   },
   {
     "id": "base-295",
@@ -3711,8 +3711,8 @@ export const baseWords: Word[] = [
     "translation": "большинство",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich meiste (r.",
-    "exampleTranslation": "Это действительно большинство."
+    "example": "Die meisten Geschäfte schließen um acht.",
+    "exampleTranslation": "Большинство магазинов закрывается в восемь."
   },
   {
     "id": "base-296",
@@ -3723,8 +3723,8 @@ export const baseWords: Word[] = [
     "translation": "внизу",
     "level": "A2",
     "category": "Основы",
-    "example": "„unten“ hört man oft im Alltag.",
-    "exampleTranslation": "«unten» часто можно услышать в повседневной речи."
+    "example": "Die Fahrräder stehen unten im Keller.",
+    "exampleTranslation": "Велосипеды стоят внизу в подвале."
   },
   {
     "id": "base-297",
@@ -3747,8 +3747,8 @@ export const baseWords: Word[] = [
     "translation": "чёрный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich schwarz.",
-    "exampleTranslation": "Это действительно чёрный."
+    "example": "Ich trage heute eine schwarze Jacke.",
+    "exampleTranslation": "Сегодня на мне чёрная куртка."
   },
   {
     "id": "base-299",
@@ -3759,8 +3759,8 @@ export const baseWords: Word[] = [
     "translation": "четыре",
     "level": "A2",
     "category": "Основы",
-    "example": "„vier“ hört man oft im Alltag.",
-    "exampleTranslation": "«vier» часто можно услышать в повседневной речи."
+    "example": "Wir brauchen vier Fahrkarten.",
+    "exampleTranslation": "Нам нужны четыре билета."
   },
   {
     "id": "base-300",
@@ -3773,8 +3773,8 @@ export const baseWords: Word[] = [
     "translation": "недостаток, минус",
     "level": "A2",
     "category": "Еда",
-    "example": "Der Nachteil ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: недостаток, минус."
+    "example": "Ein Nachteil ist die lange Fahrzeit.",
+    "exampleTranslation": "Один из недостатков — долгое время в пути."
   },
   {
     "id": "base-301",
@@ -3787,8 +3787,8 @@ export const baseWords: Word[] = [
     "translation": "ситуация",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Situation ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ситуация."
+    "example": "In dieser Situation solltest du ruhig bleiben.",
+    "exampleTranslation": "В этой ситуации тебе следует сохранять спокойствие."
   },
   {
     "id": "base-302",
@@ -3799,8 +3799,8 @@ export const baseWords: Word[] = [
     "translation": "поэтому",
     "level": "A2",
     "category": "Путешествия",
-    "example": "„deswegen“ hört man oft im Alltag.",
-    "exampleTranslation": "«deswegen» часто можно услышать в повседневной речи."
+    "example": "Mein Bus hatte Verspätung, deswegen bin ich spät.",
+    "exampleTranslation": "Мой автобус опоздал, поэтому я пришёл поздно."
   },
   {
     "id": "base-303",
@@ -3813,8 +3813,8 @@ export const baseWords: Word[] = [
     "translation": "фильм",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Film ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: фильм."
+    "example": "Hast du den neuen Film schon gesehen?",
+    "exampleTranslation": "Ты уже посмотрел новый фильм?"
   },
   {
     "id": "base-304",
@@ -3825,8 +3825,8 @@ export const baseWords: Word[] = [
     "translation": "около, приблизительно",
     "level": "A2",
     "category": "Основы",
-    "example": "„etwa“ hört man oft im Alltag.",
-    "exampleTranslation": "«etwa» часто можно услышать в повседневной речи."
+    "example": "Die Reparatur dauert etwa zwei Stunden.",
+    "exampleTranslation": "Ремонт займёт около двух часов."
   },
   {
     "id": "base-305",
@@ -3839,8 +3839,8 @@ export const baseWords: Word[] = [
     "translation": "ночь",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Nacht ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ночь."
+    "example": "Letzte Nacht konnte ich nicht schlafen.",
+    "exampleTranslation": "Прошлой ночью я не мог уснуть."
   },
   {
     "id": "base-306",
@@ -3851,8 +3851,8 @@ export const baseWords: Word[] = [
     "translation": "называть",
     "level": "A2",
     "category": "Основы",
-    "example": "Können Sie ein Beispiel nennen?",
-    "exampleTranslation": "Вы можете привести пример?"
+    "example": "Können Sie Ihren Namen noch einmal nennen?",
+    "exampleTranslation": "Вы можете ещё раз назвать своё имя?"
   },
   {
     "id": "base-307",
@@ -3865,8 +3865,8 @@ export const baseWords: Word[] = [
     "translation": "сумка",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Tasche ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сумка."
+    "example": "Meine Schlüssel sind in der Tasche.",
+    "exampleTranslation": "Мои ключи лежат в сумке."
   },
   {
     "id": "base-308",
@@ -3877,8 +3877,8 @@ export const baseWords: Word[] = [
     "translation": "лёгкий",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich leicht.",
-    "exampleTranslation": "Это действительно лёгкий."
+    "example": "Die Tasche ist klein und sehr leicht.",
+    "exampleTranslation": "Сумка маленькая и очень лёгкая."
   },
   {
     "id": "base-309",
@@ -3890,8 +3890,8 @@ export const baseWords: Word[] = [
     "translation": "удача",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Glück ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: удача."
+    "example": "Wir hatten Glück mit dem Wetter.",
+    "exampleTranslation": "Нам повезло с погодой."
   },
   {
     "id": "base-310",
@@ -3902,8 +3902,8 @@ export const baseWords: Word[] = [
     "translation": "вести",
     "level": "A2",
     "category": "Основы",
-    "example": "Dieses Gespräch führt zu einer Lösung.",
-    "exampleTranslation": "Этот разговор приводит к решению."
+    "example": "Diese Straße führt direkt zum Bahnhof.",
+    "exampleTranslation": "Эта улица ведёт прямо к вокзалу."
   },
   {
     "id": "base-311",
@@ -3916,8 +3916,8 @@ export const baseWords: Word[] = [
     "translation": "собака",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Hund ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: собака."
+    "example": "Der Hund schläft unter dem Tisch.",
+    "exampleTranslation": "Собака спит под столом."
   },
   {
     "id": "base-312",
@@ -3928,8 +3928,8 @@ export const baseWords: Word[] = [
     "translation": "напоминать (о чём-л.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute erinnern.",
-    "exampleTranslation": "Сегодня мы хотим: напоминать (о чём-л.)."
+    "example": "Kannst du mich morgen daran erinnern?",
+    "exampleTranslation": "Можешь напомнить мне об этом завтра?"
   },
   {
     "id": "base-313",
@@ -3942,8 +3942,8 @@ export const baseWords: Word[] = [
     "translation": "мужчина; господин",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Herr ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мужчина; господин."
+    "example": "Der Herr an der Kasse wartet schon.",
+    "exampleTranslation": "Господин у кассы уже ждёт."
   },
   {
     "id": "base-314",
@@ -3954,8 +3954,8 @@ export const baseWords: Word[] = [
     "translation": "совершенно, совсем",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich total.",
-    "exampleTranslation": "Это действительно совершенно, совсем."
+    "example": "Ich habe den Termin total vergessen.",
+    "exampleTranslation": "Я совершенно забыл о встрече."
   },
   {
     "id": "base-315",
@@ -3966,8 +3966,8 @@ export const baseWords: Word[] = [
     "translation": "едва, почти не",
     "level": "A2",
     "category": "Основы",
-    "example": "„kaum“ hört man oft im Alltag.",
-    "exampleTranslation": "«kaum» часто можно услышать в повседневной речи."
+    "example": "Ich hatte heute kaum Zeit zum Essen.",
+    "exampleTranslation": "Сегодня у меня почти не было времени поесть."
   },
   {
     "id": "base-316",
@@ -3978,8 +3978,8 @@ export const baseWords: Word[] = [
     "translation": "пять",
     "level": "A2",
     "category": "Основы",
-    "example": "„fünf“ hört man oft im Alltag.",
-    "exampleTranslation": "«fünf» часто можно услышать в повседневной речи."
+    "example": "Der Bus kommt in fünf Minuten.",
+    "exampleTranslation": "Автобус придёт через пять минут."
   },
   {
     "id": "base-317",
@@ -3990,8 +3990,8 @@ export const baseWords: Word[] = [
     "translation": "нравиться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute gefallen.",
-    "exampleTranslation": "Сегодня мы хотим: нравиться."
+    "example": "Wie gefällt dir die neue Wohnung?",
+    "exampleTranslation": "Как тебе новая квартира?"
   },
   {
     "id": "base-318",
@@ -4004,8 +4004,8 @@ export const baseWords: Word[] = [
     "translation": "врач",
     "level": "A2",
     "category": "Здоровье",
-    "example": "Der Arzt ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: врач."
+    "example": "Der Arzt hat mir dieses Medikament empfohlen.",
+    "exampleTranslation": "Врач порекомендовал мне это лекарство."
   },
   {
     "id": "base-319",
@@ -4018,8 +4018,8 @@ export const baseWords: Word[] = [
     "translation": "сообщение, новость",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Nachricht ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сообщение, новость."
+    "example": "Ich habe deine Nachricht gelesen.",
+    "exampleTranslation": "Я прочитал твоё сообщение."
   },
   {
     "id": "base-320",
@@ -4030,8 +4030,8 @@ export const baseWords: Word[] = [
     "translation": "проигрывать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute verlieren.",
-    "exampleTranslation": "Сегодня мы хотим: проигрывать."
+    "example": "Pass auf, dass du den Schlüssel nicht verlierst.",
+    "exampleTranslation": "Смотри не потеряй ключ."
   },
   {
     "id": "base-321",
@@ -4042,8 +4042,8 @@ export const baseWords: Word[] = [
     "translation": "счастливый",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich glücklich.",
-    "exampleTranslation": "Это действительно счастливый."
+    "example": "Die Kinder sind am Meer sehr glücklich.",
+    "exampleTranslation": "Дети очень счастливы у моря."
   },
   {
     "id": "base-322",
@@ -4054,8 +4054,8 @@ export const baseWords: Word[] = [
     "translation": "свободный",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich frei.",
-    "exampleTranslation": "Это действительно свободный."
+    "example": "Ist dieser Platz noch frei?",
+    "exampleTranslation": "Это место ещё свободно?"
   },
   {
     "id": "base-323",
@@ -4068,8 +4068,8 @@ export const baseWords: Word[] = [
     "translation": "мобильный телефон",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Handy ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мобильный телефон."
+    "example": "Mein Handy ist fast leer.",
+    "exampleTranslation": "Мой телефон почти разряжен."
   },
   {
     "id": "base-324",
@@ -4092,8 +4092,8 @@ export const baseWords: Word[] = [
     "translation": "крепко, плотно",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich fest.",
-    "exampleTranslation": "Это действительно крепко, плотно."
+    "example": "Halt dich bitte am Geländer fest.",
+    "exampleTranslation": "Держись, пожалуйста, крепко за перила."
   },
   {
     "id": "base-326",
@@ -4104,8 +4104,8 @@ export const baseWords: Word[] = [
     "translation": "тихий, спокойный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich ruhig.",
-    "exampleTranslation": "Это действительно тихий, спокойный."
+    "example": "Unser Hotelzimmer ist angenehm ruhig.",
+    "exampleTranslation": "Наш номер в отеле приятно тихий."
   },
   {
     "id": "base-327",
@@ -4116,8 +4116,8 @@ export const baseWords: Word[] = [
     "translation": "совершенный, идеальный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich perfekt.",
-    "exampleTranslation": "Это действительно совершенный, идеальный."
+    "example": "Samstag um zehn wäre perfekt.",
+    "exampleTranslation": "Суббота в десять подошла бы идеально."
   },
   {
     "id": "base-328",
@@ -4128,8 +4128,8 @@ export const baseWords: Word[] = [
     "translation": "желать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute wünschen.",
-    "exampleTranslation": "Сегодня мы хотим: желать."
+    "example": "Ich wünsche dir eine gute Reise.",
+    "exampleTranslation": "Желаю тебе хорошей поездки."
   },
   {
     "id": "base-329",
@@ -4140,8 +4140,8 @@ export const baseWords: Word[] = [
     "translation": "приносить",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute holen.",
-    "exampleTranslation": "Сегодня мы хотим: приносить."
+    "example": "Ich hole dich vom Bahnhof ab.",
+    "exampleTranslation": "Я встречу тебя на вокзале."
   },
   {
     "id": "base-330",
@@ -4152,8 +4152,8 @@ export const baseWords: Word[] = [
     "translation": "состоять (из чего-л.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute bestehen.",
-    "exampleTranslation": "Сегодня мы хотим: состоять (из чего-л.)."
+    "example": "Das Menü besteht aus drei Gängen.",
+    "exampleTranslation": "Меню состоит из трёх блюд."
   },
   {
     "id": "base-331",
@@ -4164,8 +4164,8 @@ export const baseWords: Word[] = [
     "translation": "пока",
     "level": "A2",
     "category": "Основы",
-    "example": "„tschüss“ hört man oft im Alltag.",
-    "exampleTranslation": "«tschüss» часто можно услышать в повседневной речи."
+    "example": "Tschüss, bis morgen!",
+    "exampleTranslation": "Пока, до завтра!"
   },
   {
     "id": "base-332",
@@ -4178,8 +4178,8 @@ export const baseWords: Word[] = [
     "translation": "комментарий",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Kommentar ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: комментарий."
+    "example": "Unter dem Artikel stehen viele Kommentare.",
+    "exampleTranslation": "Под статьёй много комментариев."
   },
   {
     "id": "base-333",
@@ -4192,8 +4192,8 @@ export const baseWords: Word[] = [
     "translation": "страх",
     "level": "A2",
     "category": "Здоровье",
-    "example": "Die Angst ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: страх."
+    "example": "Ich habe Angst vor großen Hunden.",
+    "exampleTranslation": "Я боюсь больших собак."
   },
   {
     "id": "base-334",
@@ -4206,8 +4206,8 @@ export const baseWords: Word[] = [
     "translation": "место",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Der Ort ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: место."
+    "example": "Das ist ein guter Ort für eine Pause.",
+    "exampleTranslation": "Это хорошее место для перерыва."
   },
   {
     "id": "base-335",
@@ -4218,8 +4218,8 @@ export const baseWords: Word[] = [
     "translation": "красный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich rot.",
-    "exampleTranslation": "Это действительно красный."
+    "example": "Bei Rot musst du warten.",
+    "exampleTranslation": "На красный свет нужно ждать."
   },
   {
     "id": "base-336",
@@ -4230,8 +4230,8 @@ export const baseWords: Word[] = [
     "translation": "готовить (еду)",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute kochen.",
-    "exampleTranslation": "Сегодня мы хотим: готовить (еду)."
+    "example": "Heute Abend kochen wir zusammen.",
+    "exampleTranslation": "Сегодня вечером мы готовим вместе."
   },
   {
     "id": "base-337",
@@ -4244,8 +4244,8 @@ export const baseWords: Word[] = [
     "translation": "концерт",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Konzert ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: концерт."
+    "example": "Das Konzert beginnt um zwanzig Uhr.",
+    "exampleTranslation": "Концерт начинается в двадцать часов."
   },
   {
     "id": "base-338",
@@ -4258,8 +4258,8 @@ export const baseWords: Word[] = [
     "translation": "тело",
     "level": "A2",
     "category": "Здоровье",
-    "example": "Der Körper ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: тело."
+    "example": "Nach dem Sport braucht der Körper Ruhe.",
+    "exampleTranslation": "После спорта телу нужен отдых."
   },
   {
     "id": "base-339",
@@ -4272,8 +4272,8 @@ export const baseWords: Word[] = [
     "translation": "шаг",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Schritt ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: шаг."
+    "example": "Gehen Sie noch zwei Schritte nach links.",
+    "exampleTranslation": "Сделайте ещё два шага налево."
   },
   {
     "id": "base-340",
@@ -4286,8 +4286,8 @@ export const baseWords: Word[] = [
     "translation": "волосы",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Haar ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: волосы."
+    "example": "Sie hat lange blonde Haare.",
+    "exampleTranslation": "У неё длинные светлые волосы."
   },
   {
     "id": "base-341",
@@ -4300,8 +4300,8 @@ export const baseWords: Word[] = [
     "translation": "возможность",
     "level": "A2",
     "category": "Еда",
-    "example": "Die Möglichkeit ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: возможность."
+    "example": "Gibt es eine andere Möglichkeit?",
+    "exampleTranslation": "Есть другая возможность?"
   },
   {
     "id": "base-342",
@@ -4314,8 +4314,8 @@ export const baseWords: Word[] = [
     "translation": "начало",
     "level": "A2",
     "category": "Время",
-    "example": "Der Anfang ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: начало."
+    "example": "Am Anfang war Deutsch sehr schwierig.",
+    "exampleTranslation": "Вначале немецкий был очень сложным."
   },
   {
     "id": "base-343",
@@ -4328,8 +4328,8 @@ export const baseWords: Word[] = [
     "translation": "солнце",
     "level": "A2",
     "category": "Природа",
-    "example": "Die Sonne ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: солнце."
+    "example": "Heute scheint den ganzen Tag die Sonne.",
+    "exampleTranslation": "Сегодня солнце светит весь день."
   },
   {
     "id": "base-344",
@@ -4342,8 +4342,8 @@ export const baseWords: Word[] = [
     "translation": "место",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Platz ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: место."
+    "example": "Ist hier noch ein Platz frei?",
+    "exampleTranslation": "Здесь ещё есть свободное место?"
   },
   {
     "id": "base-345",
@@ -4354,8 +4354,8 @@ export const baseWords: Word[] = [
     "translation": "снаружи, на улице",
     "level": "A2",
     "category": "Основы",
-    "example": "„draußen“ hört man oft im Alltag.",
-    "exampleTranslation": "«draußen» часто можно услышать в повседневной речи."
+    "example": "Die Kinder spielen draußen.",
+    "exampleTranslation": "Дети играют на улице."
   },
   {
     "id": "base-346",
@@ -4366,8 +4366,8 @@ export const baseWords: Word[] = [
     "translation": "нормальный, обычный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich normal.",
-    "exampleTranslation": "Это действительно нормальный, обычный."
+    "example": "Das ist eine ganz normale Reaktion.",
+    "exampleTranslation": "Это совершенно нормальная реакция."
   },
   {
     "id": "base-347",
@@ -4380,8 +4380,8 @@ export const baseWords: Word[] = [
     "translation": "животное",
     "level": "A2",
     "category": "Природа",
-    "example": "Das Tier ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: животное."
+    "example": "Im Wald haben wir ein seltenes Tier gesehen.",
+    "exampleTranslation": "В лесу мы увидели редкое животное."
   },
   {
     "id": "base-348",
@@ -4394,8 +4394,8 @@ export const baseWords: Word[] = [
     "translation": "свет",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Licht ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: свет."
+    "example": "Mach bitte das Licht aus.",
+    "exampleTranslation": "Выключи, пожалуйста, свет."
   },
   {
     "id": "base-349",
@@ -4406,8 +4406,8 @@ export const baseWords: Word[] = [
     "translation": "наверняка, определённо",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich bestimmt.",
-    "exampleTranslation": "Это действительно наверняка, определённо."
+    "example": "Er kommt bestimmt noch.",
+    "exampleTranslation": "Он наверняка ещё придёт."
   },
   {
     "id": "base-350",
@@ -4418,8 +4418,8 @@ export const baseWords: Word[] = [
     "translation": "поддерживать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute unterstützen.",
-    "exampleTranslation": "Сегодня мы хотим: поддерживать."
+    "example": "Meine Kollegen unterstützen mich sehr.",
+    "exampleTranslation": "Мои коллеги очень меня поддерживают."
   },
   {
     "id": "base-351",
@@ -4430,8 +4430,8 @@ export const baseWords: Word[] = [
     "translation": "трудный, сложный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich schwierig.",
-    "exampleTranslation": "Это действительно трудный, сложный."
+    "example": "Diese Übung ist ziemlich schwierig.",
+    "exampleTranslation": "Это упражнение довольно сложное."
   },
   {
     "id": "base-352",
@@ -4444,8 +4444,8 @@ export const baseWords: Word[] = [
     "translation": "выходные",
     "level": "A2",
     "category": "Время",
-    "example": "Das Wochenende ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: выходные."
+    "example": "Am Wochenende besuchen wir Freunde.",
+    "exampleTranslation": "На выходных мы навещаем друзей."
   },
   {
     "id": "base-353",
@@ -4456,8 +4456,8 @@ export const baseWords: Word[] = [
     "translation": "чистый",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich rein.",
-    "exampleTranslation": "Это действительно чистый."
+    "example": "Die Luft hier ist sauber und rein.",
+    "exampleTranslation": "Воздух здесь чистый и свежий."
   },
   {
     "id": "base-354",
@@ -4468,8 +4468,8 @@ export const baseWords: Word[] = [
     "translation": "холодный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich kalt.",
-    "exampleTranslation": "Это действительно холодный."
+    "example": "Heute Morgen war es sehr kalt.",
+    "exampleTranslation": "Сегодня утром было очень холодно."
   },
   {
     "id": "base-355",
@@ -4482,8 +4482,8 @@ export const baseWords: Word[] = [
     "translation": "голос",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Stimme ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: голос."
+    "example": "Ich habe ihre Stimme sofort erkannt.",
+    "exampleTranslation": "Я сразу узнал её голос."
   },
   {
     "id": "base-356",
@@ -4496,8 +4496,8 @@ export const baseWords: Word[] = [
     "translation": "вид, тип",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Art ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: вид, тип."
+    "example": "Diese Art von Arbeit gefällt mir.",
+    "exampleTranslation": "Мне нравится такой вид работы."
   },
   {
     "id": "base-357",
@@ -4508,8 +4508,8 @@ export const baseWords: Word[] = [
     "translation": "тёплый; тепло",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich warm.",
-    "exampleTranslation": "Это действительно тёплый; тепло."
+    "example": "Zieh die Jacke aus, hier ist es warm.",
+    "exampleTranslation": "Сними куртку, здесь тепло."
   },
   {
     "id": "base-358",
@@ -4520,8 +4520,8 @@ export const baseWords: Word[] = [
     "translation": "наконец",
     "level": "A2",
     "category": "Основы",
-    "example": "„endlich“ hört man oft im Alltag.",
-    "exampleTranslation": "«endlich» часто можно услышать в повседневной речи."
+    "example": "Der Bus ist endlich da.",
+    "exampleTranslation": "Автобус наконец приехал."
   },
   {
     "id": "base-359",
@@ -4532,8 +4532,8 @@ export const baseWords: Word[] = [
     "translation": "глубокий",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich tief.",
-    "exampleTranslation": "Это действительно глубокий."
+    "example": "Der See ist an dieser Stelle sehr tief.",
+    "exampleTranslation": "Озеро в этом месте очень глубокое."
   },
   {
     "id": "base-360",
@@ -4544,8 +4544,8 @@ export const baseWords: Word[] = [
     "translation": "решать",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute entscheiden.",
-    "exampleTranslation": "Сегодня мы хотим: решать."
+    "example": "Wir müssen uns heute entscheiden.",
+    "exampleTranslation": "Нам нужно принять решение сегодня."
   },
   {
     "id": "base-361",
@@ -4558,8 +4558,8 @@ export const baseWords: Word[] = [
     "translation": "дерево",
     "level": "A2",
     "category": "Природа",
-    "example": "Der Baum ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: дерево."
+    "example": "Vor dem Haus steht ein alter Baum.",
+    "exampleTranslation": "Перед домом стоит старое дерево."
   },
   {
     "id": "base-362",
@@ -4571,8 +4571,8 @@ export const baseWords: Word[] = [
     "translation": "воздух",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Luft ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: воздух."
+    "example": "Ich brauche etwas frische Luft.",
+    "exampleTranslation": "Мне нужно немного свежего воздуха."
   },
   {
     "id": "base-363",
@@ -4583,8 +4583,8 @@ export const baseWords: Word[] = [
     "translation": "подходить (к чему-л.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute passen.",
-    "exampleTranslation": "Сегодня мы хотим: подходить (к чему-л.)."
+    "example": "Die Schuhe passen mir gut.",
+    "exampleTranslation": "Туфли мне хорошо подходят."
   },
   {
     "id": "base-364",
@@ -4597,8 +4597,8 @@ export const baseWords: Word[] = [
     "translation": "пол",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Boden ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: пол."
+    "example": "Die Tasche steht auf dem Boden.",
+    "exampleTranslation": "Сумка стоит на полу."
   },
   {
     "id": "base-365",
@@ -4609,8 +4609,8 @@ export const baseWords: Word[] = [
     "translation": "работать (о механизме)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute funktionieren.",
-    "exampleTranslation": "Сегодня мы хотим: работать (о механизме)."
+    "example": "Die Heizung funktioniert wieder.",
+    "exampleTranslation": "Отопление снова работает."
   },
   {
     "id": "base-366",
@@ -4623,8 +4623,8 @@ export const baseWords: Word[] = [
     "translation": "картина",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Bild ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: картина."
+    "example": "An der Wand hängt ein schönes Bild.",
+    "exampleTranslation": "На стене висит красивая картина."
   },
   {
     "id": "base-367",
@@ -4635,8 +4635,8 @@ export const baseWords: Word[] = [
     "translation": "стоить",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute kosten.",
-    "exampleTranslation": "Сегодня мы хотим: стоить."
+    "example": "Wie viel kostet diese Jacke?",
+    "exampleTranslation": "Сколько стоит эта куртка?"
   },
   {
     "id": "base-368",
@@ -4647,8 +4647,8 @@ export const baseWords: Word[] = [
     "translation": "закрывать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute schließen.",
-    "exampleTranslation": "Сегодня мы хотим: закрывать."
+    "example": "Das Geschäft schließt um acht Uhr.",
+    "exampleTranslation": "Магазин закрывается в восемь часов."
   },
   {
     "id": "base-369",
@@ -4659,8 +4659,8 @@ export const baseWords: Word[] = [
     "translation": "любить",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute lieben.",
-    "exampleTranslation": "Сегодня мы хотим: любить."
+    "example": "Ich liebe den Geruch von frischem Brot.",
+    "exampleTranslation": "Я люблю запах свежего хлеба."
   },
   {
     "id": "base-370",
@@ -4673,8 +4673,8 @@ export const baseWords: Word[] = [
     "translation": "еда",
     "level": "A2",
     "category": "Еда",
-    "example": "Was essen wir heute Abend?",
-    "exampleTranslation": "Что мы будем есть сегодня вечером?",
+    "example": "Das Essen ist schon fertig.",
+    "exampleTranslation": "Еда уже готова.",
     "forms": "essen · aß · hat gegessen"
   },
   {
@@ -4686,8 +4686,8 @@ export const baseWords: Word[] = [
     "translation": "наверное, пожалуй",
     "level": "A2",
     "category": "Основы",
-    "example": "„wohl“ hört man oft im Alltag.",
-    "exampleTranslation": "«wohl» часто можно услышать в повседневной речи."
+    "example": "Er wird wohl noch im Büro sein.",
+    "exampleTranslation": "Наверное, он ещё в офисе."
   },
   {
     "id": "base-372",
@@ -4698,8 +4698,8 @@ export const baseWords: Word[] = [
     "translation": "возможный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich möglich.",
-    "exampleTranslation": "Это действительно возможный."
+    "example": "Ist ein Termin am Montag möglich?",
+    "exampleTranslation": "Возможна встреча в понедельник?"
   },
   {
     "id": "base-373",
@@ -4712,8 +4712,8 @@ export const baseWords: Word[] = [
     "translation": "Бог",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Gott ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: Бог."
+    "example": "Gott sei Dank ist nichts passiert.",
+    "exampleTranslation": "Слава богу, ничего не произошло."
   },
   {
     "id": "base-374",
@@ -4724,8 +4724,8 @@ export const baseWords: Word[] = [
     "translation": "решать, распоряжаться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute bestimmen.",
-    "exampleTranslation": "Сегодня мы хотим: решать, распоряжаться."
+    "example": "Du kannst selbst bestimmen, wann du kommst.",
+    "exampleTranslation": "Ты можешь сам решить, когда придёшь."
   },
   {
     "id": "base-375",
@@ -4736,8 +4736,8 @@ export const baseWords: Word[] = [
     "translation": "неправильный, не тот",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich falsch.",
-    "exampleTranslation": "Это действительно неправильный, не тот."
+    "example": "Entschuldigung, das ist die falsche Nummer.",
+    "exampleTranslation": "Извините, это неправильный номер."
   },
   {
     "id": "base-376",
@@ -4750,8 +4750,8 @@ export const baseWords: Word[] = [
     "translation": "преимущество",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Der Vorteil ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: преимущество."
+    "example": "Ein Vorteil ist die gute Verbindung.",
+    "exampleTranslation": "Одно из преимуществ — хорошее транспортное сообщение."
   },
   {
     "id": "base-377",
@@ -4762,8 +4762,8 @@ export const baseWords: Word[] = [
     "translation": "обычно, большей частью",
     "level": "A2",
     "category": "Еда",
-    "example": "„meistens“ hört man oft im Alltag.",
-    "exampleTranslation": "«meistens» часто можно услышать в повседневной речи."
+    "example": "Zum Frühstück esse ich meistens Müsli.",
+    "exampleTranslation": "На завтрак я обычно ем мюсли."
   },
   {
     "id": "base-378",
@@ -4774,8 +4774,8 @@ export const baseWords: Word[] = [
     "translation": "когда-нибудь, когда-то",
     "level": "A2",
     "category": "Основы",
-    "example": "„irgendwann“ hört man oft im Alltag.",
-    "exampleTranslation": "«irgendwann» часто можно услышать в повседневной речи."
+    "example": "Ich möchte irgendwann in Wien leben.",
+    "exampleTranslation": "Я хотел бы когда-нибудь пожить в Вене."
   },
   {
     "id": "base-379",
@@ -4786,8 +4786,8 @@ export const baseWords: Word[] = [
     "translation": "готовый",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich fertig.",
-    "exampleTranslation": "Это действительно готовый."
+    "example": "Bist du mit der Aufgabe fertig?",
+    "exampleTranslation": "Ты закончил задание?"
   },
   {
     "id": "base-380",
@@ -4798,8 +4798,8 @@ export const baseWords: Word[] = [
     "translation": "скорее",
     "level": "A2",
     "category": "Основы",
-    "example": "„eher“ hört man oft im Alltag.",
-    "exampleTranslation": "«eher» часто можно услышать в повседневной речи."
+    "example": "Ich würde eher mit dem Zug fahren.",
+    "exampleTranslation": "Я бы скорее поехал на поезде."
   },
   {
     "id": "base-381",
@@ -4810,8 +4810,8 @@ export const baseWords: Word[] = [
     "translation": "половинный, пол-",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich halb.",
-    "exampleTranslation": "Это действительно половинный, пол-."
+    "example": "Wir treffen uns um halb acht.",
+    "exampleTranslation": "Мы встречаемся в половине восьмого."
   },
   {
     "id": "base-382",
@@ -4822,8 +4822,8 @@ export const baseWords: Word[] = [
     "translation": "за, на каждого",
     "level": "A2",
     "category": "Основы",
-    "example": "„je“ hört man oft im Alltag.",
-    "exampleTranslation": "«je» часто можно услышать в повседневной речи."
+    "example": "Die Zimmer kosten fünfzig Euro je Nacht.",
+    "exampleTranslation": "Номера стоят пятьдесят евро за ночь."
   },
   {
     "id": "base-383",
@@ -4834,8 +4834,8 @@ export const baseWords: Word[] = [
     "translation": "всё равно",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich egal.",
-    "exampleTranslation": "Это действительно всё равно."
+    "example": "Mir ist egal, welchen Film wir sehen.",
+    "exampleTranslation": "Мне всё равно, какой фильм мы посмотрим."
   },
   {
     "id": "base-384",
@@ -4846,8 +4846,8 @@ export const baseWords: Word[] = [
     "translation": "полезный (для здоровья)",
     "level": "A2",
     "category": "Здоровье",
-    "example": "Das ist wirklich gesund.",
-    "exampleTranslation": "Это действительно полезный (для здоровья)."
+    "example": "Obst und Gemüse sind gesund.",
+    "exampleTranslation": "Фрукты и овощи полезны для здоровья."
   },
   {
     "id": "base-385",
@@ -4860,8 +4860,8 @@ export const baseWords: Word[] = [
     "translation": "предложение (грамм.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Satz ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: предложение (грамм.)."
+    "example": "Schreiben Sie bitte einen ganzen Satz.",
+    "exampleTranslation": "Напишите, пожалуйста, полное предложение."
   },
   {
     "id": "base-386",
@@ -4872,8 +4872,8 @@ export const baseWords: Word[] = [
     "translation": "пожалуйста",
     "level": "A2",
     "category": "Основы",
-    "example": "„bitte“ hört man oft im Alltag.",
-    "exampleTranslation": "«bitte» часто можно услышать в повседневной речи."
+    "example": "Einen Kaffee, bitte.",
+    "exampleTranslation": "Один кофе, пожалуйста."
   },
   {
     "id": "base-387",
@@ -4886,8 +4886,8 @@ export const baseWords: Word[] = [
     "translation": "поездка, путешествие",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Die Reise ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: поездка, путешествие."
+    "example": "Für die Reise brauche ich einen kleinen Koffer.",
+    "exampleTranslation": "Для поездки мне нужен небольшой чемодан."
   },
   {
     "id": "base-388",
@@ -4898,8 +4898,8 @@ export const baseWords: Word[] = [
     "translation": "умирать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute sterben.",
-    "exampleTranslation": "Сегодня мы хотим: умирать."
+    "example": "Viele Pflanzen sterben ohne Wasser.",
+    "exampleTranslation": "Многие растения погибают без воды."
   },
   {
     "id": "base-389",
@@ -4912,8 +4912,8 @@ export const baseWords: Word[] = [
     "translation": "причина",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Grund ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: причина."
+    "example": "Was ist der Grund für die Verspätung?",
+    "exampleTranslation": "Какова причина задержки?"
   },
   {
     "id": "base-390",
@@ -4926,8 +4926,8 @@ export const baseWords: Word[] = [
     "translation": "миллион",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Million ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: миллион."
+    "example": "In der Stadt leben über eine Million Menschen.",
+    "exampleTranslation": "В городе живёт более миллиона человек."
   },
   {
     "id": "base-391",
@@ -4938,8 +4938,8 @@ export const baseWords: Word[] = [
     "translation": "добираться до; достигать",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute erreichen.",
-    "exampleTranslation": "Сегодня мы хотим: добираться до; достигать."
+    "example": "Mit der U-Bahn erreichen Sie das Zentrum in zehn Minuten.",
+    "exampleTranslation": "На метро Вы доберётесь до центра за десять минут."
   },
   {
     "id": "base-392",
@@ -4952,8 +4952,8 @@ export const baseWords: Word[] = [
     "translation": "комната, помещение",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Raum ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: комната, помещение."
+    "example": "Der Kurs findet in Raum zwölf statt.",
+    "exampleTranslation": "Курс проходит в аудитории двенадцать."
   },
   {
     "id": "base-393",
@@ -4966,8 +4966,8 @@ export const baseWords: Word[] = [
     "translation": "энергия",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Energie ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: энергия."
+    "example": "Nach der Arbeit habe ich wenig Energie.",
+    "exampleTranslation": "После работы у меня мало сил."
   },
   {
     "id": "base-394",
@@ -4980,8 +4980,8 @@ export const baseWords: Word[] = [
     "translation": "кухня",
     "level": "A2",
     "category": "Еда",
-    "example": "Die Küche ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: кухня."
+    "example": "In der Küche riecht es nach Kaffee.",
+    "exampleTranslation": "На кухне пахнет кофе."
   },
   {
     "id": "base-395",
@@ -4992,8 +4992,8 @@ export const baseWords: Word[] = [
     "translation": "дело в том, что",
     "level": "A2",
     "category": "Основы",
-    "example": "„nämlich“ hört man oft im Alltag.",
-    "exampleTranslation": "«nämlich» часто можно услышать в повседневной речи."
+    "example": "Ich komme später, ich muss nämlich noch arbeiten.",
+    "exampleTranslation": "Я приду позже, потому что мне ещё нужно работать."
   },
   {
     "id": "base-396",
@@ -5004,8 +5004,8 @@ export const baseWords: Word[] = [
     "translation": "усталый, уставший",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich müde.",
-    "exampleTranslation": "Это действительно усталый, уставший."
+    "example": "Nach der Reise bin ich ziemlich müde.",
+    "exampleTranslation": "После поездки я довольно устал."
   },
   {
     "id": "base-397",
@@ -5016,8 +5016,8 @@ export const baseWords: Word[] = [
     "translation": "везде, повсюду",
     "level": "A2",
     "category": "Основы",
-    "example": "„überall“ hört man oft im Alltag.",
-    "exampleTranslation": "«überall» часто можно услышать в повседневной речи."
+    "example": "Im Frühling blühen überall Blumen.",
+    "exampleTranslation": "Весной повсюду цветут цветы."
   },
   {
     "id": "base-398",
@@ -5028,8 +5028,8 @@ export const baseWords: Word[] = [
     "translation": "свежий",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich frisch.",
-    "exampleTranslation": "Это действительно свежий."
+    "example": "Auf dem Markt gibt es frisches Gemüse.",
+    "exampleTranslation": "На рынке есть свежие овощи."
   },
   {
     "id": "base-399",
@@ -5042,8 +5042,8 @@ export const baseWords: Word[] = [
     "translation": "ресторан",
     "level": "A2",
     "category": "Еда",
-    "example": "Das Restaurant ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ресторан."
+    "example": "Kennst du ein gutes Restaurant in der Nähe?",
+    "exampleTranslation": "Ты знаешь хороший ресторан поблизости?"
   },
   {
     "id": "base-400",
@@ -5054,8 +5054,8 @@ export const baseWords: Word[] = [
     "translation": "посещать, навещать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute besuchen.",
-    "exampleTranslation": "Сегодня мы хотим: посещать, навещать."
+    "example": "Am Sonntag besuchen wir meine Großeltern.",
+    "exampleTranslation": "В воскресенье мы навещаем моих бабушку и дедушку."
   },
   {
     "id": "base-401",
@@ -5068,8 +5068,8 @@ export const baseWords: Word[] = [
     "translation": "билет",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Die Karte ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: билет."
+    "example": "Für die Fahrt brauche ich eine Tageskarte.",
+    "exampleTranslation": "Для поездки мне нужен дневной билет."
   },
   {
     "id": "base-402",
@@ -5082,8 +5082,8 @@ export const baseWords: Word[] = [
     "translation": "нога (ступня)",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Fuß ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: нога (ступня)."
+    "example": "Nach der Wanderung tun mir die Füße weh.",
+    "exampleTranslation": "После похода у меня болят ноги."
   },
   {
     "id": "base-403",
@@ -5094,8 +5094,8 @@ export const baseWords: Word[] = [
     "translation": "спасибо",
     "level": "A2",
     "category": "Основы",
-    "example": "„danke“ hört man oft im Alltag.",
-    "exampleTranslation": "«danke» часто можно услышать в повседневной речи."
+    "example": "Danke für deine Hilfe!",
+    "exampleTranslation": "Спасибо за твою помощь!"
   },
   {
     "id": "base-404",
@@ -5108,8 +5108,8 @@ export const baseWords: Word[] = [
     "translation": "парк",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Park ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: парк."
+    "example": "Am Sonntag machen wir ein Picknick im Park.",
+    "exampleTranslation": "В воскресенье мы устроим пикник в парке."
   },
   {
     "id": "base-405",
@@ -5122,8 +5122,8 @@ export const baseWords: Word[] = [
     "translation": "кусок",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Stück ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: кусок."
+    "example": "Ich nehme noch ein Stück Kuchen.",
+    "exampleTranslation": "Я возьму ещё кусок пирога."
   },
   {
     "id": "base-406",
@@ -5134,8 +5134,8 @@ export const baseWords: Word[] = [
     "translation": "отвечать",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Wir wollen heute antworten.",
-    "exampleTranslation": "Сегодня мы хотим: отвечать."
+    "example": "Bitte antworten Sie bis Freitag.",
+    "exampleTranslation": "Пожалуйста, ответьте до пятницы."
   },
   {
     "id": "base-407",
@@ -5148,8 +5148,8 @@ export const baseWords: Word[] = [
     "translation": "поезд",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Der Zug ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: поезд."
+    "example": "Unser Zug fährt von Gleis sieben.",
+    "exampleTranslation": "Наш поезд отправляется с седьмого пути."
   },
   {
     "id": "base-408",
@@ -5161,8 +5161,8 @@ export const baseWords: Word[] = [
     "translation": "спорт",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Der Sport ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: спорт."
+    "example": "Sport hilft mir gegen Stress.",
+    "exampleTranslation": "Спорт помогает мне справляться со стрессом."
   },
   {
     "id": "base-409",
@@ -5173,8 +5173,8 @@ export const baseWords: Word[] = [
     "translation": "совершенно, полностью",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich völlig.",
-    "exampleTranslation": "Это действительно совершенно, полностью."
+    "example": "Ich habe den Termin völlig vergessen.",
+    "exampleTranslation": "Я совершенно забыл о встрече."
   },
   {
     "id": "base-410",
@@ -5187,8 +5187,8 @@ export const baseWords: Word[] = [
     "translation": "мысль",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Gedanke ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мысль."
+    "example": "Dieser Gedanke gefällt mir.",
+    "exampleTranslation": "Мне нравится эта мысль."
   },
   {
     "id": "base-411",
@@ -5199,8 +5199,8 @@ export const baseWords: Word[] = [
     "translation": "единственный",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich einzig.",
-    "exampleTranslation": "Это действительно единственный."
+    "example": "Das ist die einzige freie Wohnung.",
+    "exampleTranslation": "Это единственная свободная квартира."
   },
   {
     "id": "base-412",
@@ -5211,8 +5211,8 @@ export const baseWords: Word[] = [
     "translation": "плохой, серьёзный, тяжёлый",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich schlimm.",
-    "exampleTranslation": "Это действительно плохой, серьёзный, тяжёлый."
+    "example": "Zum Glück ist die Verletzung nicht schlimm.",
+    "exampleTranslation": "К счастью, травма несерьёзная."
   },
   {
     "id": "base-413",
@@ -5223,8 +5223,8 @@ export const baseWords: Word[] = [
     "translation": "больной",
     "level": "A2",
     "category": "Здоровье",
-    "example": "Das ist wirklich krank.",
-    "exampleTranslation": "Это действительно больной."
+    "example": "Ich kann nicht kommen, weil ich krank bin.",
+    "exampleTranslation": "Я не могу прийти, потому что болею."
   },
   {
     "id": "base-414",
@@ -5235,8 +5235,8 @@ export const baseWords: Word[] = [
     "translation": "приблизительно",
     "level": "A2",
     "category": "Основы",
-    "example": "„ungefähr“ hört man oft im Alltag.",
-    "exampleTranslation": "«ungefähr» часто можно услышать в повседневной речи."
+    "example": "Die Fahrt dauert ungefähr eine Stunde.",
+    "exampleTranslation": "Поездка длится примерно один час."
   },
   {
     "id": "base-415",
@@ -5247,8 +5247,8 @@ export const baseWords: Word[] = [
     "translation": "получать (разг.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute kriegen.",
-    "exampleTranslation": "Сегодня мы хотим: получать (разг.)."
+    "example": "Wann kriegen wir endlich eine Antwort?",
+    "exampleTranslation": "Когда мы наконец получим ответ?"
   },
   {
     "id": "base-416",
@@ -5260,8 +5260,8 @@ export const baseWords: Word[] = [
     "translation": "будущее",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Zukunft ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: будущее."
+    "example": "Was möchtest du in Zukunft machen?",
+    "exampleTranslation": "Чем ты хочешь заниматься в будущем?"
   },
   {
     "id": "base-417",
@@ -5272,8 +5272,8 @@ export const baseWords: Word[] = [
     "translation": "представлять, знакомить",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute vorstellen.",
-    "exampleTranslation": "Сегодня мы хотим: представлять, знакомить."
+    "example": "Darf ich Ihnen meine Kollegin vorstellen?",
+    "exampleTranslation": "Можно представить Вам мою коллегу?"
   },
   {
     "id": "base-418",
@@ -5286,8 +5286,8 @@ export const baseWords: Word[] = [
     "translation": "взгляд",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Blick ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: взгляд."
+    "example": "Vom Balkon hat man einen schönen Blick aufs Meer.",
+    "exampleTranslation": "С балкона открывается красивый вид на море."
   },
   {
     "id": "base-419",
@@ -5300,8 +5300,8 @@ export const baseWords: Word[] = [
     "translation": "игра",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Spiel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: игра."
+    "example": "Das Spiel beginnt um acht Uhr.",
+    "exampleTranslation": "Игра начинается в восемь часов."
   },
   {
     "id": "base-420",
@@ -5312,8 +5312,8 @@ export const baseWords: Word[] = [
     "translation": "назад (о времени)",
     "level": "A2",
     "category": "Основы",
-    "example": "„her“ hört man oft im Alltag.",
-    "exampleTranslation": "«her» часто можно услышать в повседневной речи."
+    "example": "Das ist schon drei Jahre her.",
+    "exampleTranslation": "Это было уже три года назад."
   },
   {
     "id": "base-421",
@@ -5324,8 +5324,8 @@ export const baseWords: Word[] = [
     "translation": "интересовать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute interessieren.",
-    "exampleTranslation": "Сегодня мы хотим: интересовать."
+    "example": "Das Angebot interessiert mich.",
+    "exampleTranslation": "Это предложение меня интересует."
   },
   {
     "id": "base-422",
@@ -5336,8 +5336,8 @@ export const baseWords: Word[] = [
     "translation": "сначала, для начала",
     "level": "A2",
     "category": "Основы",
-    "example": "„erstmal“ hört man oft im Alltag.",
-    "exampleTranslation": "«erstmal» часто можно услышать в повседневной речи."
+    "example": "Ich trinke erstmal einen Kaffee.",
+    "exampleTranslation": "Для начала я выпью кофе."
   },
   {
     "id": "base-423",
@@ -5348,8 +5348,8 @@ export const baseWords: Word[] = [
     "translation": "тогда, в то время",
     "level": "A2",
     "category": "Основы",
-    "example": "„damals“ hört man oft im Alltag.",
-    "exampleTranslation": "«damals» часто можно услышать в повседневной речи."
+    "example": "Damals wohnte ich noch in Berlin.",
+    "exampleTranslation": "В то время я ещё жил в Берлине."
   },
   {
     "id": "base-424",
@@ -5360,8 +5360,8 @@ export const baseWords: Word[] = [
     "translation": "обдумывать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute überlegen.",
-    "exampleTranslation": "Сегодня мы хотим: обдумывать."
+    "example": "Ich muss mir das noch überlegen.",
+    "exampleTranslation": "Мне нужно ещё это обдумать."
   },
   {
     "id": "base-425",
@@ -5372,8 +5372,8 @@ export const baseWords: Word[] = [
     "translation": "огромный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich riesig.",
-    "exampleTranslation": "Это действительно огромный."
+    "example": "Der neue Supermarkt ist riesig.",
+    "exampleTranslation": "Новый супермаркет огромный."
   },
   {
     "id": "base-426",
@@ -5384,8 +5384,8 @@ export const baseWords: Word[] = [
     "translation": "желанный, приветствуемый",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich willkommen.",
-    "exampleTranslation": "Это действительно желанный, приветствуемый."
+    "example": "Herzlich willkommen in unserem Hotel!",
+    "exampleTranslation": "Добро пожаловать в наш отель!"
   },
   {
     "id": "base-427",
@@ -5396,8 +5396,8 @@ export const baseWords: Word[] = [
     "translation": "вместе, совместно",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich gemeinsam.",
-    "exampleTranslation": "Это действительно вместе, совместно."
+    "example": "Wir lösen das Problem gemeinsam.",
+    "exampleTranslation": "Мы решим проблему вместе."
   },
   {
     "id": "base-428",
@@ -5410,8 +5410,8 @@ export const baseWords: Word[] = [
     "translation": "отпуск",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Urlaub ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: отпуск."
+    "example": "Im Urlaub möchte ich mich erholen.",
+    "exampleTranslation": "В отпуске я хочу отдохнуть."
   },
   {
     "id": "base-429",
@@ -5422,8 +5422,8 @@ export const baseWords: Word[] = [
     "translation": "расслабляться, отдыхать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute uns entspannen.",
-    "exampleTranslation": "Сегодня мы хотим: расслабляться, отдыхать."
+    "example": "Am Wochenende kann ich mich gut entspannen.",
+    "exampleTranslation": "На выходных я могу хорошо отдохнуть."
   },
   {
     "id": "base-430",
@@ -5434,8 +5434,8 @@ export const baseWords: Word[] = [
     "translation": "учиться в университете",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute studieren.",
-    "exampleTranslation": "Сегодня мы хотим: учиться в университете."
+    "example": "Meine Schwester studiert Medizin.",
+    "exampleTranslation": "Моя сестра изучает медицину в университете."
   },
   {
     "id": "base-431",
@@ -5446,8 +5446,8 @@ export const baseWords: Word[] = [
     "translation": "страдать",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute leiden.",
-    "exampleTranslation": "Сегодня мы хотим: страдать."
+    "example": "Viele Menschen leiden unter Rückenschmerzen.",
+    "exampleTranslation": "Многие люди страдают от боли в спине."
   },
   {
     "id": "base-432",
@@ -5460,8 +5460,8 @@ export const baseWords: Word[] = [
     "translation": "брат",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Bruder ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: брат."
+    "example": "Mein Bruder ist zwei Jahre jünger als ich.",
+    "exampleTranslation": "Мой брат на два года младше меня."
   },
   {
     "id": "base-433",
@@ -5472,8 +5472,8 @@ export const baseWords: Word[] = [
     "translation": "длиться, продолжаться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute dauern.",
-    "exampleTranslation": "Сегодня мы хотим: длиться, продолжаться."
+    "example": "Wie lange dauert die Fahrt?",
+    "exampleTranslation": "Сколько длится поездка?"
   },
   {
     "id": "base-434",
@@ -5484,8 +5484,8 @@ export const baseWords: Word[] = [
     "translation": "обязательно",
     "level": "A2",
     "category": "Основы",
-    "example": "„unbedingt“ hört man oft im Alltag.",
-    "exampleTranslation": "«unbedingt» часто можно услышать в повседневной речи."
+    "example": "Du musst unbedingt diesen Kuchen probieren.",
+    "exampleTranslation": "Ты обязательно должен попробовать этот пирог."
   },
   {
     "id": "base-435",
@@ -5496,8 +5496,8 @@ export const baseWords: Word[] = [
     "translation": "готовый",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich bereit.",
-    "exampleTranslation": "Это действительно готовый."
+    "example": "Das Essen ist gleich bereit.",
+    "exampleTranslation": "Еда скоро будет готова."
   },
   {
     "id": "base-436",
@@ -5509,8 +5509,8 @@ export const baseWords: Word[] = [
     "translation": "тот же самый",
     "level": "A2",
     "category": "Основы",
-    "example": "„derselbe“ hört man oft im Alltag.",
-    "exampleTranslation": "«derselbe» часто можно услышать в повседневной речи."
+    "example": "Wir nehmen jeden Morgen denselben Bus.",
+    "exampleTranslation": "Мы каждое утро ездим на одном и том же автобусе."
   },
   {
     "id": "base-437",
@@ -5521,8 +5521,8 @@ export const baseWords: Word[] = [
     "translation": "кто-то, кто-нибудь",
     "level": "A2",
     "category": "Основы",
-    "example": "„jemand“ hört man oft im Alltag.",
-    "exampleTranslation": "«jemand» часто можно услышать в повседневной речи."
+    "example": "Hat jemand meinen Schlüssel gesehen?",
+    "exampleTranslation": "Кто-нибудь видел мой ключ?"
   },
   {
     "id": "base-438",
@@ -5533,8 +5533,8 @@ export const baseWords: Word[] = [
     "translation": "раньше, заранее, до этого",
     "level": "A2",
     "category": "Основы",
-    "example": "„vorher“ hört man oft im Alltag.",
-    "exampleTranslation": "«vorher» часто можно услышать в повседневной речи."
+    "example": "Ruf bitte vorher an.",
+    "exampleTranslation": "Пожалуйста, позвони заранее."
   },
   {
     "id": "base-439",
@@ -5545,8 +5545,8 @@ export const baseWords: Word[] = [
     "translation": "праздновать, отмечать",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute feiern.",
-    "exampleTranslation": "Сегодня мы хотим: праздновать, отмечать."
+    "example": "Wir feiern heute ihren Geburtstag.",
+    "exampleTranslation": "Сегодня мы празднуем её день рождения."
   },
   {
     "id": "base-440",
@@ -5557,8 +5557,8 @@ export const baseWords: Word[] = [
     "translation": "жаркий, горячий",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich heiß.",
-    "exampleTranslation": "Это действительно жаркий, горячий."
+    "example": "Vorsicht, der Tee ist noch heiß!",
+    "exampleTranslation": "Осторожно, чай ещё горячий!"
   },
   {
     "id": "base-441",
@@ -5569,8 +5569,8 @@ export const baseWords: Word[] = [
     "translation": "бить",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute schlagen.",
-    "exampleTranslation": "Сегодня мы хотим: бить."
+    "example": "Mein Herz schlägt sehr schnell.",
+    "exampleTranslation": "Моё сердце бьётся очень быстро."
   },
   {
     "id": "base-442",
@@ -5581,8 +5581,8 @@ export const baseWords: Word[] = [
     "translation": "покидать, уходить (откуда-л.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute verlassen.",
-    "exampleTranslation": "Сегодня мы хотим: покидать, уходить (откуда-л.)."
+    "example": "Sie verlässt das Büro um sechs.",
+    "exampleTranslation": "Она уходит из офиса в шесть."
   },
   {
     "id": "base-443",
@@ -5593,8 +5593,8 @@ export const baseWords: Word[] = [
     "translation": "после этого, потом",
     "level": "A2",
     "category": "Основы",
-    "example": "„danach“ hört man oft im Alltag.",
-    "exampleTranslation": "«danach» часто можно услышать в повседневной речи."
+    "example": "Wir essen zuerst und gehen danach spazieren.",
+    "exampleTranslation": "Сначала мы поедим, а потом пойдём гулять."
   },
   {
     "id": "base-444",
@@ -5605,8 +5605,8 @@ export const baseWords: Word[] = [
     "translation": "закончено, прошло",
     "level": "A2",
     "category": "Еда",
-    "example": "„vorbei“ hört man oft im Alltag.",
-    "exampleTranslation": "«vorbei» часто можно услышать в повседневной речи."
+    "example": "Der Sommer ist leider schon vorbei.",
+    "exampleTranslation": "Лето, к сожалению, уже закончилось."
   },
   {
     "id": "base-445",
@@ -5617,8 +5617,8 @@ export const baseWords: Word[] = [
     "translation": "бросать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute werfen.",
-    "exampleTranslation": "Сегодня мы хотим: бросать."
+    "example": "Wirf den Brief bitte in den Briefkasten.",
+    "exampleTranslation": "Брось письмо, пожалуйста, в почтовый ящик."
   },
   {
     "id": "base-446",
@@ -5629,8 +5629,8 @@ export const baseWords: Word[] = [
     "translation": "использовать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute nutzen.",
-    "exampleTranslation": "Сегодня мы хотим: использовать."
+    "example": "Ich nutze die App jeden Tag.",
+    "exampleTranslation": "Я пользуюсь приложением каждый день."
   },
   {
     "id": "base-447",
@@ -5643,8 +5643,8 @@ export const baseWords: Word[] = [
     "translation": "девочка",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Mädchen ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: девочка."
+    "example": "Das Mädchen wartet auf seine Mutter.",
+    "exampleTranslation": "Девочка ждёт свою маму."
   },
   {
     "id": "base-448",
@@ -5655,8 +5655,8 @@ export const baseWords: Word[] = [
     "translation": "быть вкусным",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute schmecken.",
-    "exampleTranslation": "Сегодня мы хотим: быть вкусным."
+    "example": "Wie schmeckt dir die Suppe?",
+    "exampleTranslation": "Как тебе суп на вкус?"
   },
   {
     "id": "base-449",
@@ -5667,8 +5667,8 @@ export const baseWords: Word[] = [
     "translation": "после того как",
     "level": "A2",
     "category": "Основы",
-    "example": "„nachdem“ hört man oft im Alltag.",
-    "exampleTranslation": "«nachdem» часто можно услышать в повседневной речи."
+    "example": "Nachdem ich gegessen hatte, ging ich spazieren.",
+    "exampleTranslation": "После того как я поел, я пошёл гулять."
   },
   {
     "id": "base-450",
@@ -5679,8 +5679,8 @@ export const baseWords: Word[] = [
     "translation": "двигаться",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Wir wollen heute bewegen.",
-    "exampleTranslation": "Сегодня мы хотим: двигаться."
+    "example": "Du solltest dich mehr bewegen.",
+    "exampleTranslation": "Тебе следует больше двигаться."
   },
   {
     "id": "base-451",
@@ -5691,8 +5691,8 @@ export const baseWords: Word[] = [
     "translation": "делить (с кем-л.)",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute teilen.",
-    "exampleTranslation": "Сегодня мы хотим: делить (с кем-л.)."
+    "example": "Wir teilen uns eine Wohnung.",
+    "exampleTranslation": "Мы снимаем одну квартиру на двоих."
   },
   {
     "id": "base-452",
@@ -5705,8 +5705,8 @@ export const baseWords: Word[] = [
     "translation": "война",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Krieg ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: война."
+    "example": "Der Krieg veränderte das ganze Land.",
+    "exampleTranslation": "Война изменила всю страну."
   },
   {
     "id": "base-453",
@@ -5718,8 +5718,8 @@ export const baseWords: Word[] = [
     "translation": "какой-нибудь",
     "level": "A2",
     "category": "Еда",
-    "example": "„irgendein“ hört man oft im Alltag.",
-    "exampleTranslation": "«irgendein» часто можно услышать в повседневной речи."
+    "example": "Hast du irgendeine Idee?",
+    "exampleTranslation": "У тебя есть какая-нибудь идея?"
   },
   {
     "id": "base-454",
@@ -5732,8 +5732,8 @@ export const baseWords: Word[] = [
     "translation": "работа, подработка",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Job ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: работа, подработка."
+    "example": "Sie sucht einen neuen Job.",
+    "exampleTranslation": "Она ищет новую работу."
   },
   {
     "id": "base-455",
@@ -5744,8 +5744,8 @@ export const baseWords: Word[] = [
     "translation": "возникать, появляться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute entstehen.",
-    "exampleTranslation": "Сегодня мы хотим: возникать, появляться."
+    "example": "So entstehen neue Freundschaften.",
+    "exampleTranslation": "Так возникают новые дружеские отношения."
   },
   {
     "id": "base-456",
@@ -5758,8 +5758,8 @@ export const baseWords: Word[] = [
     "translation": "помощь",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Hilfe ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: помощь."
+    "example": "Vielen Dank für Ihre schnelle Hilfe.",
+    "exampleTranslation": "Большое спасибо за Вашу быструю помощь."
   },
   {
     "id": "base-457",
@@ -5784,8 +5784,8 @@ export const baseWords: Word[] = [
     "translation": "автобус",
     "level": "A2",
     "category": "Путешествия",
-    "example": "Der Bus ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: автобус."
+    "example": "Ich fahre jeden Morgen mit dem Bus.",
+    "exampleTranslation": "Я каждое утро езжу на автобусе."
   },
   {
     "id": "base-459",
@@ -5797,8 +5797,8 @@ export const baseWords: Word[] = [
     "translation": "особенный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich besondere (r.",
-    "exampleTranslation": "Это действительно особенный."
+    "example": "Heute ist ein besonderer Tag.",
+    "exampleTranslation": "Сегодня особенный день."
   },
   {
     "id": "base-460",
@@ -5809,8 +5809,8 @@ export const baseWords: Word[] = [
     "translation": "исчезать",
     "level": "A2",
     "category": "Природа",
-    "example": "Wir wollen heute verschwinden.",
-    "exampleTranslation": "Сегодня мы хотим: исчезать."
+    "example": "Meine Kopfschmerzen sind verschwunden.",
+    "exampleTranslation": "Моя головная боль прошла."
   },
   {
     "id": "base-461",
@@ -5821,8 +5821,8 @@ export const baseWords: Word[] = [
     "translation": "хватать, быть достаточным",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute reichen.",
-    "exampleTranslation": "Сегодня мы хотим: хватать, быть достаточным."
+    "example": "Zehn Euro reichen für das Mittagessen.",
+    "exampleTranslation": "Десяти евро хватит на обед."
   },
   {
     "id": "base-462",
@@ -5833,8 +5833,8 @@ export const baseWords: Word[] = [
     "translation": "принадлежать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute gehören.",
-    "exampleTranslation": "Сегодня мы хотим: принадлежать."
+    "example": "Wem gehört diese Jacke?",
+    "exampleTranslation": "Кому принадлежит эта куртка?"
   },
   {
     "id": "base-463",
@@ -5847,8 +5847,8 @@ export const baseWords: Word[] = [
     "translation": "фото",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Foto ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: фото."
+    "example": "Kannst du ein Foto von uns machen?",
+    "exampleTranslation": "Можешь нас сфотографировать?"
   },
   {
     "id": "base-464",
@@ -5861,8 +5861,8 @@ export const baseWords: Word[] = [
     "translation": "море",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Meer ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: море."
+    "example": "Im Sommer fahren wir ans Meer.",
+    "exampleTranslation": "Летом мы едем к морю."
   },
   {
     "id": "base-465",
@@ -5873,8 +5873,8 @@ export const baseWords: Word[] = [
     "translation": "изменять, менять",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute ändern.",
-    "exampleTranslation": "Сегодня мы хотим: изменять, менять."
+    "example": "Ich muss meinen Termin ändern.",
+    "exampleTranslation": "Мне нужно перенести встречу."
   },
   {
     "id": "base-466",
@@ -5887,8 +5887,8 @@ export const baseWords: Word[] = [
     "translation": "гора",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Berg ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: гора."
+    "example": "Auf dem Berg liegt noch Schnee.",
+    "exampleTranslation": "На горе ещё лежит снег."
   },
   {
     "id": "base-467",
@@ -5901,8 +5901,8 @@ export const baseWords: Word[] = [
     "translation": "цель",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Ziel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: цель."
+    "example": "Mein Ziel ist die B1-Prüfung.",
+    "exampleTranslation": "Моя цель — экзамен B1."
   },
   {
     "id": "base-468",
@@ -5913,8 +5913,8 @@ export const baseWords: Word[] = [
     "translation": "отправлять",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute schicken.",
-    "exampleTranslation": "Сегодня мы хотим: отправлять."
+    "example": "Ich schicke dir die Adresse per Nachricht.",
+    "exampleTranslation": "Я отправлю тебе адрес сообщением."
   },
   {
     "id": "base-469",
@@ -5925,8 +5925,8 @@ export const baseWords: Word[] = [
     "translation": "десять",
     "level": "A2",
     "category": "Основы",
-    "example": "„zehn“ hört man oft im Alltag.",
-    "exampleTranslation": "«zehn» часто можно услышать в повседневной речи."
+    "example": "Der Kurs beginnt in zehn Minuten.",
+    "exampleTranslation": "Курс начнётся через десять минут."
   },
   {
     "id": "base-470",
@@ -5937,8 +5937,8 @@ export const baseWords: Word[] = [
     "translation": "ловить, хватать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute fangen.",
-    "exampleTranslation": "Сегодня мы хотим: ловить, хватать."
+    "example": "Der Torwart fängt den Ball.",
+    "exampleTranslation": "Вратарь ловит мяч."
   },
   {
     "id": "base-471",
@@ -5949,8 +5949,8 @@ export const baseWords: Word[] = [
     "translation": "вешать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute hängen.",
-    "exampleTranslation": "Сегодня мы хотим: вешать."
+    "example": "Ich hänge die Jacke an die Tür.",
+    "exampleTranslation": "Я вешаю куртку на дверь."
   },
   {
     "id": "base-472",
@@ -5961,8 +5961,8 @@ export const baseWords: Word[] = [
     "translation": "подниматься, залезать",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute steigen.",
-    "exampleTranslation": "Сегодня мы хотим: подниматься, залезать."
+    "example": "Die Preise steigen jedes Jahr.",
+    "exampleTranslation": "Цены растут каждый год."
   },
   {
     "id": "base-473",
@@ -5987,8 +5987,8 @@ export const baseWords: Word[] = [
     "translation": "рука (от плеча до кисти)",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Arm ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: рука (от плеча до кисти)."
+    "example": "Nach dem Training tut mir der Arm weh.",
+    "exampleTranslation": "После тренировки у меня болит рука."
   },
   {
     "id": "base-475",
@@ -5999,8 +5999,8 @@ export const baseWords: Word[] = [
     "translation": "строить",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute bauen.",
-    "exampleTranslation": "Сегодня мы хотим: строить."
+    "example": "Sie bauen nebenan ein neues Haus.",
+    "exampleTranslation": "По соседству строят новый дом."
   },
   {
     "id": "base-476",
@@ -6013,8 +6013,8 @@ export const baseWords: Word[] = [
     "translation": "стакан",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Glas ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: стакан."
+    "example": "Möchten Sie ein Glas Wasser?",
+    "exampleTranslation": "Хотите стакан воды?"
   },
   {
     "id": "base-477",
@@ -6025,8 +6025,8 @@ export const baseWords: Word[] = [
     "translation": "следовать (за кем-л.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute folgen.",
-    "exampleTranslation": "Сегодня мы хотим: следовать (за кем-л.)."
+    "example": "Folgen Sie bitte den Schildern.",
+    "exampleTranslation": "Следуйте, пожалуйста, указателям."
   },
   {
     "id": "base-478",
@@ -6037,8 +6037,8 @@ export const baseWords: Word[] = [
     "translation": "резать",
     "level": "A2",
     "category": "Еда",
-    "example": "Wir wollen heute schneiden.",
-    "exampleTranslation": "Сегодня мы хотим: резать."
+    "example": "Ich schneide das Brot in dünne Scheiben.",
+    "exampleTranslation": "Я режу хлеб тонкими ломтиками."
   },
   {
     "id": "base-479",
@@ -6049,8 +6049,8 @@ export const baseWords: Word[] = [
     "translation": "поворачивать, вращать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute drehen.",
-    "exampleTranslation": "Сегодня мы хотим: поворачивать, вращать."
+    "example": "Dreh dich bitte nach links.",
+    "exampleTranslation": "Повернись, пожалуйста, налево."
   },
   {
     "id": "base-480",
@@ -6061,8 +6061,8 @@ export const baseWords: Word[] = [
     "translation": "наконец",
     "level": "A2",
     "category": "Основы",
-    "example": "„schließlich“ hört man oft im Alltag.",
-    "exampleTranslation": "«schließlich» часто можно услышать в повседневной речи."
+    "example": "Schließlich haben wir eine Lösung gefunden.",
+    "exampleTranslation": "Наконец мы нашли решение."
   },
   {
     "id": "base-481",
@@ -6075,8 +6075,8 @@ export const baseWords: Word[] = [
     "translation": "лето",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Sommer ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: лето."
+    "example": "Im Sommer bleiben die Tage lange hell.",
+    "exampleTranslation": "Летом дни долго остаются светлыми."
   },
   {
     "id": "base-482",
@@ -6089,8 +6089,8 @@ export const baseWords: Word[] = [
     "translation": "подарок",
     "level": "A2",
     "category": "Основы",
-    "example": "Das Geschenk ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: подарок."
+    "example": "Das Geschenk ist für meine Mutter.",
+    "exampleTranslation": "Этот подарок для моей мамы."
   },
   {
     "id": "base-483",
@@ -6101,8 +6101,8 @@ export const baseWords: Word[] = [
     "translation": "узнавать (по чему-л.)",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute erkennen.",
-    "exampleTranslation": "Сегодня мы хотим: узнавать (по чему-л.)."
+    "example": "Ich habe ihn an seiner Stimme erkannt.",
+    "exampleTranslation": "Я узнал его по голосу."
   },
   {
     "id": "base-484",
@@ -6113,8 +6113,8 @@ export const baseWords: Word[] = [
     "translation": "тихий, тихо",
     "level": "A2",
     "category": "Еда",
-    "example": "Das ist wirklich leise.",
-    "exampleTranslation": "Это действительно тихий, тихо."
+    "example": "Bitte seien Sie im Krankenhaus leise.",
+    "exampleTranslation": "Пожалуйста, ведите себя тихо в больнице."
   },
   {
     "id": "base-485",
@@ -6125,8 +6125,8 @@ export const baseWords: Word[] = [
     "translation": "прежде чем, до того как",
     "level": "A2",
     "category": "Основы",
-    "example": "„bevor“ hört man oft im Alltag.",
-    "exampleTranslation": "«bevor» часто можно услышать в повседневной речи."
+    "example": "Ruf mich an, bevor du losfährst.",
+    "exampleTranslation": "Позвони мне перед тем, как выехать."
   },
   {
     "id": "base-486",
@@ -6138,8 +6138,8 @@ export const baseWords: Word[] = [
     "translation": "молоко",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Milch ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: молоко."
+    "example": "Die Milch steht im Kühlschrank.",
+    "exampleTranslation": "Молоко стоит в холодильнике."
   },
   {
     "id": "base-487",
@@ -6150,8 +6150,8 @@ export const baseWords: Word[] = [
     "translation": "прибывать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute ankommen.",
-    "exampleTranslation": "Сегодня мы хотим: прибывать."
+    "example": "Wann kommt der Zug in Hamburg an?",
+    "exampleTranslation": "Когда поезд прибывает в Гамбург?"
   },
   {
     "id": "base-488",
@@ -6162,8 +6162,8 @@ export const baseWords: Word[] = [
     "translation": "открывать, обнаруживать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute entdecken.",
-    "exampleTranslation": "Сегодня мы хотим: открывать, обнаруживать."
+    "example": "Wir haben ein kleines Café entdeckt.",
+    "exampleTranslation": "Мы обнаружили маленькое кафе."
   },
   {
     "id": "base-489",
@@ -6174,8 +6174,8 @@ export const baseWords: Word[] = [
     "translation": "честный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich ehrlich.",
-    "exampleTranslation": "Это действительно честный."
+    "example": "Bitte sag mir deine ehrliche Meinung.",
+    "exampleTranslation": "Скажи мне, пожалуйста, своё честное мнение."
   },
   {
     "id": "base-490",
@@ -6188,8 +6188,8 @@ export const baseWords: Word[] = [
     "translation": "сад",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Garten ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сад."
+    "example": "Die Kinder spielen im Garten.",
+    "exampleTranslation": "Дети играют в саду."
   },
   {
     "id": "base-491",
@@ -6200,8 +6200,8 @@ export const baseWords: Word[] = [
     "translation": "милый, приятный",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich nett.",
-    "exampleTranslation": "Это действительно милый, приятный."
+    "example": "Unsere neuen Nachbarn sind sehr nett.",
+    "exampleTranslation": "Наши новые соседи очень приятные."
   },
   {
     "id": "base-492",
@@ -6214,8 +6214,8 @@ export const baseWords: Word[] = [
     "translation": "точка",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Punkt ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: точка."
+    "example": "Das ist ein wichtiger Punkt.",
+    "exampleTranslation": "Это важный момент."
   },
   {
     "id": "base-493",
@@ -6228,8 +6228,8 @@ export const baseWords: Word[] = [
     "translation": "мальчик",
     "level": "A2",
     "category": "Основы",
-    "example": "Der Junge ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мальчик."
+    "example": "Der Junge fährt allein zur Schule.",
+    "exampleTranslation": "Мальчик сам ездит в школу."
   },
   {
     "id": "base-494",
@@ -6240,8 +6240,8 @@ export const baseWords: Word[] = [
     "translation": "сердечно, тепло",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich herzlich.",
-    "exampleTranslation": "Это действительно сердечно, тепло."
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
+    "exampleTranslation": "Сердечно поздравляю с днём рождения!"
   },
   {
     "id": "base-495",
@@ -6252,8 +6252,8 @@ export const baseWords: Word[] = [
     "translation": "стартовать, начинаться",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute starten.",
-    "exampleTranslation": "Сегодня мы хотим: стартовать, начинаться."
+    "example": "Das Flugzeug startet um 14 Uhr.",
+    "exampleTranslation": "Самолёт вылетает в 14 часов."
   },
   {
     "id": "base-496",
@@ -6264,8 +6264,8 @@ export const baseWords: Word[] = [
     "translation": "(разг.) на это; смотря как (es kommt drauf an)",
     "level": "A2",
     "category": "Основы",
-    "example": "„drauf“ hört man oft im Alltag.",
-    "exampleTranslation": "«drauf» часто можно услышать в повседневной речи."
+    "example": "Es kommt drauf an, wie das Wetter wird.",
+    "exampleTranslation": "Это зависит от того, какая будет погода."
   },
   {
     "id": "base-497",
@@ -6278,8 +6278,8 @@ export const baseWords: Word[] = [
     "translation": "день рождения",
     "level": "A2",
     "category": "Время",
-    "example": "Der Geburtstag ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: день рождения."
+    "example": "Was wünschst du dir zum Geburtstag?",
+    "exampleTranslation": "Что ты хочешь получить на день рождения?"
   },
   {
     "id": "base-498",
@@ -6292,8 +6292,8 @@ export const baseWords: Word[] = [
     "translation": "место работы, должность",
     "level": "A2",
     "category": "Основы",
-    "example": "Die Stelle ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: место работы, должность."
+    "example": "Die Stelle ist ab sofort frei.",
+    "exampleTranslation": "Вакансия свободна с этого момента."
   },
   {
     "id": "base-499",
@@ -6304,8 +6304,8 @@ export const baseWords: Word[] = [
     "translation": "планировать",
     "level": "A2",
     "category": "Основы",
-    "example": "Wir wollen heute planen.",
-    "exampleTranslation": "Сегодня мы хотим: планировать."
+    "example": "Wir planen eine Reise nach Österreich.",
+    "exampleTranslation": "Мы планируем поездку в Австрию."
   },
   {
     "id": "base-500",
@@ -6316,8 +6316,8 @@ export const baseWords: Word[] = [
     "translation": "открытый",
     "level": "A2",
     "category": "Основы",
-    "example": "Das ist wirklich offen.",
-    "exampleTranslation": "Это действительно открытый."
+    "example": "Die Bibliothek ist bis 20 Uhr offen.",
+    "exampleTranslation": "Библиотека открыта до 20 часов."
   },
   {
     "id": "base-501",
@@ -6328,8 +6328,8 @@ export const baseWords: Word[] = [
     "translation": "пустой",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich leer.",
-    "exampleTranslation": "Это действительно пустой."
+    "example": "Die Flasche ist schon leer.",
+    "exampleTranslation": "Бутылка уже пустая."
   },
   {
     "id": "base-502",
@@ -6340,8 +6340,8 @@ export const baseWords: Word[] = [
     "translation": "изменять (кого-л., что-л.)",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute verändern.",
-    "exampleTranslation": "Сегодня мы хотим: изменять (кого-л., что-л.)."
+    "example": "Die Reise hat meine Sicht verändert.",
+    "exampleTranslation": "Путешествие изменило мой взгляд на мир."
   },
   {
     "id": "base-503",
@@ -6353,8 +6353,8 @@ export const baseWords: Word[] = [
     "translation": "полиция",
     "level": "B1",
     "category": "Еда",
-    "example": "Die Polizei ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: полиция."
+    "example": "Die Polizei hat die Straße gesperrt.",
+    "exampleTranslation": "Полиция перекрыла улицу."
   },
   {
     "id": "base-504",
@@ -6365,8 +6365,8 @@ export const baseWords: Word[] = [
     "translation": "проводить (время)",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute verbringen.",
-    "exampleTranslation": "Сегодня мы хотим: проводить (время)."
+    "example": "Wir verbringen das Wochenende am See.",
+    "exampleTranslation": "Мы проводим выходные у озера."
   },
   {
     "id": "base-505",
@@ -6378,8 +6378,8 @@ export const baseWords: Word[] = [
     "translation": "фрукты",
     "level": "B1",
     "category": "Основы",
-    "example": "Das Obst ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: фрукты."
+    "example": "Auf dem Tisch steht frisches Obst.",
+    "exampleTranslation": "На столе стоят свежие фрукты."
   },
   {
     "id": "base-506",
@@ -6391,8 +6391,8 @@ export const baseWords: Word[] = [
     "translation": "интернет",
     "level": "B1",
     "category": "Основы",
-    "example": "Das Internet ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: интернет."
+    "example": "Im Hotel gibt es kostenloses Internet.",
+    "exampleTranslation": "В отеле есть бесплатный интернет."
   },
   {
     "id": "base-507",
@@ -6403,8 +6403,8 @@ export const baseWords: Word[] = [
     "translation": "наружу (изнутри)",
     "level": "B1",
     "category": "Основы",
-    "example": "„hervor“ hört man oft im Alltag.",
-    "exampleTranslation": "«hervor» часто можно услышать в повседневной речи."
+    "example": "Plötzlich kam die Sonne hinter den Wolken hervor.",
+    "exampleTranslation": "Внезапно солнце показалось из-за облаков."
   },
   {
     "id": "base-508",
@@ -6415,8 +6415,8 @@ export const baseWords: Word[] = [
     "translation": "зарабатывать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute verdienen.",
-    "exampleTranslation": "Сегодня мы хотим: зарабатывать."
+    "example": "Wie viel verdient man in diesem Beruf?",
+    "exampleTranslation": "Сколько зарабатывают в этой профессии?"
   },
   {
     "id": "base-509",
@@ -6429,8 +6429,8 @@ export const baseWords: Word[] = [
     "translation": "сердце",
     "level": "B1",
     "category": "Основы",
-    "example": "Das Herz ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сердце."
+    "example": "Beim Abschied wurde mir das Herz schwer.",
+    "exampleTranslation": "При прощании у меня стало тяжело на сердце."
   },
   {
     "id": "base-510",
@@ -6443,8 +6443,8 @@ export const baseWords: Word[] = [
     "translation": "сыр",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Käse ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сыр."
+    "example": "Zum Frühstück esse ich Brot mit Käse.",
+    "exampleTranslation": "На завтрак я ем хлеб с сыром."
   },
   {
     "id": "base-511",
@@ -6457,8 +6457,8 @@ export const baseWords: Word[] = [
     "translation": "группа",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Gruppe ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: группа."
+    "example": "Unsere Gruppe besteht aus zwölf Personen.",
+    "exampleTranslation": "Наша группа состоит из двенадцати человек."
   },
   {
     "id": "base-512",
@@ -6469,8 +6469,8 @@ export const baseWords: Word[] = [
     "translation": "вставлять, засовывать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute stecken.",
-    "exampleTranslation": "Сегодня мы хотим: вставлять, засовывать."
+    "example": "Ich stecke den Schlüssel in die Tasche.",
+    "exampleTranslation": "Я кладу ключ в сумку."
   },
   {
     "id": "base-513",
@@ -6481,8 +6481,8 @@ export const baseWords: Word[] = [
     "translation": "вчера",
     "level": "B1",
     "category": "Время",
-    "example": "„gestern“ hört man oft im Alltag.",
-    "exampleTranslation": "«gestern» часто можно услышать в повседневной речи."
+    "example": "Gestern habe ich lange gearbeitet.",
+    "exampleTranslation": "Вчера я долго работал."
   },
   {
     "id": "base-514",
@@ -6493,8 +6493,8 @@ export const baseWords: Word[] = [
     "translation": "прогуливаться",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute spazieren.",
-    "exampleTranslation": "Сегодня мы хотим: прогуливаться."
+    "example": "Nach dem Essen gehen wir spazieren.",
+    "exampleTranslation": "После еды мы идём гулять."
   },
   {
     "id": "base-515",
@@ -6507,8 +6507,8 @@ export const baseWords: Word[] = [
     "translation": "номер",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Nummer ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: номер."
+    "example": "Unter welcher Nummer kann ich Sie erreichen?",
+    "exampleTranslation": "По какому номеру я могу с Вами связаться?"
   },
   {
     "id": "base-516",
@@ -6533,8 +6533,8 @@ export const baseWords: Word[] = [
     "translation": "сон (сновидение)",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Traum ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сон (сновидение)."
+    "example": "Letzte Nacht hatte ich einen seltsamen Traum.",
+    "exampleTranslation": "Прошлой ночью мне приснился странный сон."
   },
   {
     "id": "base-518",
@@ -6545,8 +6545,8 @@ export const baseWords: Word[] = [
     "translation": "готовиться (к чему-л.)",
     "level": "B1",
     "category": "Еда",
-    "example": "Wir wollen heute vorbereiten.",
-    "exampleTranslation": "Сегодня мы хотим: готовиться (к чему-л.)."
+    "example": "Ich bereite mich auf die Prüfung vor.",
+    "exampleTranslation": "Я готовлюсь к экзамену."
   },
   {
     "id": "base-519",
@@ -6557,8 +6557,8 @@ export const baseWords: Word[] = [
     "translation": "смотреть, рассматривать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute anschauen.",
-    "exampleTranslation": "Сегодня мы хотим: смотреть, рассматривать."
+    "example": "Wir schauen uns morgen die Wohnung an.",
+    "exampleTranslation": "Завтра мы осмотрим квартиру."
   },
   {
     "id": "base-520",
@@ -6571,8 +6571,8 @@ export const baseWords: Word[] = [
     "translation": "небо",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Himmel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: небо."
+    "example": "Heute ist der Himmel ganz blau.",
+    "exampleTranslation": "Сегодня небо совсем голубое."
   },
   {
     "id": "base-521",
@@ -6583,8 +6583,8 @@ export const baseWords: Word[] = [
     "translation": "пробовать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute probieren.",
-    "exampleTranslation": "Сегодня мы хотим: пробовать."
+    "example": "Möchtest du die Suppe probieren?",
+    "exampleTranslation": "Хочешь попробовать суп?"
   },
   {
     "id": "base-522",
@@ -6595,8 +6595,8 @@ export const baseWords: Word[] = [
     "translation": "уже",
     "level": "B1",
     "category": "Еда",
-    "example": "„bereits“ hört man oft im Alltag.",
-    "exampleTranslation": "«bereits» часто можно услышать в повседневной речи."
+    "example": "Die Rechnung ist bereits bezahlt.",
+    "exampleTranslation": "Счёт уже оплачен."
   },
   {
     "id": "base-523",
@@ -6607,8 +6607,8 @@ export const baseWords: Word[] = [
     "translation": "зелёный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich grün.",
-    "exampleTranslation": "Это действительно зелёный."
+    "example": "Bei Grün dürfen wir gehen.",
+    "exampleTranslation": "На зелёный свет можно идти."
   },
   {
     "id": "base-524",
@@ -6621,8 +6621,8 @@ export const baseWords: Word[] = [
     "translation": "лес",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Wald ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: лес."
+    "example": "Am Wochenende wandern wir durch den Wald.",
+    "exampleTranslation": "На выходных мы гуляем по лесу."
   },
   {
     "id": "base-525",
@@ -6633,8 +6633,8 @@ export const baseWords: Word[] = [
     "translation": "выигрывать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute gewinnen.",
-    "exampleTranslation": "Сегодня мы хотим: выигрывать."
+    "example": "Unsere Mannschaft hat das Spiel gewonnen.",
+    "exampleTranslation": "Наша команда выиграла игру."
   },
   {
     "id": "base-526",
@@ -6645,8 +6645,8 @@ export const baseWords: Word[] = [
     "translation": "различный, разный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich unterschiedlich.",
-    "exampleTranslation": "Это действительно различный, разный."
+    "example": "Die beiden Angebote sind sehr unterschiedlich.",
+    "exampleTranslation": "Эти два предложения сильно различаются."
   },
   {
     "id": "base-527",
@@ -6659,8 +6659,8 @@ export const baseWords: Word[] = [
     "translation": "учитель",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Lehrer ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: учитель."
+    "example": "Unser Lehrer erklärt die Grammatik sehr klar.",
+    "exampleTranslation": "Наш учитель очень понятно объясняет грамматику."
   },
   {
     "id": "base-528",
@@ -6671,8 +6671,8 @@ export const baseWords: Word[] = [
     "translation": "весёлый, смешной",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich lustig.",
-    "exampleTranslation": "Это действительно весёлый, смешной."
+    "example": "Der Film war wirklich lustig.",
+    "exampleTranslation": "Фильм был действительно смешным."
   },
   {
     "id": "base-529",
@@ -6683,8 +6683,8 @@ export const baseWords: Word[] = [
     "translation": "наружу, на улицу (разг.)",
     "level": "B1",
     "category": "Основы",
-    "example": "„raus“ hört man oft im Alltag.",
-    "exampleTranslation": "«raus» часто можно услышать в повседневной речи."
+    "example": "Ich gehe kurz raus und hole Luft.",
+    "exampleTranslation": "Я ненадолго выйду подышать воздухом."
   },
   {
     "id": "base-530",
@@ -6695,8 +6695,8 @@ export const baseWords: Word[] = [
     "translation": "круглый",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich rund.",
-    "exampleTranslation": "Это действительно круглый."
+    "example": "Der Tisch ist nicht eckig, sondern rund.",
+    "exampleTranslation": "Стол не квадратный, а круглый."
   },
   {
     "id": "base-531",
@@ -6707,8 +6707,8 @@ export const baseWords: Word[] = [
     "translation": "полный, целый",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich komplett.",
-    "exampleTranslation": "Это действительно полный, целый."
+    "example": "Das Hotel ist für das Wochenende komplett ausgebucht.",
+    "exampleTranslation": "Отель полностью забронирован на выходные."
   },
   {
     "id": "base-532",
@@ -6719,8 +6719,8 @@ export const baseWords: Word[] = [
     "translation": "рассматривать, смотреть",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute ansehen.",
-    "exampleTranslation": "Сегодня мы хотим: рассматривать, смотреть."
+    "example": "Wir sehen uns heute eine neue Wohnung an.",
+    "exampleTranslation": "Сегодня мы осматриваем новую квартиру."
   },
   {
     "id": "base-533",
@@ -6733,8 +6733,8 @@ export const baseWords: Word[] = [
     "translation": "ответ",
     "level": "B1",
     "category": "Путешествия",
-    "example": "Die Antwort ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ответ."
+    "example": "Ich warte noch auf Ihre Antwort.",
+    "exampleTranslation": "Я всё ещё жду Вашего ответа."
   },
   {
     "id": "base-534",
@@ -6747,8 +6747,8 @@ export const baseWords: Word[] = [
     "translation": "ошибка",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Fehler ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ошибка."
+    "example": "Aus Fehlern kann man viel lernen.",
+    "exampleTranslation": "На ошибках можно многому научиться."
   },
   {
     "id": "base-535",
@@ -6761,8 +6761,8 @@ export const baseWords: Word[] = [
     "translation": "пляж",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Strand ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: пляж."
+    "example": "Am Strand war es heute sehr windig.",
+    "exampleTranslation": "Сегодня на пляже было очень ветрено."
   },
   {
     "id": "base-536",
@@ -6775,8 +6775,8 @@ export const baseWords: Word[] = [
     "translation": "порядок",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Ordnung ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: порядок."
+    "example": "Nach dem Umzug müssen wir noch Ordnung machen.",
+    "exampleTranslation": "После переезда нам ещё нужно навести порядок."
   },
   {
     "id": "base-537",
@@ -6787,8 +6787,8 @@ export const baseWords: Word[] = [
     "translation": "договариваться, соглашаться",
     "level": "B1",
     "category": "Еда",
-    "example": "Wir wollen heute uns einigen.",
-    "exampleTranslation": "Сегодня мы хотим: договариваться, соглашаться."
+    "example": "Wir haben uns auf einen Termin geeinigt.",
+    "exampleTranslation": "Мы договорились о времени встречи."
   },
   {
     "id": "base-538",
@@ -6801,8 +6801,8 @@ export const baseWords: Word[] = [
     "translation": "цвет",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Farbe ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: цвет."
+    "example": "Welche Farbe hat dein neues Fahrrad?",
+    "exampleTranslation": "Какого цвета твой новый велосипед?"
   },
   {
     "id": "base-539",
@@ -6815,8 +6815,8 @@ export const baseWords: Word[] = [
     "translation": "завтрак",
     "level": "B1",
     "category": "Основы",
-    "example": "Das Frühstück ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: завтрак."
+    "example": "Das Frühstück wird bis zehn Uhr serviert.",
+    "exampleTranslation": "Завтрак подают до десяти часов."
   },
   {
     "id": "base-540",
@@ -6829,8 +6829,8 @@ export const baseWords: Word[] = [
     "translation": "тётя",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Tante ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: тётя."
+    "example": "Meine Tante lebt in der Schweiz.",
+    "exampleTranslation": "Моя тётя живёт в Швейцарии."
   },
   {
     "id": "base-541",
@@ -6841,8 +6841,8 @@ export const baseWords: Word[] = [
     "translation": "чёткий, разборчивый",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich deutlich.",
-    "exampleTranslation": "Это действительно чёткий, разборчивый."
+    "example": "Bitte sprechen Sie langsam und deutlich.",
+    "exampleTranslation": "Пожалуйста, говорите медленно и чётко."
   },
   {
     "id": "base-542",
@@ -6853,8 +6853,8 @@ export const baseWords: Word[] = [
     "translation": "действовать, помогать (о средстве)",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute wirken.",
-    "exampleTranslation": "Сегодня мы хотим: действовать, помогать (о средстве)."
+    "example": "Das Medikament wirkt schon nach wenigen Minuten.",
+    "exampleTranslation": "Лекарство начинает действовать уже через несколько минут."
   },
   {
     "id": "base-543",
@@ -6867,8 +6867,8 @@ export const baseWords: Word[] = [
     "translation": "Земля (планета)",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Erde ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: Земля (планета)."
+    "example": "Die Erde dreht sich um die Sonne.",
+    "exampleTranslation": "Земля вращается вокруг Солнца."
   },
   {
     "id": "base-544",
@@ -6879,8 +6879,8 @@ export const baseWords: Word[] = [
     "translation": "приветливый, дружелюбный",
     "level": "B1",
     "category": "Люди",
-    "example": "Das ist wirklich freundlich.",
-    "exampleTranslation": "Это действительно приветливый, дружелюбный."
+    "example": "Die Mitarbeiterin war sehr freundlich.",
+    "exampleTranslation": "Сотрудница была очень приветливой."
   },
   {
     "id": "base-545",
@@ -6891,8 +6891,8 @@ export const baseWords: Word[] = [
     "translation": "захватывающий, интересный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich spannend.",
-    "exampleTranslation": "Это действительно захватывающий, интересный."
+    "example": "Das Buch bleibt bis zum Ende spannend.",
+    "exampleTranslation": "Книга остаётся захватывающей до самого конца."
   },
   {
     "id": "base-546",
@@ -6905,8 +6905,8 @@ export const baseWords: Word[] = [
     "translation": "цена",
     "level": "B1",
     "category": "Еда",
-    "example": "Der Preis ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: цена."
+    "example": "Der Preis ist im Angebot niedriger.",
+    "exampleTranslation": "Цена по акции ниже."
   },
   {
     "id": "base-547",
@@ -6917,8 +6917,8 @@ export const baseWords: Word[] = [
     "translation": "плавать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute schwimmen.",
-    "exampleTranslation": "Сегодня мы хотим: плавать."
+    "example": "Im Sommer schwimmen wir oft im See.",
+    "exampleTranslation": "Летом мы часто плаваем в озере."
   },
   {
     "id": "base-548",
@@ -6929,8 +6929,8 @@ export const baseWords: Word[] = [
     "translation": "чувствовать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute spüren.",
-    "exampleTranslation": "Сегодня мы хотим: чувствовать."
+    "example": "Ich spüre den kalten Wind im Gesicht.",
+    "exampleTranslation": "Я чувствую холодный ветер на лице."
   },
   {
     "id": "base-549",
@@ -6941,8 +6941,8 @@ export const baseWords: Word[] = [
     "translation": "экономить, копить",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute sparen.",
-    "exampleTranslation": "Сегодня мы хотим: экономить, копить."
+    "example": "Wir sparen für eine Reise nach Japan.",
+    "exampleTranslation": "Мы копим на поездку в Японию."
   },
   {
     "id": "base-550",
@@ -6953,8 +6953,8 @@ export const baseWords: Word[] = [
     "translation": "так же (как)",
     "level": "B1",
     "category": "Основы",
-    "example": "„genauso“ hört man oft im Alltag.",
-    "exampleTranslation": "«genauso» часто можно услышать в повседневной речи."
+    "example": "Mach es bitte genauso wie ich.",
+    "exampleTranslation": "Сделай, пожалуйста, точно так же, как я."
   },
   {
     "id": "base-551",
@@ -6967,8 +6967,8 @@ export const baseWords: Word[] = [
     "translation": "пирог, торт",
     "level": "B1",
     "category": "Еда",
-    "example": "Der Kuchen ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: пирог, торт."
+    "example": "Der Kuchen riecht nach Schokolade.",
+    "exampleTranslation": "Пирог пахнет шоколадом."
   },
   {
     "id": "base-552",
@@ -6979,8 +6979,8 @@ export const baseWords: Word[] = [
     "translation": "собирать (вещи), упаковывать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute packen.",
-    "exampleTranslation": "Сегодня мы хотим: собирать (вещи), упаковывать."
+    "example": "Ich muss heute noch meinen Koffer packen.",
+    "exampleTranslation": "Мне сегодня ещё нужно собрать чемодан."
   },
   {
     "id": "base-553",
@@ -6993,8 +6993,8 @@ export const baseWords: Word[] = [
     "translation": "разговор",
     "level": "B1",
     "category": "Основы",
-    "example": "Das Gespräch ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: разговор."
+    "example": "Das Gespräch mit der Chefin lief gut.",
+    "exampleTranslation": "Разговор с начальницей прошёл хорошо."
   },
   {
     "id": "base-554",
@@ -7007,8 +7007,8 @@ export const baseWords: Word[] = [
     "translation": "план",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Plan ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: план."
+    "example": "Was ist dein Plan für morgen?",
+    "exampleTranslation": "Какой у тебя план на завтра?"
   },
   {
     "id": "base-555",
@@ -7019,8 +7019,8 @@ export const baseWords: Word[] = [
     "translation": "знакомиться",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute kennenlernen.",
-    "exampleTranslation": "Сегодня мы хотим: знакомиться."
+    "example": "Im Sprachkurs habe ich viele Leute kennengelernt.",
+    "exampleTranslation": "На языковых курсах я познакомился со многими людьми."
   },
   {
     "id": "base-556",
@@ -7031,8 +7031,8 @@ export const baseWords: Word[] = [
     "translation": "сзади",
     "level": "B1",
     "category": "Основы",
-    "example": "„hinten“ hört man oft im Alltag.",
-    "exampleTranslation": "«hinten» часто можно услышать в повседневной речи."
+    "example": "Im Bus sind hinten noch Plätze frei.",
+    "exampleTranslation": "В задней части автобуса ещё есть свободные места."
   },
   {
     "id": "base-557",
@@ -7045,8 +7045,8 @@ export const baseWords: Word[] = [
     "translation": "погода",
     "level": "B1",
     "category": "Основы",
-    "example": "Das Wetter ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: погода."
+    "example": "Wie wird das Wetter am Wochenende?",
+    "exampleTranslation": "Какая будет погода на выходных?"
   },
   {
     "id": "base-558",
@@ -7058,8 +7058,8 @@ export const baseWords: Word[] = [
     "translation": "иной, некоторые",
     "level": "B1",
     "category": "Основы",
-    "example": "„mancher“ hört man oft im Alltag.",
-    "exampleTranslation": "«mancher» часто можно услышать в повседневной речи."
+    "example": "Manche Wörter vergesse ich immer wieder.",
+    "exampleTranslation": "Некоторые слова я постоянно забываю."
   },
   {
     "id": "base-559",
@@ -7070,8 +7070,8 @@ export const baseWords: Word[] = [
     "translation": "брать с собой",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute mitnehmen.",
-    "exampleTranslation": "Сегодня мы хотим: брать с собой."
+    "example": "Soll ich etwas zu trinken mitnehmen?",
+    "exampleTranslation": "Мне взять с собой что-нибудь попить?"
   },
   {
     "id": "base-560",
@@ -7082,8 +7082,8 @@ export const baseWords: Word[] = [
     "translation": "покупать, делать покупки",
     "level": "B1",
     "category": "Еда",
-    "example": "Wir wollen heute einkaufen.",
-    "exampleTranslation": "Сегодня мы хотим: покупать, делать покупки."
+    "example": "Samstags gehen wir auf dem Markt einkaufen.",
+    "exampleTranslation": "По субботам мы ходим за покупками на рынок."
   },
   {
     "id": "base-561",
@@ -7096,8 +7096,8 @@ export const baseWords: Word[] = [
     "translation": "сын",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Sohn ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: сын."
+    "example": "Ihr Sohn beginnt im Herbst die Schule.",
+    "exampleTranslation": "Её сын осенью идёт в школу."
   },
   {
     "id": "base-562",
@@ -7109,8 +7109,8 @@ export const baseWords: Word[] = [
     "translation": "близость; поблизости",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Nähe ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: близость; поблизости."
+    "example": "Gibt es hier einen Supermarkt in der Nähe?",
+    "exampleTranslation": "Здесь поблизости есть супермаркет?"
   },
   {
     "id": "base-563",
@@ -7123,8 +7123,8 @@ export const baseWords: Word[] = [
     "translation": "правило",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Regel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: правило."
+    "example": "Für diese Regel gibt es eine Ausnahme.",
+    "exampleTranslation": "У этого правила есть исключение."
   },
   {
     "id": "base-564",
@@ -7137,8 +7137,8 @@ export const baseWords: Word[] = [
     "translation": "любовь",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Liebe ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: любовь."
+    "example": "Ihre Liebe zur Musik begann schon früh.",
+    "exampleTranslation": "Её любовь к музыке началась ещё в детстве."
   },
   {
     "id": "base-565",
@@ -7149,8 +7149,8 @@ export const baseWords: Word[] = [
     "translation": "продавать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute verkaufen.",
-    "exampleTranslation": "Сегодня мы хотим: продавать."
+    "example": "Sie verkauft ihr altes Fahrrad online.",
+    "exampleTranslation": "Она продаёт свой старый велосипед в интернете."
   },
   {
     "id": "base-566",
@@ -7163,8 +7163,8 @@ export const baseWords: Word[] = [
     "translation": "растение",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Pflanze ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: растение."
+    "example": "Diese Pflanze braucht viel Licht.",
+    "exampleTranslation": "Этому растению нужно много света."
   },
   {
     "id": "base-567",
@@ -7177,8 +7177,8 @@ export const baseWords: Word[] = [
     "translation": "задача, задание",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Aufgabe ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: задача, задание."
+    "example": "Ich habe die Aufgabe noch nicht verstanden.",
+    "exampleTranslation": "Я ещё не понял задание."
   },
   {
     "id": "base-568",
@@ -7189,8 +7189,8 @@ export const baseWords: Word[] = [
     "translation": "ни … ни",
     "level": "B1",
     "category": "Основы",
-    "example": "„weder … noch“ hört man oft im Alltag.",
-    "exampleTranslation": "«weder … noch» часто можно услышать в повседневной речи."
+    "example": "Ich trinke weder Kaffee noch Tee.",
+    "exampleTranslation": "Я не пью ни кофе, ни чай."
   },
   {
     "id": "base-569",
@@ -7203,8 +7203,8 @@ export const baseWords: Word[] = [
     "translation": "дядя",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Onkel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: дядя."
+    "example": "Mein Onkel arbeitet als Busfahrer.",
+    "exampleTranslation": "Мой дядя работает водителем автобуса."
   },
   {
     "id": "base-570",
@@ -7217,8 +7217,8 @@ export const baseWords: Word[] = [
     "translation": "количество",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Menge ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: количество."
+    "example": "Für den Salat brauchen wir eine kleine Menge Öl.",
+    "exampleTranslation": "Для салата нам нужно небольшое количество масла."
   },
   {
     "id": "base-571",
@@ -7231,8 +7231,8 @@ export const baseWords: Word[] = [
     "translation": "канал",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Kanal ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: канал."
+    "example": "Auf welchem Kanal läuft das Spiel?",
+    "exampleTranslation": "На каком канале показывают матч?"
   },
   {
     "id": "base-572",
@@ -7243,8 +7243,8 @@ export const baseWords: Word[] = [
     "translation": "улыбаться",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute lächeln.",
-    "exampleTranslation": "Сегодня мы хотим: улыбаться."
+    "example": "Das Kind lächelt auf dem Foto.",
+    "exampleTranslation": "Ребёнок улыбается на фотографии."
   },
   {
     "id": "base-573",
@@ -7257,8 +7257,8 @@ export const baseWords: Word[] = [
     "translation": "беспокойство, тревога",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Sorge ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: беспокойство, тревога."
+    "example": "Mach dir keine Sorgen um mich.",
+    "exampleTranslation": "Не беспокойся обо мне."
   },
   {
     "id": "base-574",
@@ -7269,8 +7269,8 @@ export const baseWords: Word[] = [
     "translation": "мыть",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute waschen.",
-    "exampleTranslation": "Сегодня мы хотим: мыть."
+    "example": "Ich muss noch die Wäsche waschen.",
+    "exampleTranslation": "Мне ещё нужно постирать бельё."
   },
   {
     "id": "base-575",
@@ -7283,8 +7283,8 @@ export const baseWords: Word[] = [
     "translation": "яблоко",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Apfel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: яблоко."
+    "example": "Ich nehme einen Apfel für unterwegs.",
+    "exampleTranslation": "Я возьму яблоко в дорогу."
   },
   {
     "id": "base-576",
@@ -7295,8 +7295,8 @@ export const baseWords: Word[] = [
     "translation": "вкусный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich lecker.",
-    "exampleTranslation": "Это действительно вкусный."
+    "example": "Die Suppe ist wirklich lecker.",
+    "exampleTranslation": "Суп действительно вкусный."
   },
   {
     "id": "base-577",
@@ -7307,8 +7307,8 @@ export const baseWords: Word[] = [
     "translation": "путешествовать",
     "level": "B1",
     "category": "Путешествия",
-    "example": "Wir wollen heute reisen.",
-    "exampleTranslation": "Сегодня мы хотим: путешествовать."
+    "example": "Nach dem Studium möchte sie viel reisen.",
+    "exampleTranslation": "После учёбы она хочет много путешествовать."
   },
   {
     "id": "base-578",
@@ -7321,8 +7321,8 @@ export const baseWords: Word[] = [
     "translation": "рот",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Mund ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: рот."
+    "example": "Bitte öffne den Mund.",
+    "exampleTranslation": "Откройте, пожалуйста, рот."
   },
   {
     "id": "base-579",
@@ -7333,8 +7333,8 @@ export const baseWords: Word[] = [
     "translation": "бежать, мчаться",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute rennen.",
-    "exampleTranslation": "Сегодня мы хотим: бежать, мчаться."
+    "example": "Wir mussten zum Bus rennen.",
+    "exampleTranslation": "Нам пришлось бежать к автобусу."
   },
   {
     "id": "base-580",
@@ -7345,8 +7345,8 @@ export const baseWords: Word[] = [
     "translation": "летать, лететь",
     "level": "B1",
     "category": "Путешествия",
-    "example": "Wir wollen heute fliegen.",
-    "exampleTranslation": "Сегодня мы хотим: летать, лететь."
+    "example": "Nächste Woche fliegen wir nach Spanien.",
+    "exampleTranslation": "На следующей неделе мы летим в Испанию."
   },
   {
     "id": "base-581",
@@ -7357,8 +7357,8 @@ export const baseWords: Word[] = [
     "translation": "платить",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute zahlen.",
-    "exampleTranslation": "Сегодня мы хотим: платить."
+    "example": "Muss ich sofort zahlen?",
+    "exampleTranslation": "Мне нужно заплатить сразу?"
   },
   {
     "id": "base-582",
@@ -7369,8 +7369,8 @@ export const baseWords: Word[] = [
     "translation": "ожидать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute erwarten.",
-    "exampleTranslation": "Сегодня мы хотим: ожидать."
+    "example": "Wir erwarten heute viele Gäste.",
+    "exampleTranslation": "Сегодня мы ожидаем много гостей."
   },
   {
     "id": "base-583",
@@ -7381,8 +7381,8 @@ export const baseWords: Word[] = [
     "translation": "расти",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute wachsen.",
-    "exampleTranslation": "Сегодня мы хотим: расти."
+    "example": "Die Kinder wachsen sehr schnell.",
+    "exampleTranslation": "Дети растут очень быстро."
   },
   {
     "id": "base-584",
@@ -7393,8 +7393,8 @@ export const baseWords: Word[] = [
     "translation": "смотреть, глядеть",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute blicken.",
-    "exampleTranslation": "Сегодня мы хотим: смотреть, глядеть."
+    "example": "Sie blickt aus dem Fenster.",
+    "exampleTranslation": "Она смотрит в окно."
   },
   {
     "id": "base-585",
@@ -7405,8 +7405,8 @@ export const baseWords: Word[] = [
     "translation": "практиковать, упражняться",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute üben.",
-    "exampleTranslation": "Сегодня мы хотим: практиковать, упражняться."
+    "example": "Vor der Prüfung übe ich jeden Tag.",
+    "exampleTranslation": "Перед экзаменом я занимаюсь каждый день."
   },
   {
     "id": "base-586",
@@ -7417,8 +7417,8 @@ export const baseWords: Word[] = [
     "translation": "абсолютно, совершенно",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich absolut.",
-    "exampleTranslation": "Это действительно абсолютно, совершенно."
+    "example": "Das ist absolut richtig.",
+    "exampleTranslation": "Это совершенно верно."
   },
   {
     "id": "base-587",
@@ -7429,8 +7429,8 @@ export const baseWords: Word[] = [
     "translation": "обычно, как правило",
     "level": "B1",
     "category": "Еда",
-    "example": "„normalerweise“ hört man oft im Alltag.",
-    "exampleTranslation": "«normalerweise» часто можно услышать в повседневной речи."
+    "example": "Normalerweise fahre ich mit der U-Bahn.",
+    "exampleTranslation": "Обычно я езжу на метро."
   },
   {
     "id": "base-588",
@@ -7441,8 +7441,8 @@ export const baseWords: Word[] = [
     "translation": "прыгать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute springen.",
-    "exampleTranslation": "Сегодня мы хотим: прыгать."
+    "example": "Das Kind springt ins Wasser.",
+    "exampleTranslation": "Ребёнок прыгает в воду."
   },
   {
     "id": "base-589",
@@ -7453,8 +7453,8 @@ export const baseWords: Word[] = [
     "translation": "классный, крутой",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich cool.",
-    "exampleTranslation": "Это действительно классный, крутой."
+    "example": "Dein neues Fahrrad sieht cool aus.",
+    "exampleTranslation": "Твой новый велосипед выглядит круто."
   },
   {
     "id": "base-590",
@@ -7465,8 +7465,8 @@ export const baseWords: Word[] = [
     "translation": "не хватать (кому-л.)",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute fehlen.",
-    "exampleTranslation": "Сегодня мы хотим: не хватать (кому-л.)."
+    "example": "Mir fehlt noch ein Dokument.",
+    "exampleTranslation": "Мне не хватает ещё одного документа."
   },
   {
     "id": "base-591",
@@ -7479,8 +7479,8 @@ export const baseWords: Word[] = [
     "translation": "воскресенье",
     "level": "B1",
     "category": "Время",
-    "example": "Der Sonntag ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: воскресенье."
+    "example": "Am Sonntag bleiben die Geschäfte geschlossen.",
+    "exampleTranslation": "В воскресенье магазины закрыты."
   },
   {
     "id": "base-592",
@@ -7491,8 +7491,8 @@ export const baseWords: Word[] = [
     "translation": "твёрдый, чёрствый",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich hart.",
-    "exampleTranslation": "Это действительно твёрдый, чёрствый."
+    "example": "Das Brot ist schon hart.",
+    "exampleTranslation": "Хлеб уже чёрствый."
   },
   {
     "id": "base-593",
@@ -7503,8 +7503,8 @@ export const baseWords: Word[] = [
     "translation": "один",
     "level": "B1",
     "category": "Еда",
-    "example": "„eins“ hört man oft im Alltag.",
-    "exampleTranslation": "«eins» часто можно услышать в повседневной речи."
+    "example": "Ich nehme die Linie eins.",
+    "exampleTranslation": "Я поеду на первом маршруте."
   },
   {
     "id": "base-594",
@@ -7515,8 +7515,8 @@ export const baseWords: Word[] = [
     "translation": "однако, правда",
     "level": "B1",
     "category": "Основы",
-    "example": "„allerdings“ hört man oft im Alltag.",
-    "exampleTranslation": "«allerdings» часто можно услышать в повседневной речи."
+    "example": "Das Zimmer ist schön, allerdings etwas teuer.",
+    "exampleTranslation": "Комната красивая, однако немного дорогая."
   },
   {
     "id": "base-595",
@@ -7527,8 +7527,8 @@ export const baseWords: Word[] = [
     "translation": "истинный, правдивый",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich wahr.",
-    "exampleTranslation": "Это действительно истинный, правдивый."
+    "example": "Ist diese Geschichte wirklich wahr?",
+    "exampleTranslation": "Эта история действительно правдивая?"
   },
   {
     "id": "base-596",
@@ -7540,8 +7540,8 @@ export const baseWords: Word[] = [
     "translation": "мясо",
     "level": "B1",
     "category": "Еда",
-    "example": "Das Fleisch ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мясо."
+    "example": "Wir essen nur selten Fleisch.",
+    "exampleTranslation": "Мы едим мясо лишь изредка."
   },
   {
     "id": "base-597",
@@ -7554,8 +7554,8 @@ export const baseWords: Word[] = [
     "translation": "яйцо",
     "level": "B1",
     "category": "Еда",
-    "example": "Das Ei ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: яйцо."
+    "example": "Zum Frühstück koche ich zwei Eier.",
+    "exampleTranslation": "На завтрак я варю два яйца."
   },
   {
     "id": "base-598",
@@ -7567,8 +7567,8 @@ export const baseWords: Word[] = [
     "translation": "желание, охота",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Lust ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: желание, охота."
+    "example": "Hast du Lust auf einen Spaziergang?",
+    "exampleTranslation": "Хочешь прогуляться?"
   },
   {
     "id": "base-599",
@@ -7579,8 +7579,8 @@ export const baseWords: Word[] = [
     "translation": "одновременно",
     "level": "B1",
     "category": "Еда",
-    "example": "Das ist wirklich gleichzeitig.",
-    "exampleTranslation": "Это действительно одновременно."
+    "example": "Ich kann nicht gleichzeitig reden und schreiben.",
+    "exampleTranslation": "Я не могу одновременно говорить и писать."
   },
   {
     "id": "base-600",
@@ -7593,8 +7593,8 @@ export const baseWords: Word[] = [
     "translation": "мозг",
     "level": "B1",
     "category": "Здоровье",
-    "example": "Das Gehirn ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: мозг."
+    "example": "Schlaf ist wichtig für das Gehirn.",
+    "exampleTranslation": "Сон важен для мозга."
   },
   {
     "id": "base-601",
@@ -7605,8 +7605,8 @@ export const baseWords: Word[] = [
     "translation": "похожий",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich ähnlich.",
-    "exampleTranslation": "Это действительно похожий."
+    "example": "Die beiden Wörter klingen sehr ähnlich.",
+    "exampleTranslation": "Эти два слова звучат очень похоже."
   },
   {
     "id": "base-602",
@@ -7618,8 +7618,8 @@ export const baseWords: Word[] = [
     "translation": "одежда",
     "level": "B1",
     "category": "Еда",
-    "example": "Die Kleidung ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: одежда."
+    "example": "Für die Reise brauche ich warme Kleidung.",
+    "exampleTranslation": "Для поездки мне нужна тёплая одежда."
   },
   {
     "id": "base-603",
@@ -7632,8 +7632,8 @@ export const baseWords: Word[] = [
     "translation": "озеро",
     "level": "B1",
     "category": "Природа",
-    "example": "Der See ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: озеро."
+    "example": "Im Sommer baden viele Menschen im See.",
+    "exampleTranslation": "Летом многие люди купаются в озере."
   },
   {
     "id": "base-604",
@@ -7645,8 +7645,8 @@ export const baseWords: Word[] = [
     "translation": "море",
     "level": "B1",
     "category": "Природа",
-    "example": "Die See ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: море."
+    "example": "Die See ist heute sehr ruhig.",
+    "exampleTranslation": "Сегодня море очень спокойное."
   },
   {
     "id": "base-605",
@@ -7657,8 +7657,8 @@ export const baseWords: Word[] = [
     "translation": "дарить",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute schenken.",
-    "exampleTranslation": "Сегодня мы хотим: дарить."
+    "example": "Was schenken wir Anna zum Geburtstag?",
+    "exampleTranslation": "Что мы подарим Анне на день рождения?"
   },
   {
     "id": "base-606",
@@ -7669,8 +7669,8 @@ export const baseWords: Word[] = [
     "translation": "известный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich bekannt.",
-    "exampleTranslation": "Это действительно известный."
+    "example": "Das Restaurant ist für seine Suppen bekannt.",
+    "exampleTranslation": "Ресторан известен своими супами."
   },
   {
     "id": "base-607",
@@ -7681,8 +7681,8 @@ export const baseWords: Word[] = [
     "translation": "по крайней мере, хотя бы",
     "level": "B1",
     "category": "Основы",
-    "example": "„zumindest“ hört man oft im Alltag.",
-    "exampleTranslation": "«zumindest» часто можно услышать в повседневной речи."
+    "example": "Zumindest am Wochenende möchte ich ausschlafen.",
+    "exampleTranslation": "Хотя бы на выходных я хочу выспаться."
   },
   {
     "id": "base-608",
@@ -7693,8 +7693,8 @@ export const baseWords: Word[] = [
     "translation": "дорогой",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich teuer.",
-    "exampleTranslation": "Это действительно дорогой."
+    "example": "Die Miete ist in dieser Gegend sehr teuer.",
+    "exampleTranslation": "Аренда в этом районе очень дорогая."
   },
   {
     "id": "base-609",
@@ -7705,8 +7705,8 @@ export const baseWords: Word[] = [
     "translation": "описывать",
     "level": "B1",
     "category": "Еда",
-    "example": "Wir wollen heute beschreiben.",
-    "exampleTranslation": "Сегодня мы хотим: описывать."
+    "example": "Können Sie den Weg genauer beschreiben?",
+    "exampleTranslation": "Вы можете точнее описать дорогу?"
   },
   {
     "id": "base-610",
@@ -7719,8 +7719,8 @@ export const baseWords: Word[] = [
     "translation": "природа",
     "level": "B1",
     "category": "Природа",
-    "example": "Die Natur ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: природа."
+    "example": "Im Urlaub genießen wir die Natur.",
+    "exampleTranslation": "В отпуске мы наслаждаемся природой."
   },
   {
     "id": "base-611",
@@ -7733,8 +7733,8 @@ export const baseWords: Word[] = [
     "translation": "хлеб",
     "level": "B1",
     "category": "Еда",
-    "example": "Das Brot ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: хлеб."
+    "example": "Ich kaufe jeden Morgen frisches Brot.",
+    "exampleTranslation": "Я каждое утро покупаю свежий хлеб."
   },
   {
     "id": "base-612",
@@ -7747,8 +7747,8 @@ export const baseWords: Word[] = [
     "translation": "успех",
     "level": "B1",
     "category": "Работа",
-    "example": "Der Erfolg ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: успех."
+    "example": "Regelmäßiges Üben führt zum Erfolg.",
+    "exampleTranslation": "Регулярные занятия приводят к успеху."
   },
   {
     "id": "base-613",
@@ -7759,8 +7759,8 @@ export const baseWords: Word[] = [
     "translation": "убирать, чистить",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute putzen.",
-    "exampleTranslation": "Сегодня мы хотим: убирать, чистить."
+    "example": "Am Samstag putzen wir die Wohnung.",
+    "exampleTranslation": "В субботу мы убираем квартиру."
   },
   {
     "id": "base-614",
@@ -7773,8 +7773,8 @@ export const baseWords: Word[] = [
     "translation": "приём (у врача), назначенная встреча",
     "level": "B1",
     "category": "Работа",
-    "example": "Der Termin ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: приём (у врача), назначенная встреча."
+    "example": "Ich habe morgen einen Termin beim Arzt.",
+    "exampleTranslation": "Завтра у меня приём у врача."
   },
   {
     "id": "base-615",
@@ -7787,8 +7787,8 @@ export const baseWords: Word[] = [
     "translation": "угол",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Ecke ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: угол."
+    "example": "Die Apotheke ist gleich um die Ecke.",
+    "exampleTranslation": "Аптека находится прямо за углом."
   },
   {
     "id": "base-616",
@@ -7799,8 +7799,8 @@ export const baseWords: Word[] = [
     "translation": "надевать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute anziehen.",
-    "exampleTranslation": "Сегодня мы хотим: надевать."
+    "example": "Zieh bitte eine warme Jacke an.",
+    "exampleTranslation": "Надень, пожалуйста, тёплую куртку."
   },
   {
     "id": "base-617",
@@ -7811,8 +7811,8 @@ export const baseWords: Word[] = [
     "translation": "петь",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute singen.",
-    "exampleTranslation": "Сегодня мы хотим: петь."
+    "example": "Die Kinder singen ein deutsches Lied.",
+    "exampleTranslation": "Дети поют немецкую песню."
   },
   {
     "id": "base-618",
@@ -7825,8 +7825,8 @@ export const baseWords: Word[] = [
     "translation": "отель",
     "level": "B1",
     "category": "Путешествия",
-    "example": "Das Hotel ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: отель."
+    "example": "Unser Hotel liegt direkt am Bahnhof.",
+    "exampleTranslation": "Наш отель находится прямо у вокзала."
   },
   {
     "id": "base-619",
@@ -7839,8 +7839,8 @@ export const baseWords: Word[] = [
     "translation": "информация",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Information ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: информация."
+    "example": "Diese Information finden Sie auf unserer Website.",
+    "exampleTranslation": "Эту информацию Вы найдёте на нашем сайте."
   },
   {
     "id": "base-620",
@@ -7853,8 +7853,8 @@ export const baseWords: Word[] = [
     "translation": "стена",
     "level": "B1",
     "category": "Дом",
-    "example": "Die Wand ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: стена."
+    "example": "Über dem Sofa hängt ein Bild an der Wand.",
+    "exampleTranslation": "Над диваном на стене висит картина."
   },
   {
     "id": "base-621",
@@ -7865,8 +7865,8 @@ export const baseWords: Word[] = [
     "translation": "наслаждаться",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute genießen.",
-    "exampleTranslation": "Сегодня мы хотим: наслаждаться."
+    "example": "Wir genießen den ruhigen Abend auf dem Balkon.",
+    "exampleTranslation": "Мы наслаждаемся спокойным вечером на балконе."
   },
   {
     "id": "base-622",
@@ -7877,8 +7877,8 @@ export const baseWords: Word[] = [
     "translation": "решать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute lösen.",
-    "exampleTranslation": "Сегодня мы хотим: решать."
+    "example": "Gemeinsam können wir das Problem lösen.",
+    "exampleTranslation": "Вместе мы можем решить проблему."
   },
   {
     "id": "base-623",
@@ -7889,8 +7889,8 @@ export const baseWords: Word[] = [
     "translation": "типичный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich typisch.",
-    "exampleTranslation": "Это действительно типичный."
+    "example": "Das ist typisch für diese Region.",
+    "exampleTranslation": "Это типично для этого региона."
   },
   {
     "id": "base-624",
@@ -7903,8 +7903,8 @@ export const baseWords: Word[] = [
     "translation": "цветок",
     "level": "B1",
     "category": "Природа",
-    "example": "Die Blume ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: цветок."
+    "example": "Auf dem Tisch steht eine rote Blume.",
+    "exampleTranslation": "На столе стоит красный цветок."
   },
   {
     "id": "base-625",
@@ -7915,8 +7915,8 @@ export const baseWords: Word[] = [
     "translation": "когда",
     "level": "B1",
     "category": "Основы",
-    "example": "„wann“ hört man oft im Alltag.",
-    "exampleTranslation": "«wann» часто можно услышать в повседневной речи."
+    "example": "Wann beginnt dein neuer Kurs?",
+    "exampleTranslation": "Когда начинается твой новый курс?"
   },
   {
     "id": "base-626",
@@ -7927,8 +7927,8 @@ export const baseWords: Word[] = [
     "translation": "следить, обращать внимание",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute achten.",
-    "exampleTranslation": "Сегодня мы хотим: следить, обращать внимание."
+    "example": "Achten Sie bitte auf Ihre Tasche.",
+    "exampleTranslation": "Пожалуйста, следите за своей сумкой."
   },
   {
     "id": "base-627",
@@ -7939,8 +7939,8 @@ export const baseWords: Word[] = [
     "translation": "где-то",
     "level": "B1",
     "category": "Основы",
-    "example": "„irgendwo“ hört man oft im Alltag.",
-    "exampleTranslation": "«irgendwo» часто можно услышать в повседневной речи."
+    "example": "Ich habe meine Brille irgendwo liegen lassen.",
+    "exampleTranslation": "Я где-то оставил свои очки."
   },
   {
     "id": "base-628",
@@ -7953,8 +7953,8 @@ export const baseWords: Word[] = [
     "translation": "перерыв, пауза",
     "level": "B1",
     "category": "Время",
-    "example": "Die Pause ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: перерыв, пауза."
+    "example": "Nach zwei Stunden machen wir eine Pause.",
+    "exampleTranslation": "Через два часа мы сделаем перерыв."
   },
   {
     "id": "base-629",
@@ -7967,8 +7967,8 @@ export const baseWords: Word[] = [
     "translation": "супермаркет",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Supermarkt ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: супермаркет."
+    "example": "Der Supermarkt ist bis 22 Uhr geöffnet.",
+    "exampleTranslation": "Супермаркет открыт до 22 часов."
   },
   {
     "id": "base-630",
@@ -7981,8 +7981,8 @@ export const baseWords: Word[] = [
     "translation": "альтернатива",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Alternative ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: альтернатива."
+    "example": "Gibt es eine günstigere Alternative?",
+    "exampleTranslation": "Есть более дешёвая альтернатива?"
   },
   {
     "id": "base-631",
@@ -7995,8 +7995,8 @@ export const baseWords: Word[] = [
     "translation": "представление, понятие",
     "level": "B1",
     "category": "Основы",
-    "example": "Die Ahnung ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: представление, понятие."
+    "example": "Ich habe keine Ahnung, wo er ist.",
+    "exampleTranslation": "Я понятия не имею, где он."
   },
   {
     "id": "base-632",
@@ -8007,8 +8007,8 @@ export const baseWords: Word[] = [
     "translation": "относительный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich relativ.",
-    "exampleTranslation": "Это действительно относительный."
+    "example": "Die Prüfung war relativ einfach.",
+    "exampleTranslation": "Экзамен был относительно простым."
   },
   {
     "id": "base-633",
@@ -8019,8 +8019,8 @@ export const baseWords: Word[] = [
     "translation": "опасный",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich gefährlich.",
-    "exampleTranslation": "Это действительно опасный."
+    "example": "Bei Eis kann die Straße gefährlich sein.",
+    "exampleTranslation": "При гололёде дорога может быть опасной."
   },
   {
     "id": "base-634",
@@ -8033,8 +8033,8 @@ export const baseWords: Word[] = [
     "translation": "смысл",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Sinn ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: смысл."
+    "example": "Diese Regel ergibt für mich Sinn.",
+    "exampleTranslation": "Для меня в этом правиле есть смысл."
   },
   {
     "id": "base-635",
@@ -8045,8 +8045,8 @@ export const baseWords: Word[] = [
     "translation": "мёртвый",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich tot.",
-    "exampleTranslation": "Это действительно мёртвый."
+    "example": "Die Batterie ist vollständig leer und das Handy ist tot.",
+    "exampleTranslation": "Батарея полностью разряжена, и телефон не работает."
   },
   {
     "id": "base-636",
@@ -8057,8 +8057,8 @@ export const baseWords: Word[] = [
     "translation": "отвечать (на что-л.)",
     "level": "B1",
     "category": "Путешествия",
-    "example": "Wir wollen heute beantworten.",
-    "exampleTranslation": "Сегодня мы хотим: отвечать (на что-л.)."
+    "example": "Bitte beantworten Sie alle Fragen.",
+    "exampleTranslation": "Пожалуйста, ответьте на все вопросы."
   },
   {
     "id": "base-637",
@@ -8070,8 +8070,8 @@ export const baseWords: Word[] = [
     "translation": "повседневная жизнь, будни",
     "level": "B1",
     "category": "Время",
-    "example": "Der Alltag ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: повседневная жизнь, будни."
+    "example": "Im Alltag spreche ich noch zu wenig Deutsch.",
+    "exampleTranslation": "В повседневной жизни я пока слишком мало говорю по-немецки."
   },
   {
     "id": "base-638",
@@ -8082,8 +8082,8 @@ export const baseWords: Word[] = [
     "translation": "постоянно",
     "level": "B1",
     "category": "Основы",
-    "example": "Das ist wirklich ständig.",
-    "exampleTranslation": "Это действительно постоянно."
+    "example": "Mein Nachbar hört ständig laute Musik.",
+    "exampleTranslation": "Мой сосед постоянно слушает громкую музыку."
   },
   {
     "id": "base-639",
@@ -8094,8 +8094,8 @@ export const baseWords: Word[] = [
     "translation": "думать, размышлять",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute nachdenken.",
-    "exampleTranslation": "Сегодня мы хотим: думать, размышлять."
+    "example": "Ich muss noch über das Angebot nachdenken.",
+    "exampleTranslation": "Мне нужно ещё обдумать это предложение."
   },
   {
     "id": "base-640",
@@ -8106,8 +8106,8 @@ export const baseWords: Word[] = [
     "translation": "теперь (уже), тем временем",
     "level": "B1",
     "category": "Еда",
-    "example": "„mittlerweile“ hört man oft im Alltag.",
-    "exampleTranslation": "«mittlerweile» часто можно услышать в повседневной речи."
+    "example": "Mittlerweile fühle ich mich hier zu Hause.",
+    "exampleTranslation": "Теперь я уже чувствую себя здесь как дома."
   },
   {
     "id": "base-641",
@@ -8120,8 +8120,8 @@ export const baseWords: Word[] = [
     "translation": "евро",
     "level": "B1",
     "category": "Основы",
-    "example": "Der Euro ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: евро."
+    "example": "Der Kaffee kostet drei Euro.",
+    "exampleTranslation": "Кофе стоит три евро."
   },
   {
     "id": "base-642",
@@ -8134,8 +8134,8 @@ export const baseWords: Word[] = [
     "translation": "смерть",
     "level": "B1",
     "category": "Здоровье",
-    "example": "Der Tod ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: смерть."
+    "example": "Der Tod des Autors wird im Buch nur kurz erwähnt.",
+    "exampleTranslation": "Смерть автора лишь кратко упоминается в книге."
   },
   {
     "id": "base-643",
@@ -8160,8 +8160,8 @@ export const baseWords: Word[] = [
     "translation": "ветер",
     "level": "B1",
     "category": "Природа",
-    "example": "Der Wind ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: ветер."
+    "example": "Heute kommt der Wind aus dem Norden.",
+    "exampleTranslation": "Сегодня ветер дует с севера."
   },
   {
     "id": "base-645",
@@ -8174,8 +8174,8 @@ export const baseWords: Word[] = [
     "translation": "подруга; девушка (возлюбленная)",
     "level": "B1",
     "category": "Люди",
-    "example": "Die Freundin ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: подруга; девушка (возлюбленная)."
+    "example": "Meine Freundin lernt auch Deutsch.",
+    "exampleTranslation": "Моя подруга тоже учит немецкий."
   },
   {
     "id": "base-646",
@@ -8186,8 +8186,8 @@ export const baseWords: Word[] = [
     "translation": "нажимать",
     "level": "B1",
     "category": "Основы",
-    "example": "Wir wollen heute drücken.",
-    "exampleTranslation": "Сегодня мы хотим: нажимать."
+    "example": "Drücken Sie bitte die grüne Taste.",
+    "exampleTranslation": "Нажмите, пожалуйста, зелёную кнопку."
   },
   {
     "id": "base-647",
@@ -8213,8 +8213,8 @@ export const baseWords: Word[] = [
     "translation": "стул",
     "level": "B1",
     "category": "Дом",
-    "example": "Der Stuhl ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: стул."
+    "example": "Neben dem Fenster steht ein bequemer Stuhl.",
+    "exampleTranslation": "Рядом с окном стоит удобный стул."
   },
   {
     "id": "base-649",
@@ -8227,8 +8227,8 @@ export const baseWords: Word[] = [
     "translation": "профессия",
     "level": "B1",
     "category": "Работа",
-    "example": "Der Beruf ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: профессия."
+    "example": "Was sind Sie von Beruf?",
+    "exampleTranslation": "Кто Вы по профессии?"
   },
   {
     "id": "base-650",
@@ -8241,7 +8241,7 @@ export const baseWords: Word[] = [
     "translation": "магазин",
     "level": "B1",
     "category": "Работа",
-    "example": "Das Geschäft ist heute wichtig.",
-    "exampleTranslation": "Сегодня важно: магазин."
+    "example": "Das Geschäft öffnet um zehn Uhr.",
+    "exampleTranslation": "Магазин открывается в десять часов."
   }
 ]

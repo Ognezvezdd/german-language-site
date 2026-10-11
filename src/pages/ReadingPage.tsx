@@ -21,8 +21,8 @@ function glossaryWord(text: ReadingText, word: string, translation: string): Wor
     translation,
     level: text.level,
     category: 'Из чтения',
-    example: text.text.find((paragraph) => paragraph.toLocaleLowerCase('de').includes(lemma.toLocaleLowerCase('de'))) ?? `„${lemma}“ ist ein nützliches Wort.`,
-    exampleTranslation: `Слово из текста «${text.title}».`,
+    example: text.text.find((paragraph) => paragraph.toLocaleLowerCase('de').includes(lemma.toLocaleLowerCase('de'))) ?? text.text[0],
+    exampleTranslation: `Контекст из текста «${text.title}». Значение: ${translation}.`,
     custom: true,
   }
 }
