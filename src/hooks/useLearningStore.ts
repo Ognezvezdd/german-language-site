@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import type { Models } from 'appwrite'
 import type { LearningState, Word } from '../types'
 import { baseWords } from '../data/words.generated'
-import { appwriteConfigured, getCurrentUser, loadCloudState, loadSharedWords, saveCloudState } from '../lib/appwrite'
+import { appwriteConfigured, getCurrentUser, loadCloudState, loadSharedWords, publishSharedWords, saveCloudState } from '../lib/appwrite'
 import { loadLocalState, localDateKey, saveLocalState } from '../lib/storage'
 
 export function useLearningStore() {
@@ -85,6 +85,29 @@ export function useLearningStore() {
     }
   }, [state, user])
 
+  const publishWords = useCallback(async (nextWords: Word[]) => {
+    if (!user || !nextWords.length) return 0
+    setCloudStatus('loading')
+    try {
+      await publishSharedWords(user.$id, nextWords)
+      setSharedWords((current) => {
+        const merged = new Map(current.map((word) => [word.id, word]))
+        nextWords.forEach((word) => merged.set(word.id, word))
+        return [...merged.values()]
+      })
+      setCloudStatus('synced')
+      return nextWords.length
+    } catch (error) {
+      setCloudStatus('error')
+      throw error
+    }
+  }, [user])
+
+  const pendingSharedWords = useMemo(() => {
+    const sharedIds = new Set(sharedWords.map((word) => word.id))
+    return state.customWords.filter((word) => word.category === 'Мои слова' && !sharedIds.has(word.id))
+  }, [sharedWords, state.customWords])
+
   return {
     state,
     setState,
@@ -95,6 +118,8 @@ export function useLearningStore() {
     markActive,
     refreshUser,
     syncNow,
+    publishWords,
+    pendingSharedWords,
     appwriteConfigured,
   }
 }

@@ -2,7 +2,6 @@ import { useMemo, useState } from 'react'
 import { BookPlus, Check, ChevronRight, Download, Search, SlidersHorizontal, Speaker, Upload, X } from 'lucide-react'
 import type { LearningStore } from '../hooks/useLearningStore'
 import type { Level, PageId, Word } from '../types'
-import { publishSharedWords } from '../lib/appwrite'
 import { Badge, Button, Card, Chip, EmptyState, Field, Modal, PageHeader, inputClass, textareaClass } from '../components/ui'
 
 const parts = ['все', 'сущ.', 'глаг.', 'прил.', 'нареч.']
@@ -56,7 +55,7 @@ function WordTitle({ word, size = 'normal' }: { word: Word; size?: 'normal' | 'l
 }
 
 export function DictionaryPage({ store, navigate }: { store: LearningStore; navigate: (page: PageId) => void }) {
-  const { words, state, setState, user, appwriteConfigured } = store
+  const { words, state, setState, user, cloudStatus, publishWords, pendingSharedWords, appwriteConfigured } = store
   const [search, setSearch] = useState('')
   const [level, setLevel] = useState<'все' | Level>('все')
   const [part, setPart] = useState('все')
@@ -69,6 +68,7 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
   const [notice, setNotice] = useState('')
   const [importText, setImportText] = useState('')
   const [importError, setImportError] = useState('')
+  const [publishing, setPublishing] = useState(false)
   const [manual, setManual] = useState({ raw: '', translation: '', part: 'сущ.', level: 'A1', example: '', exampleTranslation: '', forms: '' })
 
   const filtered = useMemo(() => {
@@ -86,19 +86,34 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
     if (!nextWords.length) return
     const skippedText = skipped > 0 ? ` Строк пропущено без полного примера: ${skipped}.` : ''
     setState((current) => ({ ...current, customWords: [...nextWords, ...current.customWords] }))
+    setPublishing(true)
     if (user && appwriteConfigured) {
       try {
-        await publishSharedWords(user.$id, nextWords)
+        await publishWords(nextWords)
         setNotice(`Добавлено ${nextWords.length}. Слова опубликованы в общей базе.${skippedText}`)
       } catch {
-        setNotice(`Добавлено ${nextWords.length} локально. Публикация в Appwrite не удалась.${skippedText}`)
+        setNotice(`Добавлено ${nextWords.length}. Слова сохранены в аккаунте; общую публикацию можно повторить ниже.${skippedText}`)
       }
     } else {
       setNotice(`Добавлено ${nextWords.length} локально. Войдите в аккаунт, чтобы опубликовать их для всех.${skippedText}`)
     }
+    setPublishing(false)
     setAddOpen(false)
     setImportText('')
     setImportError('')
+  }
+
+  async function handlePublishPending() {
+    if (!pendingSharedWords.length) return
+    setPublishing(true)
+    try {
+      const published = await publishWords(pendingSharedWords)
+      setNotice(`Опубликовано ${published} ранее сохранённых слов.`)
+    } catch {
+      setNotice('Слова остаются сохранёнными в аккаунте. Appwrite пока не принял публикацию — попробуйте ещё раз чуть позже.')
+    } finally {
+      setPublishing(false)
+    }
   }
 
   function handleImport() {
@@ -125,6 +140,8 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
       <PageHeader eyebrow="650 частотных слов" title="Словарь" description={`${words.length} слов · ${studiedCount} в повторении · реальные примеры A1–B1`} action={<Button onClick={() => setAddOpen(true)} className="px-3.5 sm:px-4"><BookPlus size={18} /><span className="hidden sm:inline">Добавить</span></Button>} />
 
       {notice && <div className="mb-4 flex items-start gap-3 rounded-2xl border border-sage/60 bg-sage/20 px-4 py-3 text-sm text-ink"><Check size={18} className="mt-0.5 shrink-0" /><span className="flex-1 leading-5">{notice}</span><button onClick={() => setNotice('')}><X size={17} /></button></div>}
+
+      {user && cloudStatus !== 'loading' && pendingSharedWords.length > 0 && <div className="mb-4 flex flex-col gap-3 rounded-2xl border border-accent/35 bg-accent/10 px-4 py-3 sm:flex-row sm:items-center"><div className="flex-1"><p className="text-sm font-bold text-ink">Не опубликовано слов: {pendingSharedWords.length}</p><p className="mt-1 text-xs leading-5 text-muted">Они уже сохранены в вашем аккаунте. Можно безопасно повторить публикацию в общую базу.</p></div><Button className="shrink-0" disabled={publishing} onClick={handlePublishPending}>{publishing ? 'Публикуем…' : 'Опубликовать'}</Button></div>}
 
       <Card className="mb-5 p-3 sm:p-4">
         <div className="relative"><Search className="absolute left-3.5 top-1/2 -translate-y-1/2 text-muted" size={19} /><input value={search} onChange={(event) => { setSearch(event.target.value); setLimit(60) }} className={`${inputClass} pl-11`} placeholder="Найти слово или перевод…" /></div>
@@ -170,7 +187,7 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
           <div className="rounded-2xl bg-paper p-4 text-xs leading-6 text-muted"><p className="font-semibold text-ink">Одна строка — одно слово. Поля разделяйте символом |</p><code className="mt-2 block overflow-x-auto whitespace-nowrap text-[11px]">die Zeit, -en | время | сущ. | A1 | Hast du jetzt Zeit? | У тебя сейчас есть время? |</code><p className="mt-2">Обязательны слово, перевод, живой пример и перевод примера. Артикль и форма множественного числа указываются в первом поле.</p></div>
           <Field label="Список слов"><textarea value={importText} onChange={(event) => { setImportText(event.target.value); setImportError('') }} className={`${textareaClass} min-h-52 font-mono text-xs`} placeholder={'der Termin, -e | приём, назначенная встреча | сущ. | A2 | Ich habe morgen einen Termin. | Завтра у меня назначена встреча.\nbezahlen | оплачивать | глаг. | A1 | Kann ich mit Karte bezahlen? | Можно оплатить картой?'} /></Field>
           {importError && <p className="rounded-xl bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950/35 dark:text-red-300">{importError}</p>}
-          <div className="flex flex-col-reverse gap-2 sm:flex-row sm:justify-end"><Button variant="secondary" onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={!importText.trim()} onClick={handleImport}><Download size={17} />Импортировать</Button></div>
+          <div className="flex flex-col-reverse gap-2 sm:flex-row sm:justify-end"><Button variant="secondary" disabled={publishing} onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={!importText.trim() || publishing} onClick={handleImport}><Download size={17} />{publishing ? 'Публикуем…' : 'Импортировать'}</Button></div>
         </div> : <div className="grid gap-4 sm:grid-cols-2">
           <Field label="Слово" hint="Для существительного: die Zeit, -en"><input className={inputClass} value={manual.raw} onChange={(event) => setManual({ ...manual, raw: event.target.value })} placeholder="die Zeit, -en" /></Field>
           <Field label="Перевод"><input className={inputClass} value={manual.translation} onChange={(event) => setManual({ ...manual, translation: event.target.value })} placeholder="время" /></Field>
@@ -179,7 +196,7 @@ export function DictionaryPage({ store, navigate }: { store: LearningStore; navi
           <Field label="Пример"><input className={inputClass} value={manual.example} onChange={(event) => setManual({ ...manual, example: event.target.value })} placeholder="Hast du jetzt Zeit?" /></Field>
           <Field label="Перевод примера"><input className={inputClass} value={manual.exampleTranslation} onChange={(event) => setManual({ ...manual, exampleTranslation: event.target.value })} placeholder="У тебя сейчас есть время?" /></Field>
           <div className="sm:col-span-2"><Field label="Формы (необязательно)" hint="Например: fahren · fuhr · ist gefahren"><input className={inputClass} value={manual.forms} onChange={(event) => setManual({ ...manual, forms: event.target.value })} /></Field></div>
-          <div className="flex flex-col-reverse gap-2 pt-2 sm:col-span-2 sm:flex-row sm:justify-end"><Button variant="secondary" onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={!manual.raw.trim() || !manual.translation.trim() || !manual.example.trim() || !manual.exampleTranslation.trim()} onClick={handleManual}>Добавить слово</Button></div>
+          <div className="flex flex-col-reverse gap-2 pt-2 sm:col-span-2 sm:flex-row sm:justify-end"><Button variant="secondary" disabled={publishing} onClick={() => setAddOpen(false)}>Отмена</Button><Button disabled={publishing || !manual.raw.trim() || !manual.translation.trim() || !manual.example.trim() || !manual.exampleTranslation.trim()} onClick={handleManual}>{publishing ? 'Публикуем…' : 'Добавить слово'}</Button></div>
         </div>}
       </Modal>
     </div>
